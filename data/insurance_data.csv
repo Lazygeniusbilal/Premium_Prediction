@@ -1,0 +1,2001 @@
+Age,Gender,Marital Status,Occupation,Vehicle Age,Vehicle,Property Value,Zip Code,Claim History,Coverage Type,Premium
+56,Male,Widowed,Engineer,17,Ford F-150,645707,BD1 3EB,No,Liability-only,1294
+46,Male,Divorced,Sales Associate,8,Ford F-150,305223,E1 6AN,No,Collision,7097
+32,Male,Divorced,Engineer,11,Hyundai Elantra,674324,SW1A 1AA,Yes,Comprehensive,7412
+60,Male,Widowed,Student,6,Toyota Camry,506092,E1 6AN,Yes,Collision,9836
+25,Female,Single,Nurse,8,Audi Q5,641513,CV1 2WT,Yes,Collision,7678
+38,Female,Widowed,Nurse,10,Toyota Corolla,230738,M1 1AA,No,Liability-only,6020
+56,Male,Widowed,Student,3,BMW X5,485740,E1 6AN,No,Liability-only,6743
+36,Male,Divorced,Driver,14,Audi Q5,280613,PE1 1HA,No,Collision,1110
+40,Male,Widowed,Student,14,Ford F-150,223601,CW1 2BB,Yes,Liability-only,9775
+28,Male,Divorced,Sales Associate,10,Buick Encore,179873,M1 1AA,Yes,Collision,5864
+28,Male,Divorced,Teacher,12,Audi Q5,221468,AL1 3NJ,Yes,Collision,2648
+41,Female,Married,Nurse,6,Audi Q5,158328,CV1 2WT,Yes,Comprehensive,7381
+53,Female,Widowed,Small Business Owner,12,Audi Q5,287405,SW1A 1AA,Yes,Collision,3381
+57,Female,Single,Sales Associate,14,Audi Q5,271173,SE1 8DP,Yes,Collision,1105
+41,Female,Married,Sales Associate,2,Audi Q5,196638,CV1 2WT,No,Liability-only,6818
+20,Male,Divorced,Sales Associate,9,Ford F-150,351675,MK9 1AN,No,Comprehensive,1381
+39,Male,Divorced,IT Professional,10,Toyota Camry,263920,CW1 2BB,No,Liability-only,5356
+19,Male,Single,Sales Associate,17,Nissan Altima,560261,M1 1AA,Yes,Comprehensive,6918
+41,Male,Divorced,Nurse,17,Audi Q5,585986,SE1 8DP,No,Liability-only,2316
+61,Male,Widowed,Teacher,3,Audi Q5,157887,OL4 1ES,No,Collision,6454
+47,Female,Married,Teacher,19,Honda Accord,174918,BS2 8JD,No,Comprehensive,5074
+55,Male,Divorced,Sales Associate,1,Toyota Camry,505706,CV1 2WT,Yes,Comprehensive,5804
+19,Female,Divorced,Engineer,12,Nissan Altima,424073,SE1 8DP,Yes,Comprehensive,1906
+38,Female,Single,Nurse,7,BMW X5,656508,BD1 3EB,No,Comprehensive,8621
+50,Female,Widowed,Nurse,4,BMW X5,670337,TQ2 5HB,Yes,Liability-only,1662
+29,Female,Divorced,Retired,10,Buick Encore,528710,MK9 1AN,Yes,Liability-only,7718
+39,Male,Single,Lawyer,13,Tesla Model S,440690,TQ2 5HB,Yes,Comprehensive,9654
+61,Female,Divorced,Driver,2,Toyota Corolla,359496,SE1 8DP,Yes,Comprehensive,1942
+42,Female,Single,Driver,10,Honda Accord,577499,MK9 1AN,No,Comprehensive,9349
+44,Female,Single,Engineer,4,Toyota Camry,621386,BS2 8JD,Yes,Liability-only,7415
+59,Male,Widowed,Driver,18,Toyota Camry,458710,MK9 1AN,No,Comprehensive,4309
+45,Male,Divorced,Retired,5,Tesla Model S,497608,CW1 2BB,No,Comprehensive,2326
+33,Male,Widowed,Student,19,Buick Encore,278279,M1 1AA,Yes,Comprehensive,3106
+32,Female,Single,Driver,2,Hyundai Elantra,231991,OL4 1ES,Yes,Liability-only,5799
+64,Female,Married,Nurse,12,Ford F-150,504824,MK9 1AN,Yes,Collision,9839
+61,Male,Divorced,Student,17,Buick Encore,440157,BD1 3EB,No,Collision,3938
+20,Female,Married,Driver,10,Nissan Altima,202132,SE1 8DP,No,Liability-only,3483
+54,Male,Divorced,Nurse,2,Buick Encore,405069,PE1 1HA,No,Collision,2375
+24,Male,Widowed,Nurse,6,Tesla Model S,635714,E1 6AN,No,Comprehensive,8856
+38,Female,Widowed,Sales Associate,8,Tesla Model S,241627,CW1 2BB,No,Comprehensive,1244
+26,Female,Widowed,Teacher,19,Toyota Corolla,272772,CV1 2WT,No,Liability-only,3348
+56,Female,Widowed,Engineer,11,Honda Accord,379415,MK9 1AN,No,Liability-only,1479
+35,Female,Widowed,Retired,12,Audi Q5,663277,MK9 1AN,Yes,Collision,2935
+21,Male,Married,IT Professional,9,BMW X5,409013,CV1 2WT,No,Collision,6757
+42,Male,Widowed,Lawyer,2,Tesla Model S,567165,BS2 8JD,No,Comprehensive,1087
+31,Male,Single,Driver,8,Toyota Corolla,166116,CW1 2BB,No,Liability-only,9764
+26,Male,Single,Driver,11,Ford F-150,383982,MK9 1AN,No,Collision,1178
+43,Male,Married,Student,4,BMW X5,355383,BD1 3EB,Yes,Collision,1162
+19,Female,Divorced,Student,10,Hyundai Elantra,441799,AL1 3NJ,No,Comprehensive,3640
+37,Male,Single,Lawyer,16,Toyota Camry,338874,OL4 1ES,No,Comprehensive,3348
+45,Male,Divorced,Driver,8,Ford F-150,361284,SW1A 1AA,Yes,Comprehensive,3421
+64,Male,Married,Small Business Owner,4,Hyundai Elantra,586441,BD1 3EB,Yes,Comprehensive,5298
+24,Female,Divorced,Retired,10,BMW X5,341082,MK9 1AN,No,Collision,5142
+61,Female,Divorced,Driver,12,Ford F-150,363807,OL4 1ES,No,Liability-only,5503
+25,Female,Divorced,Teacher,14,Toyota Corolla,346523,DN1 1QR,No,Liability-only,2217
+64,Female,Divorced,Lawyer,16,Hyundai Elantra,623818,M1 1AA,No,Comprehensive,3474
+52,Male,Married,Small Business Owner,18,Toyota Camry,431039,M1 1AA,No,Comprehensive,1929
+31,Male,Single,Retired,12,Audi Q5,385892,CW1 2BB,No,Collision,8958
+34,Female,Widowed,Driver,18,Toyota Corolla,392718,CW1 2BB,Yes,Comprehensive,9508
+53,Female,Divorced,IT Professional,7,Nissan Altima,697374,CV1 2WT,Yes,Liability-only,2502
+57,Male,Single,Sales Associate,7,Toyota Camry,235637,SW1A 1AA,No,Comprehensive,1420
+21,Male,Single,Teacher,9,Honda Accord,625243,SW1A 1AA,No,Liability-only,6830
+19,Female,Married,IT Professional,1,Buick Encore,519478,E1 6AN,No,Comprehensive,5358
+23,Female,Single,Student,6,Honda Accord,245028,BS2 8JD,Yes,Comprehensive,2449
+59,Female,Married,Student,6,Tesla Model S,412399,DN1 1QR,No,Liability-only,6811
+21,Female,Divorced,Driver,12,Audi Q5,665152,MK9 1AN,Yes,Collision,9619
+46,Male,Divorced,Student,12,Nissan Altima,357627,DN1 1QR,Yes,Collision,8871
+35,Male,Widowed,Teacher,10,Nissan Altima,689775,E1 6AN,No,Comprehensive,9588
+43,Male,Widowed,Retired,6,Buick Encore,650549,MK9 1AN,Yes,Comprehensive,9987
+61,Female,Widowed,Nurse,17,Hyundai Elantra,693634,BD1 3EB,No,Liability-only,1106
+51,Female,Single,Engineer,19,Buick Encore,420888,CV1 2WT,Yes,Liability-only,5049
+27,Male,Divorced,Lawyer,18,Tesla Model S,567972,OL4 1ES,No,Comprehensive,9289
+53,Male,Married,Retired,6,Honda Accord,211596,AL1 3NJ,No,Liability-only,2903
+31,Male,Widowed,Nurse,19,Nissan Altima,531784,SW1A 1AA,Yes,Collision,8649
+48,Male,Married,Small Business Owner,10,Honda Accord,327175,SE1 8DP,Yes,Collision,4570
+32,Female,Married,Teacher,8,Toyota Camry,303048,DN1 1QR,Yes,Liability-only,6376
+25,Male,Widowed,IT Professional,6,Audi Q5,543807,PE1 1HA,No,Liability-only,1042
+31,Male,Divorced,Nurse,7,Ford F-150,156277,MK9 1AN,Yes,Liability-only,7385
+40,Male,Widowed,Teacher,1,Tesla Model S,283332,DN1 1QR,Yes,Collision,2577
+57,Male,Married,Sales Associate,18,Ford F-150,390515,SW1A 1AA,No,Comprehensive,7065
+38,Male,Widowed,IT Professional,12,Tesla Model S,436885,M1 1AA,No,Liability-only,6885
+33,Male,Married,Student,16,BMW X5,531864,E1 6AN,Yes,Liability-only,9576
+62,Male,Married,Student,10,Audi Q5,449355,BS2 8JD,Yes,Liability-only,4577
+35,Female,Widowed,IT Professional,10,Toyota Camry,584758,AL1 3NJ,Yes,Comprehensive,4238
+64,Female,Single,Small Business Owner,14,Audi Q5,419013,AL1 3NJ,No,Liability-only,6244
+41,Female,Widowed,Small Business Owner,10,Hyundai Elantra,636834,M1 1AA,No,Liability-only,3134
+43,Female,Single,Small Business Owner,10,Tesla Model S,499760,PE1 1HA,Yes,Collision,4892
+42,Male,Married,Nurse,11,Ford F-150,244515,CW1 2BB,No,Liability-only,5321
+62,Female,Married,Lawyer,2,Tesla Model S,300494,SW1A 1AA,Yes,Collision,6776
+58,Female,Single,Nurse,8,Hyundai Elantra,338088,MK9 1AN,Yes,Comprehensive,6828
+46,Male,Married,Driver,7,Tesla Model S,369601,AL1 3NJ,No,Liability-only,4815
+32,Male,Single,Engineer,8,Audi Q5,446177,BD1 3EB,Yes,Liability-only,1295
+62,Female,Single,IT Professional,1,Toyota Corolla,410705,BD1 3EB,Yes,Collision,1413
+18,Female,Married,Retired,2,Tesla Model S,605209,CW1 2BB,No,Comprehensive,6956
+42,Male,Divorced,Engineer,18,BMW X5,162938,OL4 1ES,Yes,Comprehensive,7278
+24,Female,Single,Sales Associate,15,BMW X5,280842,CV1 2WT,Yes,Collision,7668
+26,Male,Widowed,Nurse,1,Nissan Altima,414418,CW1 2BB,No,Comprehensive,9195
+41,Male,Widowed,Nurse,5,BMW X5,575031,DN1 1QR,Yes,Comprehensive,1177
+18,Male,Married,Teacher,2,Tesla Model S,619234,PE1 1HA,Yes,Comprehensive,9937
+61,Male,Divorced,Engineer,3,Tesla Model S,300033,BD1 3EB,No,Comprehensive,5354
+25,Female,Married,Teacher,19,Toyota Corolla,170044,DN1 1QR,No,Comprehensive,9843
+41,Male,Divorced,Retired,18,BMW X5,249372,AL1 3NJ,No,Comprehensive,6914
+28,Male,Single,Teacher,18,Honda Accord,426850,BD1 3EB,Yes,Comprehensive,6482
+34,Female,Single,Engineer,14,Tesla Model S,287046,SE1 8DP,No,Comprehensive,4271
+25,Male,Single,IT Professional,8,Toyota Camry,488608,CV1 2WT,Yes,Liability-only,7687
+52,Female,Single,Sales Associate,12,Toyota Camry,695501,TQ2 5HB,No,Collision,6392
+52,Female,Widowed,Nurse,10,Ford F-150,676238,BS2 8JD,Yes,Comprehensive,1289
+50,Female,Widowed,Retired,17,Toyota Corolla,404043,TQ2 5HB,Yes,Collision,9994
+22,Male,Married,Nurse,11,Hyundai Elantra,474888,SW1A 1AA,No,Comprehensive,9425
+59,Female,Divorced,Driver,2,Honda Accord,613026,SE1 8DP,Yes,Comprehensive,1407
+56,Female,Single,Sales Associate,4,Tesla Model S,398966,SW1A 1AA,Yes,Liability-only,1693
+58,Male,Single,Lawyer,1,Audi Q5,595292,OL4 1ES,No,Collision,2169
+45,Female,Divorced,Teacher,15,Buick Encore,288117,M1 1AA,Yes,Collision,9623
+24,Female,Divorced,Student,13,Buick Encore,469767,MK9 1AN,Yes,Liability-only,8782
+26,Female,Married,Engineer,8,Hyundai Elantra,179714,SE1 8DP,Yes,Liability-only,4044
+25,Female,Divorced,Nurse,4,Nissan Altima,521427,OL4 1ES,No,Collision,6530
+29,Female,Single,Teacher,10,Audi Q5,420706,MK9 1AN,No,Comprehensive,5992
+51,Male,Single,Retired,19,Buick Encore,467192,OL4 1ES,No,Comprehensive,4924
+50,Female,Single,Nurse,18,Hyundai Elantra,505439,SW1A 1AA,No,Collision,7970
+40,Female,Single,Lawyer,5,Buick Encore,162026,BS2 8JD,No,Comprehensive,4312
+41,Male,Single,Sales Associate,19,Toyota Corolla,256147,M1 1AA,No,Liability-only,5318
+54,Male,Married,Sales Associate,16,Ford F-150,438988,E1 6AN,No,Liability-only,2688
+52,Male,Single,Nurse,1,Nissan Altima,502559,DN1 1QR,No,Liability-only,1467
+61,Female,Married,Retired,12,Toyota Corolla,358574,CW1 2BB,Yes,Collision,3422
+57,Male,Single,Sales Associate,2,Audi Q5,364340,AL1 3NJ,Yes,Collision,8279
+39,Female,Widowed,Sales Associate,8,Hyundai Elantra,204708,PE1 1HA,Yes,Collision,5507
+44,Female,Widowed,Lawyer,18,Honda Accord,607141,PE1 1HA,Yes,Comprehensive,5721
+52,Male,Widowed,Engineer,16,Audi Q5,497692,DN1 1QR,No,Collision,6371
+18,Male,Widowed,Retired,5,Audi Q5,562028,TQ2 5HB,Yes,Collision,8541
+52,Female,Married,Retired,13,BMW X5,382409,TQ2 5HB,Yes,Liability-only,2486
+54,Male,Married,IT Professional,19,Honda Accord,404451,DN1 1QR,Yes,Comprehensive,4749
+64,Female,Divorced,IT Professional,3,Toyota Camry,397174,SW1A 1AA,Yes,Comprehensive,9059
+31,Male,Single,Sales Associate,8,BMW X5,589844,PE1 1HA,Yes,Liability-only,3503
+20,Male,Widowed,Student,12,Hyundai Elantra,369700,E1 6AN,No,Comprehensive,8855
+18,Male,Married,IT Professional,2,Toyota Camry,437249,CW1 2BB,No,Collision,8055
+22,Female,Single,Sales Associate,11,Buick Encore,664539,PE1 1HA,Yes,Comprehensive,1399
+43,Male,Single,Small Business Owner,12,Buick Encore,481301,CW1 2BB,Yes,Liability-only,5382
+31,Female,Married,Driver,18,Audi Q5,575658,AL1 3NJ,Yes,Comprehensive,2539
+56,Female,Widowed,Driver,13,BMW X5,499379,SW1A 1AA,Yes,Liability-only,9428
+44,Female,Divorced,Retired,5,Tesla Model S,414491,DN1 1QR,No,Collision,8185
+26,Female,Single,Student,12,Honda Accord,298182,PE1 1HA,Yes,Collision,5910
+32,Male,Divorced,Lawyer,2,Toyota Camry,343242,SW1A 1AA,No,Liability-only,5509
+32,Female,Widowed,Engineer,5,Honda Accord,605987,M1 1AA,Yes,Collision,7051
+43,Female,Widowed,IT Professional,7,BMW X5,274926,OL4 1ES,No,Collision,7152
+59,Male,Divorced,Small Business Owner,12,Audi Q5,231147,PE1 1HA,No,Comprehensive,9611
+30,Female,Widowed,Sales Associate,16,Toyota Corolla,460279,CW1 2BB,No,Collision,5124
+49,Male,Single,Student,8,Buick Encore,693487,OL4 1ES,Yes,Liability-only,3395
+56,Female,Divorced,Retired,9,Toyota Camry,333208,BS2 8JD,Yes,Collision,9852
+49,Male,Widowed,IT Professional,15,Toyota Camry,579791,DN1 1QR,No,Comprehensive,4950
+21,Female,Divorced,Student,5,Hyundai Elantra,370868,PE1 1HA,Yes,Liability-only,1449
+47,Male,Single,IT Professional,13,Toyota Camry,270787,PE1 1HA,Yes,Collision,1379
+54,Female,Widowed,Engineer,5,BMW X5,264427,SE1 8DP,No,Collision,8285
+40,Female,Single,Engineer,11,Toyota Camry,298063,OL4 1ES,Yes,Collision,3301
+56,Male,Widowed,Lawyer,10,Toyota Camry,370782,PE1 1HA,No,Liability-only,8710
+62,Male,Married,Driver,13,Honda Accord,638633,M1 1AA,Yes,Comprehensive,6792
+32,Male,Widowed,Teacher,9,Audi Q5,275607,AL1 3NJ,Yes,Liability-only,9918
+60,Male,Divorced,Teacher,14,Ford F-150,229876,MK9 1AN,No,Liability-only,8216
+46,Female,Widowed,IT Professional,18,Toyota Camry,642108,OL4 1ES,No,Comprehensive,5905
+53,Female,Single,Lawyer,15,Tesla Model S,317071,AL1 3NJ,No,Liability-only,6999
+30,Male,Single,Teacher,10,Audi Q5,605884,CV1 2WT,No,Liability-only,9607
+49,Female,Widowed,Retired,7,Nissan Altima,612590,CW1 2BB,Yes,Collision,8122
+24,Male,Divorced,Teacher,8,Hyundai Elantra,610725,BS2 8JD,Yes,Liability-only,1599
+39,Male,Married,Nurse,3,Honda Accord,393722,SE1 8DP,Yes,Collision,8288
+45,Female,Divorced,Sales Associate,15,Hyundai Elantra,646564,M1 1AA,No,Liability-only,8921
+19,Female,Married,Lawyer,16,Toyota Corolla,487927,TQ2 5HB,Yes,Collision,2567
+59,Female,Single,Retired,4,Toyota Camry,467399,TQ2 5HB,Yes,Collision,2094
+62,Female,Divorced,Student,6,Buick Encore,222219,BS2 8JD,Yes,Collision,7191
+23,Female,Married,Retired,1,Tesla Model S,470739,SE1 8DP,No,Comprehensive,2458
+45,Female,Widowed,Driver,4,Honda Accord,516042,SW1A 1AA,No,Liability-only,9046
+45,Female,Single,Student,11,Hyundai Elantra,440515,BS2 8JD,Yes,Liability-only,5934
+61,Male,Widowed,Small Business Owner,12,Toyota Camry,612574,SW1A 1AA,Yes,Liability-only,2354
+61,Male,Single,Sales Associate,5,Buick Encore,309950,MK9 1AN,No,Comprehensive,7473
+37,Male,Divorced,Sales Associate,16,Buick Encore,317229,DN1 1QR,No,Collision,9404
+47,Male,Divorced,Sales Associate,13,Toyota Corolla,155914,BS2 8JD,No,Liability-only,4894
+28,Male,Single,Sales Associate,13,Audi Q5,364772,BD1 3EB,No,Comprehensive,9032
+45,Female,Single,IT Professional,17,Tesla Model S,439324,CW1 2BB,Yes,Comprehensive,3963
+42,Male,Single,Sales Associate,7,Ford F-150,377561,E1 6AN,No,Liability-only,4042
+56,Male,Divorced,Sales Associate,8,Tesla Model S,337435,SE1 8DP,Yes,Collision,7973
+50,Male,Married,Sales Associate,13,Toyota Corolla,570576,M1 1AA,No,Comprehensive,8139
+18,Male,Widowed,Lawyer,16,BMW X5,556669,OL4 1ES,Yes,Liability-only,7930
+44,Male,Widowed,IT Professional,4,Audi Q5,276599,DN1 1QR,Yes,Collision,2732
+30,Male,Divorced,Engineer,8,Honda Accord,340093,DN1 1QR,No,Comprehensive,8870
+58,Male,Widowed,Retired,16,Audi Q5,224176,BS2 8JD,Yes,Comprehensive,6340
+20,Female,Single,Retired,10,Toyota Corolla,244799,BS2 8JD,Yes,Liability-only,6111
+56,Female,Married,Student,12,Toyota Corolla,238919,SE1 8DP,Yes,Liability-only,4081
+23,Male,Widowed,Lawyer,12,Honda Accord,329340,SW1A 1AA,No,Collision,8802
+25,Female,Married,Nurse,5,Honda Accord,181159,CV1 2WT,No,Liability-only,8527
+44,Female,Single,Retired,16,Honda Accord,192039,E1 6AN,No,Liability-only,5868
+26,Female,Widowed,Teacher,1,Audi Q5,197800,TQ2 5HB,Yes,Collision,2529
+54,Female,Divorced,Nurse,9,Toyota Camry,452905,BS2 8JD,Yes,Liability-only,2081
+50,Male,Married,Sales Associate,12,Hyundai Elantra,629319,PE1 1HA,Yes,Collision,8994
+59,Female,Single,Sales Associate,5,Nissan Altima,268368,BD1 3EB,Yes,Collision,4531
+61,Female,Married,IT Professional,3,Honda Accord,268998,MK9 1AN,No,Collision,1716
+41,Female,Widowed,Nurse,5,Hyundai Elantra,391324,TQ2 5HB,Yes,Liability-only,7229
+32,Male,Widowed,Teacher,2,Nissan Altima,659662,AL1 3NJ,Yes,Collision,1204
+49,Male,Divorced,IT Professional,14,Audi Q5,578583,BD1 3EB,Yes,Liability-only,7784
+49,Male,Single,Student,2,Hyundai Elantra,663520,E1 6AN,No,Collision,5094
+41,Male,Single,Nurse,13,Honda Accord,472038,DN1 1QR,Yes,Liability-only,6482
+58,Male,Divorced,Lawyer,7,Ford F-150,383229,MK9 1AN,No,Collision,6740
+29,Male,Divorced,Sales Associate,10,Toyota Corolla,211748,PE1 1HA,No,Comprehensive,8219
+56,Male,Single,Sales Associate,13,Hyundai Elantra,191190,DN1 1QR,Yes,Comprehensive,7154
+19,Female,Married,Driver,16,Buick Encore,190318,DN1 1QR,Yes,Comprehensive,5842
+20,Female,Married,IT Professional,14,Buick Encore,274078,BD1 3EB,Yes,Collision,9103
+54,Female,Divorced,Engineer,11,Hyundai Elantra,189759,AL1 3NJ,Yes,Liability-only,3018
+34,Male,Married,Engineer,10,Honda Accord,645926,OL4 1ES,No,Collision,6051
+19,Male,Single,IT Professional,6,Tesla Model S,529179,CW1 2BB,No,Collision,9709
+19,Male,Widowed,Lawyer,4,Honda Accord,517375,OL4 1ES,No,Collision,8835
+45,Male,Widowed,Small Business Owner,1,Audi Q5,583855,CW1 2BB,No,Collision,2438
+40,Male,Married,IT Professional,7,Honda Accord,435626,CV1 2WT,No,Liability-only,5086
+54,Female,Divorced,Lawyer,9,Audi Q5,481356,CV1 2WT,No,Collision,6127
+49,Female,Divorced,Student,8,Tesla Model S,598477,SW1A 1AA,No,Comprehensive,3052
+50,Male,Divorced,Sales Associate,5,Ford F-150,630533,CV1 2WT,No,Comprehensive,8529
+18,Male,Divorced,Teacher,19,Audi Q5,545252,BD1 3EB,No,Comprehensive,8147
+36,Male,Divorced,Small Business Owner,10,BMW X5,560140,CV1 2WT,No,Collision,5368
+19,Male,Married,Nurse,11,Buick Encore,541637,DN1 1QR,Yes,Liability-only,5517
+61,Female,Widowed,Small Business Owner,15,Toyota Corolla,210204,CW1 2BB,Yes,Liability-only,3312
+43,Male,Widowed,Teacher,6,Buick Encore,398827,OL4 1ES,Yes,Liability-only,6577
+49,Male,Married,Driver,15,Audi Q5,395256,SE1 8DP,No,Collision,9973
+23,Male,Divorced,Sales Associate,5,BMW X5,494087,MK9 1AN,Yes,Liability-only,2244
+49,Male,Married,Engineer,19,Toyota Camry,171518,BS2 8JD,No,Comprehensive,3416
+21,Female,Widowed,Lawyer,19,Ford F-150,560275,CW1 2BB,No,Liability-only,7490
+28,Male,Single,IT Professional,10,Ford F-150,697340,OL4 1ES,Yes,Collision,7168
+34,Male,Married,IT Professional,12,Toyota Camry,221524,TQ2 5HB,No,Collision,6839
+55,Female,Divorced,Engineer,4,Toyota Corolla,668855,TQ2 5HB,Yes,Liability-only,9608
+41,Female,Widowed,Small Business Owner,18,Tesla Model S,432187,OL4 1ES,No,Collision,9406
+22,Female,Widowed,Sales Associate,16,Nissan Altima,152419,BS2 8JD,No,Liability-only,8097
+51,Male,Widowed,Retired,8,BMW X5,271831,PE1 1HA,Yes,Liability-only,6009
+23,Male,Widowed,Lawyer,4,Audi Q5,586700,DN1 1QR,Yes,Comprehensive,2582
+39,Female,Divorced,Student,12,Nissan Altima,344941,SE1 8DP,Yes,Collision,9924
+28,Female,Single,Teacher,2,Toyota Corolla,326282,PE1 1HA,Yes,Comprehensive,8876
+33,Female,Widowed,Small Business Owner,4,Tesla Model S,490641,PE1 1HA,Yes,Collision,3427
+50,Female,Married,Nurse,5,Ford F-150,287559,OL4 1ES,Yes,Liability-only,6721
+26,Female,Single,Driver,3,Audi Q5,389040,AL1 3NJ,No,Collision,9423
+23,Female,Widowed,IT Professional,9,Audi Q5,495182,M1 1AA,No,Liability-only,5930
+33,Male,Single,Small Business Owner,18,Tesla Model S,656805,CW1 2BB,No,Collision,5353
+46,Male,Married,Driver,11,Buick Encore,415161,BD1 3EB,No,Comprehensive,8832
+20,Male,Widowed,Teacher,3,BMW X5,498405,TQ2 5HB,Yes,Comprehensive,6375
+37,Female,Married,IT Professional,2,Tesla Model S,341196,DN1 1QR,No,Liability-only,1402
+53,Female,Divorced,IT Professional,9,Honda Accord,594165,PE1 1HA,No,Comprehensive,7567
+36,Female,Widowed,Retired,14,Honda Accord,385067,MK9 1AN,Yes,Liability-only,5865
+43,Female,Widowed,Small Business Owner,4,Tesla Model S,546412,CV1 2WT,No,Liability-only,9146
+20,Female,Widowed,Sales Associate,9,Ford F-150,487232,TQ2 5HB,Yes,Liability-only,1064
+36,Female,Widowed,Engineer,13,Tesla Model S,330786,BD1 3EB,Yes,Collision,3237
+37,Male,Divorced,Engineer,18,Hyundai Elantra,444065,E1 6AN,Yes,Liability-only,8770
+49,Male,Widowed,Student,15,Toyota Corolla,215350,DN1 1QR,No,Comprehensive,1172
+24,Female,Single,Nurse,10,Honda Accord,331417,AL1 3NJ,Yes,Collision,8935
+58,Male,Widowed,Driver,16,Nissan Altima,390678,BD1 3EB,No,Comprehensive,3675
+50,Female,Divorced,Small Business Owner,12,Tesla Model S,493275,TQ2 5HB,No,Liability-only,5005
+57,Male,Widowed,Lawyer,5,Honda Accord,172063,BS2 8JD,No,Liability-only,7544
+56,Female,Single,Nurse,2,Toyota Corolla,614952,DN1 1QR,Yes,Comprehensive,9829
+35,Female,Divorced,Retired,10,Toyota Corolla,491090,M1 1AA,Yes,Collision,1948
+57,Male,Divorced,IT Professional,1,Nissan Altima,327043,SE1 8DP,Yes,Comprehensive,2694
+18,Male,Single,Sales Associate,7,Audi Q5,284670,TQ2 5HB,No,Liability-only,5757
+28,Female,Single,Small Business Owner,17,Hyundai Elantra,160564,TQ2 5HB,No,Collision,7282
+45,Female,Single,Nurse,16,Tesla Model S,666939,BS2 8JD,Yes,Liability-only,1142
+42,Male,Single,Nurse,3,Toyota Camry,461869,PE1 1HA,No,Liability-only,7001
+40,Male,Single,Sales Associate,14,Tesla Model S,255940,TQ2 5HB,Yes,Comprehensive,7652
+48,Female,Divorced,Student,10,Audi Q5,692150,AL1 3NJ,Yes,Liability-only,5581
+47,Male,Divorced,Driver,7,BMW X5,422409,TQ2 5HB,No,Comprehensive,6087
+59,Female,Widowed,Driver,17,Buick Encore,290777,AL1 3NJ,No,Collision,2460
+52,Female,Widowed,Nurse,6,Ford F-150,336351,PE1 1HA,Yes,Liability-only,4887
+24,Female,Married,Teacher,4,Audi Q5,241080,M1 1AA,No,Liability-only,9484
+33,Female,Widowed,Nurse,17,Toyota Corolla,623050,OL4 1ES,Yes,Collision,1837
+43,Male,Widowed,Nurse,9,Toyota Camry,606195,BD1 3EB,Yes,Comprehensive,6846
+19,Male,Single,Sales Associate,4,Ford F-150,467972,CV1 2WT,No,Liability-only,9463
+18,Male,Single,IT Professional,7,Honda Accord,641422,TQ2 5HB,Yes,Collision,3369
+29,Male,Widowed,Sales Associate,2,Tesla Model S,529028,PE1 1HA,No,Liability-only,9997
+22,Male,Married,Small Business Owner,17,Ford F-150,680338,CV1 2WT,Yes,Comprehensive,4174
+54,Male,Single,Nurse,8,Honda Accord,629786,TQ2 5HB,No,Comprehensive,6985
+49,Male,Widowed,Driver,15,Buick Encore,420628,BD1 3EB,No,Comprehensive,1882
+26,Female,Widowed,Lawyer,15,Honda Accord,474792,M1 1AA,Yes,Comprehensive,4171
+58,Male,Divorced,Driver,8,Toyota Camry,472089,OL4 1ES,No,Collision,3040
+52,Male,Married,Engineer,16,Toyota Corolla,236332,SE1 8DP,No,Liability-only,7732
+36,Female,Divorced,Student,19,Audi Q5,630579,M1 1AA,Yes,Collision,7372
+33,Male,Married,Retired,11,Nissan Altima,405540,SW1A 1AA,No,Comprehensive,6985
+20,Male,Single,Small Business Owner,2,Audi Q5,404547,TQ2 5HB,Yes,Comprehensive,8562
+37,Female,Married,Small Business Owner,17,Audi Q5,460112,CV1 2WT,No,Comprehensive,6900
+41,Male,Widowed,Student,16,Honda Accord,421251,AL1 3NJ,Yes,Comprehensive,8965
+50,Male,Widowed,Lawyer,15,Tesla Model S,664756,DN1 1QR,Yes,Liability-only,6316
+41,Male,Married,Retired,13,Ford F-150,416013,AL1 3NJ,Yes,Comprehensive,9465
+28,Female,Married,IT Professional,15,Nissan Altima,605911,E1 6AN,Yes,Liability-only,1589
+25,Male,Married,Nurse,4,Nissan Altima,603638,CW1 2BB,No,Comprehensive,9774
+53,Male,Divorced,Retired,16,Ford F-150,682259,BS2 8JD,Yes,Liability-only,6063
+55,Female,Married,Lawyer,12,Ford F-150,437795,BS2 8JD,No,Liability-only,4633
+57,Male,Single,Teacher,4,Toyota Corolla,469118,PE1 1HA,Yes,Comprehensive,2990
+37,Female,Divorced,Engineer,3,Toyota Camry,644509,CV1 2WT,No,Collision,7515
+52,Female,Divorced,Retired,17,Buick Encore,173446,BS2 8JD,Yes,Collision,2258
+42,Male,Married,Retired,18,Toyota Camry,319180,BS2 8JD,No,Collision,3866
+52,Female,Single,Engineer,18,Ford F-150,678111,M1 1AA,No,Collision,4738
+42,Female,Divorced,Nurse,17,Tesla Model S,294526,SE1 8DP,Yes,Collision,1571
+46,Male,Widowed,Retired,12,Hyundai Elantra,355162,TQ2 5HB,Yes,Comprehensive,9736
+35,Female,Divorced,Engineer,4,Hyundai Elantra,217965,TQ2 5HB,Yes,Comprehensive,5222
+63,Female,Married,Engineer,12,Buick Encore,616196,CV1 2WT,No,Comprehensive,1637
+35,Male,Single,Engineer,15,Ford F-150,422654,E1 6AN,No,Comprehensive,9232
+19,Male,Married,Sales Associate,16,Hyundai Elantra,587261,SE1 8DP,No,Comprehensive,5882
+52,Male,Widowed,Lawyer,5,Buick Encore,615899,E1 6AN,No,Comprehensive,5392
+33,Female,Widowed,Sales Associate,15,Nissan Altima,255935,CV1 2WT,Yes,Liability-only,4672
+58,Male,Widowed,Teacher,17,Buick Encore,651443,OL4 1ES,Yes,Liability-only,8257
+53,Female,Married,IT Professional,18,Nissan Altima,403978,OL4 1ES,Yes,Comprehensive,5711
+50,Female,Divorced,Sales Associate,5,Toyota Corolla,526924,TQ2 5HB,Yes,Comprehensive,6643
+21,Female,Married,Sales Associate,13,Hyundai Elantra,537688,BS2 8JD,No,Liability-only,1159
+50,Female,Single,Lawyer,19,Buick Encore,666404,PE1 1HA,No,Liability-only,6938
+31,Female,Divorced,IT Professional,13,Buick Encore,487864,AL1 3NJ,Yes,Comprehensive,1580
+38,Female,Widowed,Student,18,Buick Encore,172072,DN1 1QR,No,Liability-only,9411
+37,Female,Married,Engineer,14,Tesla Model S,231015,TQ2 5HB,Yes,Collision,8586
+25,Male,Widowed,Small Business Owner,4,Buick Encore,375075,M1 1AA,No,Collision,5474
+24,Male,Widowed,IT Professional,4,Tesla Model S,222746,BS2 8JD,No,Collision,8073
+20,Female,Single,Teacher,19,Audi Q5,326774,DN1 1QR,No,Liability-only,6059
+34,Female,Divorced,Nurse,13,Toyota Corolla,514404,CW1 2BB,No,Comprehensive,5328
+50,Male,Single,Teacher,12,Audi Q5,549273,DN1 1QR,No,Comprehensive,2394
+29,Female,Single,Engineer,7,BMW X5,278259,OL4 1ES,No,Comprehensive,1921
+39,Male,Single,IT Professional,12,Audi Q5,180916,BS2 8JD,Yes,Liability-only,3773
+39,Male,Widowed,Teacher,4,Ford F-150,173259,AL1 3NJ,No,Liability-only,5462
+63,Male,Single,Teacher,2,Nissan Altima,596799,DN1 1QR,Yes,Collision,5576
+47,Female,Single,Student,2,Ford F-150,446437,E1 6AN,Yes,Liability-only,4434
+55,Female,Divorced,Student,5,Toyota Camry,157043,SW1A 1AA,Yes,Collision,7733
+55,Male,Divorced,IT Professional,10,Audi Q5,257009,E1 6AN,Yes,Collision,2865
+62,Male,Single,Engineer,10,Hyundai Elantra,359137,TQ2 5HB,Yes,Comprehensive,1724
+25,Male,Divorced,Sales Associate,9,Honda Accord,311940,BD1 3EB,Yes,Liability-only,1711
+44,Male,Divorced,Driver,13,Audi Q5,669466,MK9 1AN,No,Comprehensive,8710
+44,Male,Single,Retired,7,Toyota Corolla,250804,M1 1AA,No,Comprehensive,6080
+51,Female,Widowed,Small Business Owner,5,Audi Q5,219000,PE1 1HA,No,Liability-only,1390
+38,Male,Single,Retired,10,Tesla Model S,234179,E1 6AN,Yes,Liability-only,5487
+47,Female,Divorced,Lawyer,10,Toyota Camry,624706,DN1 1QR,Yes,Collision,9116
+50,Male,Widowed,Student,6,Buick Encore,173880,BD1 3EB,Yes,Collision,7747
+45,Female,Married,IT Professional,19,Toyota Camry,543471,OL4 1ES,No,Collision,7066
+64,Female,Widowed,Retired,8,Toyota Camry,544718,E1 6AN,No,Collision,5494
+50,Female,Divorced,Engineer,1,Nissan Altima,619054,PE1 1HA,No,Comprehensive,4572
+22,Female,Widowed,Small Business Owner,17,Honda Accord,322438,BS2 8JD,Yes,Comprehensive,8769
+36,Female,Single,Retired,7,Toyota Camry,570641,AL1 3NJ,Yes,Liability-only,3311
+21,Female,Married,Small Business Owner,14,Nissan Altima,595544,SW1A 1AA,Yes,Collision,7773
+52,Male,Married,Nurse,17,Buick Encore,483838,CW1 2BB,No,Collision,7905
+34,Female,Married,Engineer,9,Ford F-150,549022,E1 6AN,Yes,Collision,4642
+61,Male,Divorced,Driver,17,Buick Encore,629490,TQ2 5HB,Yes,Comprehensive,7338
+45,Female,Divorced,Teacher,5,Hyundai Elantra,206731,CW1 2BB,Yes,Liability-only,3609
+47,Female,Married,Small Business Owner,8,Toyota Camry,225010,CW1 2BB,Yes,Comprehensive,7240
+46,Male,Widowed,Engineer,6,Toyota Camry,399091,CW1 2BB,No,Liability-only,8806
+63,Female,Married,Small Business Owner,11,Ford F-150,444743,DN1 1QR,No,Liability-only,1757
+23,Male,Widowed,Small Business Owner,19,Toyota Corolla,221326,DN1 1QR,Yes,Comprehensive,6086
+52,Male,Widowed,Sales Associate,4,Toyota Camry,487850,SE1 8DP,Yes,Comprehensive,7220
+58,Male,Divorced,Sales Associate,18,Honda Accord,683292,CW1 2BB,No,Liability-only,6602
+54,Male,Widowed,Engineer,1,BMW X5,651498,SE1 8DP,No,Comprehensive,7121
+41,Female,Married,Sales Associate,13,Toyota Camry,265018,AL1 3NJ,Yes,Comprehensive,9956
+46,Female,Divorced,Lawyer,14,BMW X5,594580,CW1 2BB,No,Liability-only,3725
+63,Male,Single,Driver,1,Buick Encore,638968,BD1 3EB,No,Liability-only,4368
+48,Female,Single,IT Professional,11,Audi Q5,608128,CW1 2BB,Yes,Collision,4497
+52,Female,Divorced,Engineer,17,Toyota Corolla,204645,CV1 2WT,No,Comprehensive,9174
+50,Male,Married,Engineer,4,Nissan Altima,681520,DN1 1QR,No,Liability-only,6642
+38,Female,Single,Lawyer,12,Tesla Model S,621426,M1 1AA,No,Comprehensive,9774
+49,Male,Single,Student,10,Toyota Corolla,231588,BD1 3EB,No,Comprehensive,5766
+40,Male,Widowed,Student,6,Tesla Model S,329614,PE1 1HA,Yes,Liability-only,5633
+50,Female,Widowed,Sales Associate,1,Buick Encore,680201,E1 6AN,No,Collision,2821
+20,Female,Married,IT Professional,7,Toyota Corolla,263693,AL1 3NJ,No,Liability-only,2185
+35,Female,Divorced,Sales Associate,16,Nissan Altima,160567,AL1 3NJ,Yes,Liability-only,2637
+42,Male,Married,Nurse,14,Tesla Model S,412463,CV1 2WT,No,Comprehensive,8236
+59,Male,Divorced,Nurse,6,Ford F-150,240005,CV1 2WT,Yes,Collision,9380
+48,Female,Single,Teacher,5,Honda Accord,629336,CV1 2WT,Yes,Liability-only,2746
+20,Female,Widowed,Nurse,18,Toyota Corolla,154791,CV1 2WT,No,Comprehensive,6797
+57,Female,Married,Student,15,Buick Encore,640488,CV1 2WT,No,Liability-only,9089
+63,Female,Married,Driver,6,Toyota Camry,281401,OL4 1ES,No,Comprehensive,3620
+41,Male,Divorced,Nurse,19,Nissan Altima,355459,BS2 8JD,No,Liability-only,8597
+49,Female,Divorced,Sales Associate,1,Tesla Model S,211032,DN1 1QR,No,Collision,9002
+64,Male,Married,Small Business Owner,1,Tesla Model S,695588,AL1 3NJ,Yes,Liability-only,7107
+39,Male,Divorced,Engineer,13,Honda Accord,594161,CV1 2WT,No,Comprehensive,3793
+40,Female,Married,Driver,3,Tesla Model S,341634,E1 6AN,Yes,Liability-only,3500
+19,Female,Married,Driver,10,BMW X5,475259,SW1A 1AA,No,Collision,9361
+44,Female,Married,Sales Associate,3,Hyundai Elantra,369162,OL4 1ES,Yes,Collision,5925
+59,Male,Single,Engineer,9,BMW X5,177676,BD1 3EB,No,Collision,2080
+19,Female,Divorced,Student,8,Tesla Model S,604926,SW1A 1AA,No,Collision,5864
+43,Female,Widowed,Driver,3,Nissan Altima,317995,BD1 3EB,No,Comprehensive,5453
+34,Male,Widowed,Teacher,13,Toyota Corolla,441946,SE1 8DP,No,Liability-only,3248
+57,Female,Divorced,Sales Associate,6,Buick Encore,502475,DN1 1QR,No,Collision,2325
+50,Male,Married,Driver,13,Toyota Camry,606120,BS2 8JD,Yes,Liability-only,4873
+26,Female,Widowed,IT Professional,12,Toyota Corolla,274786,SW1A 1AA,No,Comprehensive,2688
+60,Male,Widowed,Engineer,13,Ford F-150,696363,BD1 3EB,No,Liability-only,3985
+56,Female,Divorced,Nurse,2,Toyota Corolla,159304,CV1 2WT,No,Liability-only,3076
+46,Female,Widowed,Driver,16,Toyota Corolla,279851,AL1 3NJ,Yes,Collision,2461
+59,Male,Married,Sales Associate,6,Buick Encore,532873,SE1 8DP,No,Collision,1072
+43,Male,Divorced,Nurse,19,Honda Accord,209622,M1 1AA,Yes,Comprehensive,7030
+52,Female,Married,Teacher,13,Tesla Model S,466359,MK9 1AN,No,Liability-only,5611
+42,Male,Widowed,Nurse,17,Honda Accord,555737,MK9 1AN,Yes,Comprehensive,3796
+41,Male,Widowed,IT Professional,9,Ford F-150,399109,OL4 1ES,No,Comprehensive,8717
+30,Male,Married,Student,17,Audi Q5,436172,M1 1AA,No,Comprehensive,5516
+24,Male,Single,Driver,2,Toyota Camry,439445,M1 1AA,Yes,Collision,3493
+53,Female,Widowed,Retired,19,BMW X5,450159,CV1 2WT,No,Collision,5231
+62,Female,Single,Retired,19,Toyota Camry,325231,M1 1AA,Yes,Liability-only,4576
+37,Male,Widowed,Nurse,7,Tesla Model S,455858,M1 1AA,No,Liability-only,9100
+18,Male,Single,Lawyer,10,Toyota Camry,230722,MK9 1AN,No,Liability-only,6728
+25,Male,Single,Engineer,10,Hyundai Elantra,437374,BD1 3EB,Yes,Collision,1032
+63,Male,Single,Retired,9,BMW X5,199262,DN1 1QR,No,Collision,5373
+33,Female,Married,Lawyer,17,Ford F-150,191722,PE1 1HA,Yes,Comprehensive,4598
+31,Female,Single,Retired,15,Tesla Model S,390740,SE1 8DP,Yes,Collision,3392
+29,Male,Single,Lawyer,2,Nissan Altima,250808,M1 1AA,No,Comprehensive,7705
+40,Male,Single,Engineer,4,Ford F-150,405416,SW1A 1AA,No,Comprehensive,7790
+32,Male,Widowed,Small Business Owner,19,Hyundai Elantra,412128,BS2 8JD,No,Collision,3677
+45,Female,Single,Retired,17,BMW X5,548455,E1 6AN,Yes,Comprehensive,2401
+51,Male,Widowed,IT Professional,5,Buick Encore,463030,SE1 8DP,Yes,Comprehensive,1817
+19,Female,Single,Driver,7,Hyundai Elantra,570411,BS2 8JD,No,Liability-only,7203
+49,Male,Single,Lawyer,18,Ford F-150,254697,E1 6AN,Yes,Comprehensive,5562
+40,Female,Married,Driver,7,Tesla Model S,638075,M1 1AA,Yes,Collision,5723
+39,Male,Widowed,Sales Associate,17,Audi Q5,381572,PE1 1HA,Yes,Collision,3438
+42,Female,Single,Sales Associate,7,Tesla Model S,299177,TQ2 5HB,Yes,Comprehensive,7828
+39,Male,Widowed,Engineer,4,BMW X5,310811,CW1 2BB,No,Liability-only,2210
+39,Male,Widowed,Lawyer,8,Audi Q5,656957,AL1 3NJ,No,Collision,7641
+59,Male,Divorced,Teacher,13,Honda Accord,313041,TQ2 5HB,No,Collision,1599
+23,Female,Married,Sales Associate,4,BMW X5,688785,BS2 8JD,Yes,Liability-only,6480
+32,Male,Married,Engineer,6,BMW X5,545032,MK9 1AN,Yes,Comprehensive,2846
+60,Female,Married,Sales Associate,5,Hyundai Elantra,407471,M1 1AA,Yes,Collision,7592
+54,Female,Divorced,Sales Associate,12,Tesla Model S,242019,SW1A 1AA,Yes,Comprehensive,8861
+50,Male,Divorced,Teacher,4,Ford F-150,259017,SW1A 1AA,No,Comprehensive,2887
+25,Male,Married,Retired,9,Buick Encore,368220,SE1 8DP,Yes,Comprehensive,1679
+61,Male,Divorced,Nurse,4,Toyota Camry,255153,BD1 3EB,Yes,Comprehensive,4252
+61,Female,Divorced,Small Business Owner,19,Toyota Corolla,508349,M1 1AA,No,Collision,2835
+22,Male,Divorced,Sales Associate,14,Buick Encore,162809,CW1 2BB,No,Liability-only,3177
+56,Female,Married,Sales Associate,5,Toyota Camry,450572,M1 1AA,No,Collision,9142
+21,Female,Married,IT Professional,18,Honda Accord,261126,M1 1AA,Yes,Liability-only,1148
+23,Male,Married,Small Business Owner,10,Ford F-150,502465,SW1A 1AA,Yes,Comprehensive,2495
+62,Male,Divorced,Teacher,19,Tesla Model S,540659,MK9 1AN,Yes,Liability-only,2744
+49,Male,Married,Driver,12,Nissan Altima,167718,AL1 3NJ,Yes,Comprehensive,2646
+47,Male,Divorced,Lawyer,18,BMW X5,428849,TQ2 5HB,Yes,Collision,3995
+64,Male,Single,Sales Associate,17,Buick Encore,499762,SW1A 1AA,Yes,Collision,7643
+52,Male,Divorced,Nurse,11,Toyota Camry,212598,MK9 1AN,No,Liability-only,8378
+57,Female,Widowed,Lawyer,3,Nissan Altima,424383,BD1 3EB,Yes,Comprehensive,9849
+33,Female,Married,Small Business Owner,17,Buick Encore,296075,BS2 8JD,No,Comprehensive,4667
+30,Female,Married,Lawyer,1,Ford F-150,303060,TQ2 5HB,No,Liability-only,1576
+59,Male,Widowed,Retired,15,Tesla Model S,599110,CV1 2WT,No,Comprehensive,5779
+47,Female,Divorced,Sales Associate,9,Audi Q5,665340,CV1 2WT,Yes,Comprehensive,9187
+36,Female,Single,Lawyer,15,Buick Encore,371516,SW1A 1AA,Yes,Comprehensive,3972
+34,Female,Widowed,Driver,3,Buick Encore,505247,SE1 8DP,No,Collision,8756
+36,Female,Widowed,Driver,19,Tesla Model S,216446,PE1 1HA,Yes,Collision,4948
+45,Female,Divorced,Sales Associate,13,Honda Accord,183717,SW1A 1AA,Yes,Collision,7544
+43,Male,Married,Student,12,Hyundai Elantra,368417,M1 1AA,No,Comprehensive,3045
+54,Male,Divorced,Driver,1,Buick Encore,307723,SE1 8DP,Yes,Collision,2627
+43,Female,Widowed,Lawyer,17,Tesla Model S,529346,MK9 1AN,Yes,Comprehensive,2488
+40,Female,Widowed,Engineer,13,Hyundai Elantra,534533,PE1 1HA,Yes,Comprehensive,4563
+26,Female,Married,Driver,1,Tesla Model S,259525,BS2 8JD,Yes,Liability-only,2802
+29,Male,Married,Small Business Owner,10,Tesla Model S,606566,SW1A 1AA,No,Comprehensive,4591
+18,Male,Married,Student,15,Honda Accord,363092,BS2 8JD,No,Collision,4520
+18,Female,Divorced,Lawyer,7,Tesla Model S,154646,BD1 3EB,Yes,Collision,6896
+64,Male,Married,Teacher,18,Ford F-150,451857,CV1 2WT,Yes,Comprehensive,8643
+51,Male,Widowed,IT Professional,16,Buick Encore,480080,CV1 2WT,Yes,Collision,8041
+49,Female,Widowed,Teacher,14,Toyota Camry,325403,TQ2 5HB,No,Comprehensive,4311
+42,Male,Single,Retired,18,Toyota Camry,434329,SW1A 1AA,Yes,Liability-only,3305
+57,Male,Divorced,IT Professional,7,Toyota Camry,496407,SE1 8DP,Yes,Comprehensive,8875
+62,Female,Single,Retired,17,Tesla Model S,609770,SW1A 1AA,No,Comprehensive,2967
+18,Male,Widowed,IT Professional,18,Nissan Altima,427845,AL1 3NJ,Yes,Liability-only,9009
+33,Male,Single,IT Professional,12,Hyundai Elantra,350144,CV1 2WT,No,Collision,6462
+56,Female,Widowed,Engineer,8,Hyundai Elantra,645339,TQ2 5HB,Yes,Liability-only,7897
+22,Male,Single,Nurse,2,Tesla Model S,249280,AL1 3NJ,No,Liability-only,4458
+39,Male,Married,Small Business Owner,7,Ford F-150,188665,AL1 3NJ,Yes,Comprehensive,9585
+46,Female,Single,Teacher,4,Ford F-150,428101,BS2 8JD,Yes,Comprehensive,5778
+20,Female,Married,Driver,18,BMW X5,263828,BD1 3EB,No,Liability-only,4730
+29,Female,Married,Lawyer,6,Tesla Model S,240815,DN1 1QR,No,Collision,5365
+43,Male,Divorced,Student,9,Toyota Corolla,344894,SE1 8DP,No,Liability-only,8547
+33,Female,Married,Small Business Owner,9,Honda Accord,314714,E1 6AN,No,Collision,1027
+54,Male,Married,Retired,14,Toyota Camry,182356,MK9 1AN,No,Liability-only,4491
+39,Female,Single,Engineer,8,Honda Accord,415953,SE1 8DP,Yes,Liability-only,7423
+46,Male,Widowed,Retired,19,Toyota Camry,421609,AL1 3NJ,No,Collision,6301
+31,Female,Divorced,Nurse,3,Audi Q5,485988,PE1 1HA,No,Liability-only,7160
+45,Female,Married,Student,18,Audi Q5,346322,TQ2 5HB,No,Comprehensive,2173
+22,Female,Divorced,Engineer,5,Tesla Model S,689538,PE1 1HA,No,Liability-only,1338
+64,Female,Single,Retired,14,Audi Q5,196023,BD1 3EB,Yes,Comprehensive,1841
+47,Male,Married,Nurse,4,Nissan Altima,327696,TQ2 5HB,Yes,Collision,1293
+63,Female,Single,Lawyer,7,BMW X5,690715,MK9 1AN,Yes,Collision,7558
+22,Female,Divorced,Lawyer,12,Ford F-150,576492,BS2 8JD,Yes,Comprehensive,2647
+29,Male,Single,Retired,2,Nissan Altima,360084,MK9 1AN,Yes,Liability-only,5898
+33,Female,Divorced,Small Business Owner,11,Honda Accord,284511,BS2 8JD,No,Comprehensive,5526
+43,Male,Single,Student,14,Honda Accord,629064,AL1 3NJ,Yes,Comprehensive,6614
+43,Female,Divorced,Sales Associate,16,Audi Q5,228672,MK9 1AN,Yes,Collision,4801
+38,Female,Widowed,Small Business Owner,6,Ford F-150,622919,AL1 3NJ,No,Comprehensive,9280
+56,Female,Single,Lawyer,4,BMW X5,167300,MK9 1AN,No,Liability-only,8376
+53,Male,Single,Student,15,Toyota Camry,472433,CW1 2BB,Yes,Comprehensive,1899
+50,Female,Widowed,Nurse,1,Nissan Altima,560398,TQ2 5HB,Yes,Collision,4477
+47,Female,Widowed,Engineer,7,BMW X5,613723,CW1 2BB,No,Liability-only,2744
+54,Female,Single,IT Professional,12,Buick Encore,594128,AL1 3NJ,Yes,Collision,7096
+40,Male,Widowed,Retired,10,Hyundai Elantra,169659,CV1 2WT,No,Comprehensive,3253
+27,Male,Married,Teacher,5,Audi Q5,395259,SE1 8DP,No,Comprehensive,2633
+22,Female,Divorced,Student,12,Toyota Camry,576802,CV1 2WT,Yes,Collision,8001
+53,Male,Divorced,Driver,18,Buick Encore,160360,BS2 8JD,Yes,Collision,8020
+51,Female,Divorced,Nurse,10,Toyota Camry,653447,E1 6AN,Yes,Liability-only,9149
+48,Female,Married,Sales Associate,6,Toyota Camry,198791,SE1 8DP,No,Collision,5701
+27,Female,Widowed,IT Professional,12,Audi Q5,546281,CV1 2WT,No,Collision,7735
+36,Female,Widowed,Driver,7,Toyota Camry,658810,CV1 2WT,Yes,Comprehensive,2013
+49,Female,Single,Sales Associate,18,BMW X5,424444,OL4 1ES,Yes,Comprehensive,4299
+18,Female,Widowed,Teacher,2,BMW X5,177209,SE1 8DP,Yes,Collision,2506
+22,Female,Single,Lawyer,10,Buick Encore,651503,E1 6AN,No,Collision,5803
+62,Male,Married,Small Business Owner,15,Honda Accord,433071,BD1 3EB,No,Comprehensive,1977
+21,Male,Divorced,Retired,12,Ford F-150,653623,TQ2 5HB,No,Liability-only,2817
+33,Male,Divorced,Engineer,17,Nissan Altima,536060,BD1 3EB,Yes,Liability-only,5901
+41,Male,Divorced,Sales Associate,4,Nissan Altima,398342,TQ2 5HB,No,Liability-only,7798
+33,Male,Widowed,IT Professional,7,Toyota Corolla,568318,TQ2 5HB,No,Liability-only,1473
+19,Male,Single,Student,9,Audi Q5,207803,CV1 2WT,Yes,Comprehensive,1567
+45,Male,Single,Lawyer,19,Tesla Model S,582959,AL1 3NJ,No,Collision,8966
+49,Female,Married,Student,7,Tesla Model S,283624,E1 6AN,Yes,Liability-only,3258
+44,Female,Widowed,IT Professional,2,Buick Encore,491954,TQ2 5HB,No,Comprehensive,9120
+37,Female,Married,Student,6,Toyota Camry,195380,E1 6AN,Yes,Collision,5310
+41,Female,Single,Sales Associate,18,Toyota Camry,310322,BS2 8JD,Yes,Liability-only,2982
+29,Male,Single,Nurse,6,Audi Q5,652610,SW1A 1AA,No,Collision,2096
+52,Male,Divorced,Student,13,Hyundai Elantra,532465,PE1 1HA,Yes,Liability-only,7610
+50,Female,Widowed,Small Business Owner,19,Honda Accord,669339,OL4 1ES,No,Collision,4570
+50,Female,Single,Teacher,2,Toyota Corolla,422667,BS2 8JD,Yes,Liability-only,7497
+60,Male,Divorced,Engineer,12,BMW X5,457674,DN1 1QR,Yes,Liability-only,4646
+54,Female,Widowed,Sales Associate,15,Toyota Camry,688057,E1 6AN,Yes,Collision,3419
+29,Female,Married,Driver,14,Toyota Corolla,262035,SW1A 1AA,No,Collision,5279
+20,Female,Widowed,IT Professional,6,Nissan Altima,325717,M1 1AA,Yes,Collision,1673
+18,Female,Widowed,Lawyer,18,Hyundai Elantra,605358,AL1 3NJ,Yes,Comprehensive,3802
+50,Male,Single,Sales Associate,5,BMW X5,491926,E1 6AN,No,Comprehensive,8312
+57,Female,Single,Nurse,18,Audi Q5,490526,OL4 1ES,Yes,Collision,3369
+27,Female,Widowed,Lawyer,3,Toyota Corolla,318157,E1 6AN,Yes,Comprehensive,5530
+60,Male,Single,Small Business Owner,3,Buick Encore,594573,SE1 8DP,Yes,Liability-only,2066
+61,Male,Single,IT Professional,10,BMW X5,294542,MK9 1AN,Yes,Collision,6432
+46,Female,Single,Lawyer,19,Audi Q5,519561,SE1 8DP,No,Comprehensive,9073
+30,Male,Divorced,Student,3,Tesla Model S,360154,SW1A 1AA,Yes,Collision,1687
+29,Female,Divorced,Sales Associate,12,Audi Q5,363396,CW1 2BB,Yes,Liability-only,1068
+48,Female,Widowed,Teacher,16,Audi Q5,331844,TQ2 5HB,No,Liability-only,7774
+63,Male,Single,IT Professional,17,BMW X5,672797,OL4 1ES,Yes,Comprehensive,1419
+19,Female,Divorced,Retired,7,Hyundai Elantra,501444,SW1A 1AA,Yes,Liability-only,7891
+52,Female,Widowed,Small Business Owner,13,BMW X5,418774,CV1 2WT,No,Collision,6593
+40,Female,Single,Engineer,2,Ford F-150,511013,PE1 1HA,No,Comprehensive,7104
+34,Female,Married,IT Professional,4,Honda Accord,295931,CV1 2WT,No,Collision,4892
+43,Male,Single,Nurse,10,Hyundai Elantra,564399,PE1 1HA,No,Collision,1439
+25,Male,Single,Sales Associate,7,Buick Encore,378495,DN1 1QR,Yes,Collision,2208
+46,Female,Divorced,Student,17,Hyundai Elantra,404809,PE1 1HA,No,Liability-only,3563
+43,Male,Widowed,Engineer,6,Nissan Altima,165021,MK9 1AN,Yes,Collision,8466
+27,Female,Widowed,Engineer,19,Buick Encore,598781,PE1 1HA,No,Liability-only,2253
+43,Female,Divorced,Small Business Owner,5,Tesla Model S,591259,BD1 3EB,Yes,Collision,4209
+51,Female,Single,Lawyer,10,BMW X5,214361,PE1 1HA,No,Liability-only,4549
+58,Female,Married,Nurse,9,Audi Q5,248841,E1 6AN,No,Liability-only,1614
+24,Female,Single,Lawyer,13,BMW X5,396300,M1 1AA,Yes,Liability-only,4078
+21,Male,Single,Student,19,Nissan Altima,310786,OL4 1ES,No,Collision,4490
+62,Female,Married,Engineer,6,Toyota Corolla,691486,M1 1AA,No,Collision,4543
+28,Male,Divorced,Nurse,4,Nissan Altima,479095,CW1 2BB,No,Liability-only,9102
+46,Male,Widowed,Nurse,3,Ford F-150,586841,E1 6AN,Yes,Collision,2900
+53,Female,Divorced,Driver,3,Audi Q5,408466,TQ2 5HB,No,Liability-only,6680
+42,Female,Divorced,Sales Associate,4,Audi Q5,629198,SW1A 1AA,No,Collision,7751
+38,Female,Single,Engineer,5,Toyota Camry,693028,PE1 1HA,Yes,Liability-only,6862
+53,Female,Widowed,Engineer,8,Toyota Corolla,415954,BD1 3EB,Yes,Liability-only,2712
+27,Female,Widowed,Nurse,16,Toyota Camry,408308,MK9 1AN,No,Comprehensive,3329
+54,Male,Divorced,Lawyer,3,Tesla Model S,249855,BS2 8JD,Yes,Collision,2194
+26,Female,Married,Engineer,12,Honda Accord,271701,CV1 2WT,Yes,Collision,7781
+41,Female,Divorced,Nurse,8,Honda Accord,642281,SE1 8DP,Yes,Comprehensive,9162
+52,Male,Married,Engineer,13,BMW X5,490191,SW1A 1AA,No,Liability-only,5906
+52,Male,Widowed,Nurse,4,Honda Accord,260771,TQ2 5HB,No,Liability-only,2378
+53,Female,Divorced,Driver,14,Audi Q5,156163,OL4 1ES,Yes,Comprehensive,1749
+35,Male,Single,Sales Associate,14,Nissan Altima,166065,M1 1AA,No,Comprehensive,6292
+56,Female,Divorced,Nurse,13,Toyota Corolla,534467,E1 6AN,Yes,Liability-only,1300
+49,Male,Widowed,Engineer,6,BMW X5,495600,BS2 8JD,No,Collision,5695
+41,Male,Single,Student,17,BMW X5,647721,AL1 3NJ,Yes,Comprehensive,5624
+40,Female,Single,Sales Associate,4,Toyota Corolla,398924,AL1 3NJ,No,Comprehensive,4837
+49,Male,Married,Driver,8,Audi Q5,694517,SE1 8DP,Yes,Comprehensive,1277
+54,Male,Single,Nurse,17,Tesla Model S,464731,DN1 1QR,No,Comprehensive,4917
+29,Male,Single,Student,3,Tesla Model S,461857,AL1 3NJ,No,Comprehensive,8307
+30,Male,Divorced,Nurse,17,BMW X5,695389,CV1 2WT,Yes,Comprehensive,3161
+40,Male,Widowed,Lawyer,9,Tesla Model S,356935,CW1 2BB,No,Liability-only,2389
+42,Male,Married,Engineer,2,Audi Q5,222723,AL1 3NJ,No,Liability-only,9882
+52,Female,Divorced,IT Professional,13,Ford F-150,376293,TQ2 5HB,No,Comprehensive,5732
+58,Female,Single,Small Business Owner,2,Ford F-150,340477,SE1 8DP,No,Liability-only,4468
+47,Male,Single,Teacher,11,Toyota Camry,316020,CW1 2BB,No,Collision,7141
+34,Female,Married,Lawyer,15,Hyundai Elantra,450065,CV1 2WT,No,Collision,6969
+37,Female,Widowed,Student,11,Buick Encore,615787,SE1 8DP,No,Comprehensive,4816
+42,Female,Married,Lawyer,3,Honda Accord,620223,AL1 3NJ,No,Collision,6037
+39,Male,Divorced,Retired,3,Tesla Model S,661174,PE1 1HA,Yes,Collision,6994
+30,Female,Married,Nurse,12,Ford F-150,564287,OL4 1ES,No,Liability-only,3451
+36,Male,Single,Nurse,5,Nissan Altima,329354,MK9 1AN,Yes,Liability-only,1024
+53,Female,Divorced,Teacher,7,Toyota Corolla,470589,AL1 3NJ,No,Liability-only,6962
+29,Male,Single,Teacher,7,Hyundai Elantra,494352,SE1 8DP,Yes,Liability-only,3556
+58,Male,Widowed,Retired,13,Toyota Camry,598032,OL4 1ES,No,Collision,8632
+36,Female,Single,Engineer,9,Buick Encore,518427,OL4 1ES,Yes,Comprehensive,1060
+29,Female,Single,Small Business Owner,13,Ford F-150,235779,CW1 2BB,Yes,Liability-only,8675
+26,Male,Married,IT Professional,12,Toyota Camry,153060,CV1 2WT,No,Collision,1122
+24,Female,Single,IT Professional,13,Hyundai Elantra,425875,AL1 3NJ,Yes,Liability-only,6616
+45,Female,Divorced,Driver,10,Toyota Corolla,489974,DN1 1QR,No,Collision,2186
+31,Female,Divorced,Driver,1,Honda Accord,695007,BS2 8JD,No,Liability-only,6158
+48,Male,Widowed,Engineer,8,Ford F-150,664583,DN1 1QR,Yes,Comprehensive,8864
+36,Male,Divorced,Driver,16,Toyota Corolla,164551,MK9 1AN,No,Liability-only,5089
+64,Female,Married,Driver,13,Buick Encore,505431,PE1 1HA,Yes,Comprehensive,3472
+33,Female,Widowed,Retired,3,Tesla Model S,436422,DN1 1QR,Yes,Liability-only,8450
+22,Female,Divorced,Retired,3,Hyundai Elantra,634405,CV1 2WT,No,Liability-only,3964
+52,Male,Married,Driver,5,Buick Encore,165141,BS2 8JD,No,Liability-only,9104
+29,Male,Divorced,Lawyer,11,Honda Accord,480057,SW1A 1AA,No,Collision,2310
+42,Female,Divorced,Sales Associate,7,Toyota Corolla,439596,BS2 8JD,No,Collision,9346
+38,Female,Single,Sales Associate,10,Audi Q5,565941,M1 1AA,No,Comprehensive,3212
+53,Female,Divorced,Engineer,10,Honda Accord,263535,SW1A 1AA,Yes,Comprehensive,7792
+40,Female,Divorced,IT Professional,2,BMW X5,292770,CW1 2BB,Yes,Collision,9703
+33,Female,Married,Teacher,3,Ford F-150,389947,TQ2 5HB,No,Comprehensive,9378
+56,Female,Married,Engineer,8,Tesla Model S,414509,BD1 3EB,No,Comprehensive,2845
+62,Male,Single,Driver,11,Hyundai Elantra,283021,E1 6AN,No,Collision,8660
+59,Female,Divorced,Retired,13,Nissan Altima,520480,E1 6AN,Yes,Collision,2702
+56,Male,Single,Nurse,7,Toyota Corolla,181912,TQ2 5HB,Yes,Collision,1390
+31,Female,Divorced,Lawyer,13,Audi Q5,206947,DN1 1QR,Yes,Collision,1654
+48,Female,Widowed,Student,2,Nissan Altima,663676,SW1A 1AA,No,Liability-only,6835
+22,Male,Widowed,Retired,6,Ford F-150,640913,CW1 2BB,No,Collision,5271
+52,Male,Single,Sales Associate,9,Ford F-150,194387,TQ2 5HB,Yes,Comprehensive,9955
+40,Male,Single,Retired,2,Hyundai Elantra,428652,CW1 2BB,No,Liability-only,4400
+46,Male,Single,Lawyer,18,Audi Q5,457736,BS2 8JD,No,Liability-only,6319
+60,Female,Married,Teacher,16,Ford F-150,151919,CW1 2BB,Yes,Comprehensive,7732
+28,Male,Married,Driver,12,Nissan Altima,290689,DN1 1QR,Yes,Liability-only,7674
+35,Female,Married,Nurse,7,Audi Q5,618484,BS2 8JD,No,Comprehensive,2085
+64,Male,Single,Sales Associate,7,Nissan Altima,183298,CV1 2WT,Yes,Liability-only,6446
+29,Female,Divorced,Sales Associate,17,Honda Accord,387225,BD1 3EB,No,Liability-only,5376
+26,Female,Widowed,Small Business Owner,13,Buick Encore,383725,M1 1AA,Yes,Comprehensive,2963
+27,Female,Single,IT Professional,11,Audi Q5,426600,MK9 1AN,Yes,Comprehensive,6177
+61,Female,Married,Teacher,6,Toyota Camry,259599,BS2 8JD,No,Comprehensive,5572
+34,Female,Married,Sales Associate,14,Buick Encore,233721,DN1 1QR,No,Comprehensive,8543
+55,Female,Single,IT Professional,6,Buick Encore,499525,CW1 2BB,Yes,Collision,9907
+24,Male,Single,Sales Associate,6,Audi Q5,421372,OL4 1ES,No,Collision,1242
+63,Female,Married,Driver,2,Tesla Model S,686208,AL1 3NJ,Yes,Comprehensive,7510
+30,Male,Divorced,IT Professional,15,Ford F-150,681720,E1 6AN,No,Collision,4915
+57,Male,Married,Lawyer,17,Honda Accord,606791,BD1 3EB,Yes,Comprehensive,1837
+59,Female,Married,Small Business Owner,8,Tesla Model S,542653,AL1 3NJ,Yes,Comprehensive,4323
+26,Male,Single,Driver,5,Tesla Model S,483869,SE1 8DP,Yes,Liability-only,3953
+44,Female,Divorced,Lawyer,17,Toyota Camry,311298,CW1 2BB,No,Comprehensive,2432
+19,Male,Married,Nurse,1,Toyota Corolla,354222,DN1 1QR,Yes,Comprehensive,7854
+22,Female,Married,Teacher,18,Audi Q5,471243,BS2 8JD,Yes,Comprehensive,8655
+46,Male,Widowed,Teacher,15,Nissan Altima,262557,DN1 1QR,Yes,Comprehensive,9431
+54,Female,Single,Student,5,Ford F-150,692301,SW1A 1AA,Yes,Liability-only,9330
+55,Female,Widowed,Student,7,Tesla Model S,695734,M1 1AA,No,Comprehensive,9611
+36,Female,Widowed,IT Professional,18,Honda Accord,646409,OL4 1ES,No,Liability-only,1303
+25,Female,Married,Teacher,6,Toyota Corolla,412701,M1 1AA,Yes,Comprehensive,3162
+62,Male,Single,IT Professional,5,Toyota Camry,280878,AL1 3NJ,Yes,Liability-only,7486
+18,Female,Divorced,Student,19,BMW X5,698866,OL4 1ES,No,Collision,5102
+39,Male,Married,Nurse,10,Ford F-150,606610,PE1 1HA,Yes,Liability-only,7874
+34,Male,Divorced,Sales Associate,15,BMW X5,347118,E1 6AN,No,Liability-only,2168
+24,Male,Divorced,Lawyer,10,Buick Encore,687262,CW1 2BB,Yes,Comprehensive,1415
+42,Female,Single,Retired,16,Tesla Model S,347745,SE1 8DP,No,Liability-only,6243
+62,Male,Widowed,IT Professional,12,Hyundai Elantra,401366,AL1 3NJ,Yes,Liability-only,1149
+21,Male,Single,Nurse,18,Ford F-150,538938,BS2 8JD,No,Comprehensive,7524
+53,Male,Divorced,Lawyer,1,Nissan Altima,636649,E1 6AN,No,Collision,6899
+23,Female,Married,Teacher,16,Toyota Corolla,224442,MK9 1AN,No,Collision,1838
+48,Female,Divorced,Sales Associate,6,Honda Accord,283726,SE1 8DP,Yes,Collision,7144
+36,Male,Married,Lawyer,3,Ford F-150,277309,TQ2 5HB,No,Liability-only,8466
+61,Female,Married,Small Business Owner,2,Nissan Altima,663644,M1 1AA,No,Comprehensive,2320
+56,Female,Single,Student,2,Audi Q5,334681,E1 6AN,Yes,Collision,2523
+44,Male,Divorced,Lawyer,13,BMW X5,553552,TQ2 5HB,Yes,Collision,6234
+27,Male,Widowed,Retired,9,Audi Q5,459181,SE1 8DP,Yes,Collision,7144
+43,Female,Divorced,Nurse,16,Toyota Corolla,297278,SW1A 1AA,Yes,Collision,1552
+36,Male,Divorced,Sales Associate,5,Toyota Camry,193563,SW1A 1AA,No,Comprehensive,4756
+56,Female,Widowed,Driver,7,Tesla Model S,168361,SE1 8DP,Yes,Collision,4671
+20,Female,Single,Lawyer,13,Ford F-150,224469,M1 1AA,Yes,Liability-only,1481
+62,Female,Divorced,Engineer,13,Hyundai Elantra,670581,DN1 1QR,Yes,Liability-only,1599
+30,Female,Divorced,Retired,7,BMW X5,660571,SE1 8DP,Yes,Comprehensive,8677
+45,Female,Married,Retired,10,BMW X5,384295,SW1A 1AA,Yes,Collision,2982
+37,Female,Divorced,Engineer,15,Ford F-150,176819,TQ2 5HB,Yes,Collision,2634
+45,Male,Widowed,Small Business Owner,6,Buick Encore,534474,BD1 3EB,Yes,Liability-only,8830
+25,Male,Married,Driver,5,Audi Q5,158798,OL4 1ES,No,Comprehensive,3997
+58,Female,Single,Student,2,BMW X5,575963,DN1 1QR,No,Liability-only,1686
+56,Female,Married,Nurse,15,Nissan Altima,403800,BD1 3EB,No,Comprehensive,6529
+18,Female,Widowed,Sales Associate,16,Honda Accord,683703,M1 1AA,No,Comprehensive,2759
+20,Male,Widowed,Nurse,19,Tesla Model S,558224,CV1 2WT,No,Comprehensive,8023
+30,Female,Married,Driver,9,BMW X5,692740,E1 6AN,Yes,Liability-only,7208
+45,Male,Single,Nurse,19,Nissan Altima,607291,PE1 1HA,Yes,Comprehensive,8234
+42,Female,Married,Engineer,7,Toyota Corolla,551336,BS2 8JD,Yes,Liability-only,3480
+50,Female,Single,Retired,4,Toyota Corolla,168170,BS2 8JD,Yes,Liability-only,8476
+55,Male,Married,Nurse,3,Tesla Model S,166259,MK9 1AN,No,Collision,8770
+23,Male,Widowed,IT Professional,11,Buick Encore,434243,AL1 3NJ,No,Liability-only,1114
+61,Female,Divorced,Lawyer,1,Hyundai Elantra,290721,AL1 3NJ,Yes,Liability-only,1568
+62,Female,Divorced,Driver,6,Tesla Model S,279394,M1 1AA,Yes,Collision,8951
+49,Female,Single,Small Business Owner,11,Toyota Camry,471402,AL1 3NJ,No,Collision,3689
+62,Male,Single,IT Professional,1,Buick Encore,322109,MK9 1AN,No,Collision,5590
+64,Male,Single,Engineer,7,BMW X5,423949,BS2 8JD,No,Comprehensive,4340
+38,Male,Widowed,Teacher,6,Tesla Model S,659212,BD1 3EB,Yes,Comprehensive,3988
+33,Male,Married,Engineer,14,Audi Q5,404599,PE1 1HA,Yes,Collision,4151
+38,Male,Widowed,Small Business Owner,2,Toyota Corolla,193147,TQ2 5HB,No,Comprehensive,4015
+28,Male,Divorced,Small Business Owner,4,Nissan Altima,224280,SW1A 1AA,No,Collision,7345
+54,Female,Single,IT Professional,11,Tesla Model S,327125,BS2 8JD,Yes,Comprehensive,4574
+53,Female,Married,Lawyer,15,Audi Q5,518921,BD1 3EB,Yes,Liability-only,8838
+52,Male,Divorced,Driver,18,Buick Encore,634609,CV1 2WT,Yes,Comprehensive,2608
+36,Female,Divorced,Student,1,Toyota Camry,540503,M1 1AA,Yes,Comprehensive,1559
+37,Female,Divorced,Retired,3,Nissan Altima,226215,CW1 2BB,No,Liability-only,7621
+35,Male,Widowed,IT Professional,3,Honda Accord,507509,CV1 2WT,No,Collision,8126
+64,Female,Single,Small Business Owner,7,Toyota Camry,423129,TQ2 5HB,No,Comprehensive,6565
+58,Male,Divorced,Teacher,1,BMW X5,424535,SW1A 1AA,Yes,Comprehensive,5435
+31,Male,Single,Sales Associate,11,Audi Q5,679149,CV1 2WT,Yes,Liability-only,6650
+32,Female,Widowed,Small Business Owner,6,Tesla Model S,411968,DN1 1QR,Yes,Liability-only,9803
+48,Male,Divorced,Lawyer,3,Tesla Model S,446508,TQ2 5HB,No,Liability-only,2881
+18,Male,Widowed,Lawyer,19,Ford F-150,494543,DN1 1QR,No,Liability-only,5169
+20,Male,Widowed,Small Business Owner,2,Toyota Corolla,640251,BS2 8JD,No,Collision,4863
+33,Male,Single,Lawyer,18,BMW X5,664060,M1 1AA,Yes,Comprehensive,8436
+40,Male,Divorced,IT Professional,12,Audi Q5,374402,OL4 1ES,Yes,Comprehensive,4708
+28,Male,Widowed,Small Business Owner,10,Tesla Model S,336968,DN1 1QR,No,Comprehensive,2709
+29,Male,Divorced,Small Business Owner,5,Honda Accord,651854,SE1 8DP,Yes,Comprehensive,8860
+27,Male,Single,Driver,9,Nissan Altima,497962,CV1 2WT,No,Collision,2692
+49,Female,Widowed,Retired,2,BMW X5,483304,AL1 3NJ,No,Comprehensive,1125
+33,Female,Single,Teacher,2,Buick Encore,278165,BD1 3EB,No,Collision,2199
+25,Female,Divorced,Lawyer,6,Honda Accord,380314,OL4 1ES,No,Collision,7092
+55,Male,Divorced,Driver,10,Nissan Altima,551392,M1 1AA,Yes,Liability-only,3711
+29,Male,Single,Student,18,Hyundai Elantra,445673,MK9 1AN,Yes,Liability-only,7228
+41,Female,Married,Student,12,Toyota Corolla,599622,CW1 2BB,Yes,Comprehensive,6995
+45,Female,Widowed,Nurse,4,BMW X5,675957,PE1 1HA,Yes,Collision,9182
+25,Female,Divorced,IT Professional,17,Audi Q5,457003,DN1 1QR,Yes,Liability-only,6502
+45,Male,Divorced,IT Professional,15,Toyota Camry,694611,OL4 1ES,Yes,Collision,6760
+53,Female,Widowed,Engineer,6,Nissan Altima,380502,CW1 2BB,No,Liability-only,6582
+43,Female,Single,Teacher,16,Buick Encore,680309,BS2 8JD,Yes,Collision,3498
+25,Male,Single,Small Business Owner,17,Tesla Model S,670766,E1 6AN,Yes,Comprehensive,3565
+45,Female,Single,Lawyer,3,Toyota Camry,451951,DN1 1QR,Yes,Comprehensive,7989
+45,Male,Married,Teacher,10,Honda Accord,540449,SE1 8DP,No,Collision,5790
+54,Male,Married,Nurse,5,Toyota Corolla,462499,TQ2 5HB,Yes,Liability-only,6024
+58,Male,Divorced,Engineer,14,Audi Q5,645655,BS2 8JD,No,Liability-only,9307
+53,Female,Single,Driver,13,Toyota Camry,420855,M1 1AA,Yes,Comprehensive,2031
+44,Female,Widowed,Teacher,6,Buick Encore,606295,E1 6AN,Yes,Comprehensive,2241
+34,Male,Divorced,Driver,12,Nissan Altima,157904,CW1 2BB,Yes,Comprehensive,2742
+26,Female,Widowed,Student,8,Audi Q5,270035,E1 6AN,No,Liability-only,6709
+50,Female,Divorced,Lawyer,5,Hyundai Elantra,336168,PE1 1HA,No,Liability-only,6999
+37,Female,Married,Nurse,15,Tesla Model S,371666,AL1 3NJ,Yes,Comprehensive,5090
+30,Female,Divorced,Small Business Owner,16,Toyota Corolla,415237,AL1 3NJ,Yes,Collision,9160
+45,Male,Married,Lawyer,1,Toyota Camry,437062,BS2 8JD,Yes,Liability-only,7883
+46,Female,Divorced,Retired,16,Toyota Corolla,343708,MK9 1AN,No,Comprehensive,6129
+30,Male,Single,IT Professional,5,Toyota Corolla,290466,SW1A 1AA,No,Collision,5403
+63,Male,Widowed,Nurse,3,Toyota Corolla,274501,BS2 8JD,Yes,Liability-only,7577
+52,Female,Single,Teacher,15,Nissan Altima,243708,DN1 1QR,No,Collision,5897
+23,Male,Divorced,Lawyer,13,Toyota Corolla,385603,TQ2 5HB,No,Collision,1163
+35,Female,Divorced,Sales Associate,16,Hyundai Elantra,664908,M1 1AA,No,Liability-only,4310
+22,Female,Divorced,IT Professional,11,Honda Accord,673526,M1 1AA,No,Comprehensive,4388
+64,Male,Married,IT Professional,2,Buick Encore,306837,BD1 3EB,Yes,Collision,1995
+42,Male,Widowed,Sales Associate,6,Audi Q5,545556,PE1 1HA,Yes,Comprehensive,7161
+19,Male,Widowed,Engineer,6,Hyundai Elantra,669676,M1 1AA,No,Liability-only,2877
+27,Male,Divorced,Engineer,14,Audi Q5,427169,CV1 2WT,No,Collision,9103
+47,Female,Divorced,Sales Associate,11,Buick Encore,419289,MK9 1AN,No,Collision,4264
+62,Female,Married,Retired,8,Honda Accord,336869,PE1 1HA,Yes,Collision,2348
+22,Female,Single,Student,8,BMW X5,566968,BD1 3EB,Yes,Collision,3251
+50,Male,Single,Sales Associate,1,Audi Q5,258138,AL1 3NJ,No,Collision,8290
+18,Male,Widowed,Student,7,Audi Q5,212040,TQ2 5HB,No,Liability-only,9018
+35,Male,Married,Lawyer,6,Honda Accord,654788,OL4 1ES,No,Collision,7590
+49,Female,Divorced,Retired,8,Toyota Camry,607864,MK9 1AN,No,Liability-only,8658
+64,Male,Widowed,Nurse,19,Hyundai Elantra,206815,BD1 3EB,Yes,Comprehensive,1432
+28,Female,Married,Student,8,Toyota Camry,366741,BD1 3EB,Yes,Liability-only,6743
+38,Male,Single,IT Professional,14,Toyota Camry,262789,SW1A 1AA,Yes,Collision,6247
+43,Female,Married,Lawyer,18,Toyota Camry,578906,MK9 1AN,Yes,Comprehensive,8715
+42,Female,Single,IT Professional,16,Toyota Corolla,317644,TQ2 5HB,Yes,Liability-only,4817
+39,Male,Married,Retired,9,Tesla Model S,335102,BS2 8JD,Yes,Liability-only,2070
+44,Male,Widowed,Student,15,Audi Q5,480048,TQ2 5HB,No,Liability-only,5600
+30,Female,Single,Driver,10,Toyota Camry,387469,SE1 8DP,No,Collision,9306
+50,Female,Widowed,Retired,16,Hyundai Elantra,227088,MK9 1AN,Yes,Collision,1994
+51,Male,Widowed,Retired,4,Tesla Model S,679896,E1 6AN,Yes,Liability-only,5318
+58,Male,Single,Driver,13,Tesla Model S,650812,SW1A 1AA,Yes,Liability-only,5731
+52,Female,Single,Lawyer,5,Toyota Camry,384907,AL1 3NJ,No,Comprehensive,7068
+18,Male,Divorced,Student,7,Nissan Altima,207560,CW1 2BB,No,Collision,8670
+38,Female,Divorced,Student,9,Toyota Camry,364601,CW1 2BB,No,Collision,5767
+23,Female,Divorced,IT Professional,8,Nissan Altima,526606,SW1A 1AA,No,Comprehensive,1957
+45,Male,Widowed,Retired,16,Toyota Camry,334286,DN1 1QR,Yes,Liability-only,9287
+34,Male,Widowed,Retired,6,Hyundai Elantra,430141,M1 1AA,No,Liability-only,3154
+22,Male,Divorced,Small Business Owner,16,Nissan Altima,271266,AL1 3NJ,Yes,Comprehensive,1631
+48,Male,Widowed,Nurse,6,Toyota Corolla,153679,CV1 2WT,No,Liability-only,7045
+22,Male,Widowed,Retired,14,Tesla Model S,638241,DN1 1QR,No,Liability-only,1697
+55,Female,Single,Teacher,1,Toyota Camry,356096,M1 1AA,No,Comprehensive,1031
+20,Female,Single,Nurse,9,Tesla Model S,597154,M1 1AA,No,Comprehensive,7209
+40,Male,Widowed,Teacher,13,Toyota Camry,679983,BD1 3EB,Yes,Comprehensive,5874
+54,Male,Divorced,Student,19,Audi Q5,376812,AL1 3NJ,Yes,Liability-only,6562
+54,Male,Married,Nurse,17,Audi Q5,173382,E1 6AN,Yes,Comprehensive,9740
+27,Female,Divorced,Retired,11,Ford F-150,308539,M1 1AA,Yes,Liability-only,3248
+27,Male,Married,Driver,8,Toyota Camry,602532,TQ2 5HB,Yes,Collision,7192
+36,Male,Divorced,IT Professional,5,Ford F-150,524612,SE1 8DP,Yes,Collision,7406
+34,Female,Single,Teacher,10,Honda Accord,156764,PE1 1HA,Yes,Comprehensive,2156
+38,Female,Widowed,Nurse,7,Honda Accord,211836,CV1 2WT,No,Liability-only,9535
+31,Male,Widowed,Retired,10,Tesla Model S,444067,CV1 2WT,Yes,Liability-only,6295
+26,Male,Single,Nurse,4,Nissan Altima,405033,M1 1AA,No,Liability-only,7154
+63,Male,Married,Retired,9,Toyota Camry,166292,SE1 8DP,Yes,Comprehensive,3248
+18,Female,Married,Retired,14,Buick Encore,433083,PE1 1HA,No,Liability-only,4285
+62,Male,Married,Retired,2,Toyota Camry,393772,OL4 1ES,Yes,Liability-only,3003
+30,Male,Single,Small Business Owner,9,Toyota Camry,168800,BS2 8JD,No,Liability-only,4615
+21,Male,Married,IT Professional,1,Buick Encore,206440,BS2 8JD,Yes,Collision,4672
+18,Female,Single,Driver,10,Honda Accord,566462,BS2 8JD,Yes,Liability-only,8458
+57,Female,Divorced,Driver,10,Ford F-150,596021,DN1 1QR,Yes,Collision,3155
+49,Male,Divorced,Nurse,3,Tesla Model S,600067,BD1 3EB,Yes,Liability-only,4479
+51,Male,Single,Nurse,6,Honda Accord,505642,CV1 2WT,No,Liability-only,1051
+45,Female,Widowed,Retired,6,Buick Encore,319573,TQ2 5HB,Yes,Liability-only,3159
+48,Female,Divorced,Small Business Owner,2,Toyota Camry,207207,CW1 2BB,Yes,Collision,5390
+25,Female,Married,Retired,18,Honda Accord,212157,CW1 2BB,No,Liability-only,4651
+56,Female,Single,Small Business Owner,2,Hyundai Elantra,284288,BD1 3EB,Yes,Comprehensive,8356
+43,Female,Married,Retired,12,Audi Q5,243778,M1 1AA,No,Liability-only,3112
+51,Female,Married,Teacher,5,Toyota Camry,280016,DN1 1QR,No,Collision,6765
+20,Female,Widowed,Teacher,7,BMW X5,318204,AL1 3NJ,Yes,Collision,2354
+29,Female,Married,Student,16,Buick Encore,260573,AL1 3NJ,Yes,Comprehensive,6620
+18,Female,Widowed,Retired,1,Toyota Corolla,270730,BS2 8JD,No,Comprehensive,4754
+61,Male,Divorced,IT Professional,1,Nissan Altima,214186,SW1A 1AA,Yes,Comprehensive,1209
+22,Male,Single,Student,17,Toyota Corolla,655349,AL1 3NJ,No,Collision,7232
+47,Male,Married,Nurse,1,Honda Accord,168781,M1 1AA,Yes,Liability-only,8846
+47,Female,Single,Lawyer,13,Toyota Camry,387677,SW1A 1AA,Yes,Liability-only,7171
+34,Male,Married,Retired,9,Nissan Altima,407506,OL4 1ES,No,Comprehensive,1237
+64,Female,Single,Teacher,15,Nissan Altima,181126,BD1 3EB,Yes,Comprehensive,9527
+40,Female,Married,Lawyer,3,Tesla Model S,388217,MK9 1AN,Yes,Liability-only,9075
+32,Male,Married,Small Business Owner,14,Toyota Corolla,565794,OL4 1ES,Yes,Comprehensive,2576
+54,Female,Married,Lawyer,11,Toyota Camry,665474,CV1 2WT,No,Liability-only,9691
+38,Male,Married,IT Professional,12,Tesla Model S,430027,AL1 3NJ,Yes,Liability-only,9982
+31,Male,Married,Retired,13,Ford F-150,468531,PE1 1HA,No,Liability-only,4540
+19,Male,Married,Driver,13,Toyota Corolla,411161,DN1 1QR,Yes,Liability-only,8257
+28,Female,Married,Lawyer,1,Audi Q5,216266,BS2 8JD,No,Collision,1149
+56,Male,Married,Driver,10,Audi Q5,674344,BD1 3EB,Yes,Liability-only,2624
+55,Female,Married,Small Business Owner,3,Tesla Model S,443601,BS2 8JD,Yes,Comprehensive,8661
+51,Male,Single,Student,4,Ford F-150,545459,AL1 3NJ,No,Comprehensive,3574
+55,Male,Widowed,Driver,16,Hyundai Elantra,598247,DN1 1QR,Yes,Comprehensive,5428
+51,Male,Married,Student,8,Hyundai Elantra,282773,E1 6AN,No,Comprehensive,8529
+35,Female,Widowed,Teacher,16,Audi Q5,485983,AL1 3NJ,Yes,Collision,5269
+47,Female,Married,Retired,17,BMW X5,230636,BD1 3EB,No,Liability-only,8769
+32,Female,Married,Lawyer,19,Buick Encore,519841,SW1A 1AA,Yes,Liability-only,3108
+44,Male,Single,Teacher,15,Buick Encore,216483,CW1 2BB,No,Comprehensive,4947
+51,Male,Divorced,Teacher,16,BMW X5,170505,SW1A 1AA,Yes,Comprehensive,8899
+55,Female,Divorced,Sales Associate,15,Tesla Model S,549769,BD1 3EB,No,Comprehensive,5914
+50,Female,Single,Engineer,2,Buick Encore,361474,SE1 8DP,No,Liability-only,7667
+41,Female,Widowed,IT Professional,11,Buick Encore,246008,SW1A 1AA,Yes,Collision,3263
+32,Female,Divorced,Student,1,Toyota Corolla,194348,PE1 1HA,No,Collision,4815
+47,Female,Single,Sales Associate,15,Toyota Corolla,419417,AL1 3NJ,No,Collision,1577
+59,Female,Single,Engineer,19,BMW X5,476380,SE1 8DP,Yes,Collision,1422
+34,Male,Divorced,IT Professional,4,Toyota Camry,284607,DN1 1QR,Yes,Comprehensive,3763
+22,Female,Widowed,Student,11,Ford F-150,257157,CW1 2BB,Yes,Liability-only,2229
+46,Male,Single,Retired,5,Tesla Model S,675196,M1 1AA,Yes,Comprehensive,4176
+21,Male,Married,IT Professional,3,Toyota Corolla,402299,DN1 1QR,Yes,Collision,9945
+27,Female,Widowed,Lawyer,13,Toyota Corolla,351225,M1 1AA,Yes,Comprehensive,1687
+34,Female,Widowed,Teacher,10,Hyundai Elantra,258352,PE1 1HA,No,Collision,1722
+27,Male,Divorced,Engineer,11,Ford F-150,245967,CV1 2WT,No,Liability-only,1746
+34,Female,Divorced,Engineer,18,Hyundai Elantra,501133,PE1 1HA,No,Collision,5337
+37,Female,Married,Engineer,2,Toyota Camry,362628,MK9 1AN,Yes,Comprehensive,3712
+41,Male,Single,Student,7,Ford F-150,261889,PE1 1HA,Yes,Liability-only,1707
+22,Male,Divorced,Lawyer,9,Buick Encore,412063,TQ2 5HB,No,Collision,9626
+51,Male,Divorced,IT Professional,10,Hyundai Elantra,461467,PE1 1HA,No,Collision,1483
+23,Female,Widowed,Teacher,18,Audi Q5,502053,PE1 1HA,Yes,Liability-only,2533
+19,Male,Divorced,Lawyer,7,Tesla Model S,196105,PE1 1HA,No,Comprehensive,1169
+30,Female,Divorced,Sales Associate,7,Buick Encore,573380,OL4 1ES,Yes,Liability-only,2020
+60,Male,Divorced,Retired,3,Ford F-150,282957,CW1 2BB,Yes,Comprehensive,8093
+60,Male,Divorced,Driver,12,Audi Q5,151049,TQ2 5HB,No,Collision,7466
+28,Male,Widowed,Lawyer,7,Toyota Camry,455415,BD1 3EB,Yes,Collision,1847
+64,Female,Married,Sales Associate,17,Audi Q5,216697,MK9 1AN,Yes,Liability-only,9887
+40,Female,Married,Teacher,1,Toyota Corolla,609567,SW1A 1AA,Yes,Collision,4346
+33,Male,Single,Driver,5,BMW X5,186534,AL1 3NJ,Yes,Liability-only,5013
+48,Male,Divorced,Driver,16,Audi Q5,243034,SE1 8DP,No,Collision,9078
+28,Male,Widowed,Lawyer,15,Nissan Altima,208097,PE1 1HA,Yes,Collision,1031
+33,Female,Single,Engineer,2,Toyota Camry,437181,CV1 2WT,Yes,Comprehensive,9368
+25,Male,Single,Nurse,9,Buick Encore,579223,BS2 8JD,No,Liability-only,8877
+21,Female,Married,Teacher,7,Hyundai Elantra,622694,AL1 3NJ,Yes,Liability-only,7170
+57,Male,Widowed,Engineer,4,Honda Accord,660708,BS2 8JD,Yes,Collision,8830
+21,Male,Widowed,Teacher,18,Toyota Camry,511317,SE1 8DP,No,Comprehensive,3315
+42,Male,Widowed,Nurse,4,Nissan Altima,154694,SE1 8DP,No,Comprehensive,1065
+20,Male,Married,Retired,13,Toyota Corolla,695844,AL1 3NJ,Yes,Liability-only,2928
+49,Male,Married,Nurse,1,Hyundai Elantra,345543,SW1A 1AA,Yes,Liability-only,6011
+20,Male,Married,Small Business Owner,3,Tesla Model S,329559,CV1 2WT,No,Collision,8533
+44,Female,Married,Lawyer,16,Honda Accord,643857,MK9 1AN,Yes,Liability-only,7225
+46,Male,Married,Lawyer,4,Audi Q5,666304,OL4 1ES,Yes,Collision,6447
+49,Female,Divorced,Sales Associate,16,Nissan Altima,676748,M1 1AA,Yes,Comprehensive,1584
+36,Male,Divorced,Engineer,19,Audi Q5,222356,SE1 8DP,No,Liability-only,7470
+38,Male,Widowed,Sales Associate,1,Tesla Model S,409925,SW1A 1AA,Yes,Comprehensive,7685
+22,Female,Single,Small Business Owner,5,Toyota Camry,690479,CV1 2WT,No,Comprehensive,6244
+35,Male,Widowed,Nurse,19,BMW X5,395702,SE1 8DP,No,Collision,9154
+45,Female,Single,Lawyer,11,Nissan Altima,182175,DN1 1QR,No,Comprehensive,8951
+59,Female,Married,Student,13,Ford F-150,429819,E1 6AN,No,Collision,2748
+39,Male,Single,Nurse,5,Buick Encore,586374,M1 1AA,Yes,Collision,8670
+38,Female,Widowed,Nurse,4,Ford F-150,542544,DN1 1QR,No,Comprehensive,3204
+23,Female,Widowed,Small Business Owner,4,BMW X5,490822,SE1 8DP,Yes,Comprehensive,2892
+18,Male,Single,Retired,4,Tesla Model S,212821,CV1 2WT,No,Collision,8018
+22,Female,Divorced,Teacher,4,Ford F-150,660559,SE1 8DP,No,Collision,4093
+58,Male,Married,Small Business Owner,18,Toyota Corolla,162204,BS2 8JD,Yes,Comprehensive,1973
+29,Male,Married,Teacher,18,Nissan Altima,396464,AL1 3NJ,No,Collision,5024
+43,Male,Widowed,Lawyer,16,Toyota Corolla,183593,AL1 3NJ,No,Collision,7615
+63,Male,Divorced,Small Business Owner,9,Honda Accord,358260,SW1A 1AA,Yes,Liability-only,5329
+51,Female,Single,Teacher,18,BMW X5,265064,MK9 1AN,No,Liability-only,7715
+31,Male,Married,Sales Associate,2,Honda Accord,642492,SE1 8DP,No,Liability-only,2477
+43,Male,Divorced,Small Business Owner,4,Honda Accord,203365,CV1 2WT,No,Liability-only,6689
+62,Female,Married,Lawyer,12,Honda Accord,370511,BS2 8JD,Yes,Liability-only,9962
+44,Male,Divorced,Small Business Owner,7,Toyota Camry,642274,OL4 1ES,No,Collision,8329
+26,Male,Divorced,Lawyer,15,Toyota Camry,571396,OL4 1ES,Yes,Collision,7444
+43,Female,Widowed,Small Business Owner,7,BMW X5,629871,BS2 8JD,Yes,Liability-only,9497
+64,Female,Married,Teacher,17,Hyundai Elantra,356971,BD1 3EB,Yes,Comprehensive,1001
+39,Female,Single,Retired,16,Ford F-150,253700,TQ2 5HB,No,Liability-only,9462
+64,Female,Widowed,IT Professional,19,Toyota Camry,509221,CV1 2WT,No,Comprehensive,7843
+47,Female,Widowed,Teacher,9,Audi Q5,546681,OL4 1ES,No,Collision,6972
+60,Female,Single,Engineer,14,Toyota Corolla,218247,MK9 1AN,No,Comprehensive,8903
+34,Female,Widowed,Driver,17,Toyota Camry,332631,BD1 3EB,Yes,Collision,6105
+43,Male,Divorced,Retired,5,Tesla Model S,306270,CV1 2WT,Yes,Comprehensive,8702
+53,Female,Divorced,Sales Associate,2,Honda Accord,303560,DN1 1QR,No,Collision,3914
+18,Female,Married,Nurse,16,Toyota Camry,659627,BS2 8JD,No,Collision,6156
+25,Female,Married,Teacher,14,BMW X5,440042,DN1 1QR,Yes,Liability-only,9298
+52,Male,Single,Small Business Owner,14,Toyota Corolla,545135,PE1 1HA,No,Collision,4168
+32,Male,Married,Teacher,1,Toyota Corolla,331142,BD1 3EB,No,Liability-only,3599
+64,Female,Divorced,Student,3,Hyundai Elantra,246707,BD1 3EB,No,Liability-only,6716
+39,Female,Single,Retired,7,Buick Encore,523921,SW1A 1AA,No,Liability-only,3235
+31,Female,Single,IT Professional,15,Buick Encore,197003,TQ2 5HB,No,Comprehensive,3799
+43,Male,Married,Sales Associate,19,Ford F-150,557650,SE1 8DP,No,Comprehensive,8013
+45,Male,Divorced,Student,2,Audi Q5,579865,CW1 2BB,Yes,Collision,6473
+40,Female,Single,Lawyer,19,Nissan Altima,545215,CW1 2BB,Yes,Liability-only,1018
+31,Male,Divorced,Student,9,BMW X5,295921,CV1 2WT,Yes,Liability-only,1858
+41,Female,Divorced,Teacher,19,Tesla Model S,619655,DN1 1QR,Yes,Collision,6380
+19,Male,Divorced,Sales Associate,5,Toyota Camry,656220,DN1 1QR,No,Liability-only,4032
+62,Male,Married,Teacher,18,BMW X5,658524,SE1 8DP,No,Collision,5505
+43,Female,Widowed,Lawyer,16,Audi Q5,181153,DN1 1QR,Yes,Liability-only,6789
+31,Female,Widowed,Nurse,4,Buick Encore,284411,TQ2 5HB,Yes,Comprehensive,3531
+24,Female,Single,Sales Associate,12,BMW X5,562610,AL1 3NJ,Yes,Collision,8471
+20,Female,Divorced,Nurse,7,Toyota Camry,466015,M1 1AA,Yes,Collision,5719
+64,Male,Married,Retired,14,Hyundai Elantra,620938,PE1 1HA,Yes,Comprehensive,5863
+40,Male,Divorced,Retired,12,Ford F-150,446751,M1 1AA,No,Collision,5038
+63,Male,Divorced,Nurse,3,Hyundai Elantra,202055,BD1 3EB,No,Comprehensive,3452
+60,Female,Married,Retired,5,Buick Encore,254509,E1 6AN,Yes,Liability-only,3846
+64,Male,Widowed,Sales Associate,17,Honda Accord,285467,OL4 1ES,Yes,Comprehensive,9064
+62,Female,Divorced,Small Business Owner,10,Buick Encore,558506,OL4 1ES,No,Comprehensive,7622
+35,Male,Divorced,Engineer,10,Ford F-150,237687,SE1 8DP,No,Collision,9896
+55,Female,Widowed,Retired,11,Toyota Camry,477222,TQ2 5HB,No,Liability-only,4462
+52,Female,Married,Retired,17,Audi Q5,546907,TQ2 5HB,Yes,Comprehensive,2159
+32,Male,Single,Teacher,5,Nissan Altima,550686,CW1 2BB,No,Liability-only,5626
+42,Female,Widowed,Nurse,13,Hyundai Elantra,252652,E1 6AN,Yes,Comprehensive,8056
+54,Female,Single,Driver,10,Buick Encore,475341,SE1 8DP,Yes,Collision,4722
+45,Male,Single,IT Professional,9,Audi Q5,669846,TQ2 5HB,No,Comprehensive,4560
+27,Female,Widowed,Student,17,Hyundai Elantra,352668,BD1 3EB,No,Comprehensive,7117
+56,Female,Divorced,Retired,1,Buick Encore,547516,E1 6AN,No,Liability-only,7589
+34,Female,Single,Student,4,Ford F-150,212601,OL4 1ES,Yes,Comprehensive,7849
+56,Male,Single,Sales Associate,4,Hyundai Elantra,286559,CV1 2WT,No,Collision,3243
+39,Male,Married,Driver,18,Buick Encore,186282,BD1 3EB,No,Collision,9177
+43,Female,Divorced,IT Professional,9,Toyota Camry,376137,SE1 8DP,Yes,Comprehensive,2760
+61,Male,Single,Nurse,18,Ford F-150,527591,SW1A 1AA,No,Comprehensive,6442
+42,Female,Married,Engineer,14,Audi Q5,309876,AL1 3NJ,No,Liability-only,8679
+34,Female,Divorced,IT Professional,15,Audi Q5,423302,BS2 8JD,Yes,Liability-only,3675
+30,Female,Widowed,IT Professional,6,Nissan Altima,355229,BD1 3EB,Yes,Collision,8124
+37,Female,Widowed,Engineer,10,BMW X5,160547,BD1 3EB,Yes,Liability-only,6781
+42,Female,Married,Small Business Owner,15,Honda Accord,500857,AL1 3NJ,Yes,Comprehensive,4236
+21,Male,Widowed,Nurse,4,Toyota Camry,414603,PE1 1HA,Yes,Collision,6898
+27,Female,Single,Teacher,18,Ford F-150,213146,CV1 2WT,No,Liability-only,9235
+20,Male,Divorced,Student,18,Hyundai Elantra,515721,TQ2 5HB,No,Collision,9680
+58,Male,Single,Retired,17,Audi Q5,515871,TQ2 5HB,Yes,Comprehensive,5276
+62,Female,Single,IT Professional,12,Toyota Camry,462604,TQ2 5HB,No,Liability-only,5723
+35,Female,Widowed,Sales Associate,7,Ford F-150,232970,AL1 3NJ,No,Comprehensive,6644
+64,Male,Single,Engineer,16,Ford F-150,319319,M1 1AA,Yes,Comprehensive,2115
+53,Male,Widowed,Student,11,Hyundai Elantra,689707,M1 1AA,Yes,Collision,2781
+64,Male,Divorced,Driver,14,Ford F-150,152921,BD1 3EB,Yes,Collision,9842
+39,Female,Divorced,Engineer,3,Tesla Model S,629177,TQ2 5HB,No,Collision,2876
+51,Male,Single,Driver,19,Toyota Camry,592900,PE1 1HA,Yes,Liability-only,6363
+64,Female,Married,Nurse,18,Buick Encore,294535,OL4 1ES,No,Liability-only,9532
+25,Female,Widowed,IT Professional,10,Audi Q5,671317,PE1 1HA,No,Collision,4375
+57,Female,Widowed,Sales Associate,6,Audi Q5,610221,MK9 1AN,No,Liability-only,3750
+61,Male,Single,Retired,13,Buick Encore,222828,M1 1AA,No,Liability-only,4276
+36,Female,Widowed,Driver,10,Toyota Camry,501206,PE1 1HA,Yes,Collision,1448
+59,Female,Widowed,Student,18,Honda Accord,205152,PE1 1HA,No,Comprehensive,6537
+58,Female,Married,Small Business Owner,16,Toyota Camry,370073,SW1A 1AA,Yes,Liability-only,5172
+54,Female,Married,Nurse,6,Toyota Corolla,508635,CV1 2WT,No,Liability-only,9989
+23,Female,Single,Small Business Owner,13,Ford F-150,373393,BD1 3EB,Yes,Comprehensive,4496
+43,Male,Married,Nurse,4,BMW X5,236569,MK9 1AN,Yes,Comprehensive,3182
+51,Female,Single,Teacher,14,Hyundai Elantra,559579,DN1 1QR,Yes,Comprehensive,4326
+62,Female,Divorced,Student,1,Tesla Model S,602220,SW1A 1AA,No,Collision,9837
+23,Male,Single,Small Business Owner,5,BMW X5,272537,CV1 2WT,No,Comprehensive,1719
+54,Female,Divorced,Sales Associate,8,Buick Encore,203806,OL4 1ES,No,Collision,2522
+50,Male,Single,IT Professional,12,Hyundai Elantra,434464,OL4 1ES,Yes,Comprehensive,7756
+39,Female,Widowed,Engineer,2,Hyundai Elantra,491115,M1 1AA,No,Comprehensive,7627
+38,Male,Married,Retired,12,Hyundai Elantra,323217,SE1 8DP,No,Collision,2069
+23,Male,Divorced,IT Professional,5,Audi Q5,344760,AL1 3NJ,No,Collision,6562
+23,Female,Single,IT Professional,5,Tesla Model S,460725,CW1 2BB,Yes,Comprehensive,8749
+21,Female,Married,Nurse,13,Audi Q5,695042,BD1 3EB,No,Comprehensive,5887
+47,Female,Single,Sales Associate,9,Ford F-150,219837,DN1 1QR,No,Comprehensive,5674
+28,Male,Married,Nurse,10,Toyota Corolla,368811,SE1 8DP,Yes,Liability-only,3156
+47,Male,Married,Lawyer,1,Nissan Altima,472666,SW1A 1AA,Yes,Comprehensive,8944
+48,Male,Single,Driver,3,Tesla Model S,667447,BD1 3EB,Yes,Collision,5139
+41,Female,Divorced,Retired,18,BMW X5,262099,AL1 3NJ,Yes,Liability-only,6629
+26,Male,Divorced,Driver,12,Ford F-150,235015,AL1 3NJ,Yes,Collision,8087
+20,Male,Widowed,Engineer,3,Toyota Camry,327171,E1 6AN,Yes,Liability-only,6078
+48,Female,Married,Lawyer,9,Buick Encore,543522,MK9 1AN,No,Liability-only,7405
+57,Male,Widowed,Student,2,Toyota Corolla,500639,CV1 2WT,No,Collision,7871
+54,Male,Widowed,Engineer,3,Ford F-150,254332,SW1A 1AA,Yes,Liability-only,1632
+53,Female,Single,Engineer,14,Toyota Camry,680624,M1 1AA,No,Collision,3199
+41,Male,Single,Teacher,4,Toyota Corolla,524344,E1 6AN,Yes,Comprehensive,6353
+48,Female,Single,Retired,19,Toyota Camry,429400,OL4 1ES,No,Liability-only,3910
+23,Female,Married,Nurse,13,Tesla Model S,330889,CW1 2BB,Yes,Collision,1622
+19,Female,Single,Sales Associate,7,Toyota Camry,649920,MK9 1AN,Yes,Liability-only,7073
+37,Female,Single,Driver,12,Toyota Corolla,445863,TQ2 5HB,No,Collision,1360
+45,Female,Married,Engineer,3,Toyota Camry,195704,SW1A 1AA,No,Comprehensive,7365
+28,Male,Married,Driver,9,BMW X5,492135,M1 1AA,No,Comprehensive,9401
+21,Male,Divorced,Driver,2,Ford F-150,490492,OL4 1ES,No,Liability-only,4943
+32,Female,Single,Student,9,Toyota Corolla,376884,PE1 1HA,No,Liability-only,5869
+23,Female,Single,Retired,12,BMW X5,317848,CV1 2WT,No,Collision,9128
+47,Male,Single,Retired,12,Toyota Camry,422204,CV1 2WT,No,Collision,1877
+55,Female,Divorced,Small Business Owner,15,Toyota Camry,621808,MK9 1AN,No,Liability-only,5795
+19,Female,Single,IT Professional,2,Hyundai Elantra,462067,CV1 2WT,Yes,Collision,8791
+32,Female,Divorced,Retired,18,Toyota Corolla,228563,E1 6AN,No,Collision,3523
+28,Male,Widowed,Driver,13,Tesla Model S,239779,BS2 8JD,No,Collision,7270
+25,Male,Divorced,Nurse,14,Toyota Camry,249704,DN1 1QR,Yes,Liability-only,9583
+43,Female,Widowed,Driver,5,Buick Encore,411757,DN1 1QR,Yes,Comprehensive,7623
+62,Female,Single,Nurse,10,Audi Q5,260234,SE1 8DP,Yes,Comprehensive,6088
+61,Male,Widowed,Small Business Owner,12,Nissan Altima,473831,AL1 3NJ,Yes,Collision,8564
+22,Male,Divorced,Nurse,10,Audi Q5,186491,CW1 2BB,No,Liability-only,8066
+23,Female,Married,Retired,11,Tesla Model S,495922,AL1 3NJ,No,Collision,7545
+43,Female,Widowed,Student,2,Ford F-150,170448,BS2 8JD,Yes,Comprehensive,3321
+21,Male,Widowed,Nurse,5,Honda Accord,654393,PE1 1HA,Yes,Collision,9149
+36,Male,Single,Driver,7,Buick Encore,463694,PE1 1HA,No,Comprehensive,9125
+37,Male,Divorced,Sales Associate,6,Honda Accord,433590,PE1 1HA,No,Liability-only,9330
+50,Female,Widowed,Retired,3,Toyota Camry,488723,M1 1AA,No,Collision,9294
+37,Male,Widowed,Sales Associate,13,Ford F-150,235615,MK9 1AN,No,Liability-only,6333
+29,Female,Widowed,Lawyer,3,BMW X5,167101,OL4 1ES,Yes,Collision,9675
+64,Male,Widowed,Lawyer,6,Toyota Camry,440160,OL4 1ES,No,Collision,8858
+18,Male,Married,Driver,11,Honda Accord,587869,TQ2 5HB,Yes,Collision,5319
+43,Male,Divorced,Lawyer,17,Toyota Camry,360005,PE1 1HA,Yes,Collision,6389
+31,Male,Single,IT Professional,10,Nissan Altima,196539,CW1 2BB,Yes,Collision,2848
+55,Female,Single,Small Business Owner,12,Hyundai Elantra,566232,MK9 1AN,No,Liability-only,4205
+54,Female,Married,Retired,17,Nissan Altima,336272,TQ2 5HB,Yes,Liability-only,3161
+28,Male,Divorced,Sales Associate,4,Ford F-150,623484,E1 6AN,No,Comprehensive,2464
+53,Female,Widowed,Driver,2,BMW X5,603503,CW1 2BB,Yes,Collision,1643
+30,Male,Married,IT Professional,11,Nissan Altima,265042,CW1 2BB,No,Comprehensive,6351
+60,Male,Divorced,Driver,7,Toyota Corolla,277922,OL4 1ES,Yes,Liability-only,5553
+20,Male,Widowed,IT Professional,2,BMW X5,242447,TQ2 5HB,Yes,Comprehensive,7518
+50,Male,Married,Lawyer,18,Honda Accord,495546,CV1 2WT,No,Liability-only,6723
+23,Female,Divorced,Lawyer,4,Nissan Altima,454751,CW1 2BB,No,Collision,8946
+27,Male,Single,Nurse,8,Hyundai Elantra,308693,CW1 2BB,Yes,Comprehensive,1610
+22,Male,Single,Teacher,14,BMW X5,162823,AL1 3NJ,Yes,Comprehensive,5302
+40,Female,Divorced,Driver,12,Toyota Camry,179986,CV1 2WT,No,Comprehensive,2543
+27,Male,Single,Nurse,18,Hyundai Elantra,660119,MK9 1AN,Yes,Comprehensive,2466
+61,Male,Divorced,Retired,11,Toyota Camry,540069,OL4 1ES,No,Collision,7236
+19,Male,Widowed,Nurse,8,Nissan Altima,400476,E1 6AN,No,Liability-only,2181
+30,Female,Divorced,Engineer,2,Buick Encore,207771,DN1 1QR,Yes,Liability-only,3146
+57,Male,Widowed,Lawyer,15,Buick Encore,204973,SE1 8DP,No,Collision,3272
+19,Female,Married,Engineer,9,Honda Accord,685244,OL4 1ES,Yes,Liability-only,5536
+37,Male,Divorced,Driver,19,Hyundai Elantra,236839,OL4 1ES,No,Comprehensive,1719
+18,Male,Married,Sales Associate,8,Toyota Camry,317605,CW1 2BB,No,Collision,5680
+54,Female,Single,Sales Associate,19,Tesla Model S,666754,AL1 3NJ,Yes,Liability-only,4472
+26,Male,Widowed,Retired,5,Hyundai Elantra,251131,BS2 8JD,No,Collision,4642
+34,Male,Divorced,Nurse,11,Toyota Corolla,479738,PE1 1HA,Yes,Collision,1063
+26,Female,Married,Sales Associate,15,Honda Accord,685807,BD1 3EB,No,Liability-only,1559
+28,Female,Widowed,IT Professional,8,Audi Q5,151832,SW1A 1AA,No,Liability-only,8446
+32,Female,Widowed,IT Professional,19,Audi Q5,631641,AL1 3NJ,No,Collision,2733
+41,Female,Single,Retired,8,Toyota Camry,255474,BS2 8JD,No,Collision,9861
+55,Female,Single,Small Business Owner,19,Buick Encore,187570,CW1 2BB,Yes,Liability-only,4894
+52,Male,Widowed,Lawyer,18,BMW X5,631193,CW1 2BB,No,Collision,2542
+47,Female,Widowed,Nurse,10,Toyota Corolla,188311,DN1 1QR,No,Liability-only,3415
+48,Male,Divorced,Driver,7,Audi Q5,502389,E1 6AN,No,Collision,7090
+22,Male,Widowed,Student,9,Toyota Camry,236879,TQ2 5HB,Yes,Collision,6217
+61,Male,Divorced,Student,1,Toyota Camry,690027,BS2 8JD,Yes,Collision,6387
+31,Female,Widowed,Student,19,Nissan Altima,216202,MK9 1AN,Yes,Liability-only,6179
+28,Female,Single,Sales Associate,5,Buick Encore,248580,M1 1AA,Yes,Comprehensive,9187
+26,Male,Divorced,Small Business Owner,19,Hyundai Elantra,229599,MK9 1AN,No,Liability-only,7643
+51,Female,Married,Small Business Owner,1,BMW X5,451614,DN1 1QR,No,Collision,8660
+29,Female,Single,Nurse,15,Nissan Altima,487109,PE1 1HA,No,Comprehensive,3458
+52,Female,Divorced,Nurse,16,Audi Q5,537476,TQ2 5HB,Yes,Comprehensive,7028
+52,Female,Divorced,Small Business Owner,7,BMW X5,541825,BD1 3EB,Yes,Collision,6447
+18,Male,Married,Retired,12,Honda Accord,450141,MK9 1AN,No,Liability-only,5559
+57,Male,Divorced,Nurse,8,Buick Encore,341012,E1 6AN,No,Comprehensive,3749
+39,Female,Widowed,Retired,5,Audi Q5,312776,AL1 3NJ,No,Comprehensive,2948
+46,Male,Married,Engineer,10,Toyota Camry,534346,SW1A 1AA,Yes,Liability-only,7306
+25,Female,Single,IT Professional,5,Audi Q5,571607,SW1A 1AA,No,Liability-only,9251
+28,Female,Single,Lawyer,17,Tesla Model S,152526,AL1 3NJ,No,Comprehensive,9092
+58,Male,Widowed,Nurse,5,Ford F-150,418718,BS2 8JD,Yes,Liability-only,9524
+54,Male,Single,Small Business Owner,15,Ford F-150,420877,PE1 1HA,Yes,Comprehensive,1189
+31,Male,Divorced,IT Professional,13,Audi Q5,462434,PE1 1HA,No,Collision,7008
+47,Female,Divorced,IT Professional,1,Tesla Model S,484937,TQ2 5HB,Yes,Liability-only,8482
+52,Male,Widowed,Teacher,11,Audi Q5,186051,AL1 3NJ,No,Comprehensive,1295
+38,Female,Single,Small Business Owner,1,Ford F-150,165909,M1 1AA,No,Liability-only,9368
+54,Male,Single,Lawyer,11,Nissan Altima,632898,SW1A 1AA,No,Liability-only,9168
+22,Male,Widowed,Small Business Owner,18,Honda Accord,227338,CW1 2BB,No,Comprehensive,1799
+36,Female,Married,Nurse,18,Ford F-150,670551,PE1 1HA,Yes,Collision,9997
+31,Female,Single,Driver,16,Honda Accord,440277,BS2 8JD,Yes,Comprehensive,8003
+43,Female,Married,Engineer,13,Toyota Camry,331980,MK9 1AN,Yes,Liability-only,9406
+21,Female,Single,Retired,7,Honda Accord,554494,AL1 3NJ,No,Comprehensive,3700
+42,Female,Single,Driver,1,Nissan Altima,523690,MK9 1AN,No,Liability-only,9788
+62,Female,Single,Engineer,16,Tesla Model S,466543,CW1 2BB,No,Comprehensive,6873
+59,Female,Single,Driver,1,Honda Accord,381946,CV1 2WT,Yes,Collision,5714
+42,Female,Divorced,Retired,17,BMW X5,600180,SW1A 1AA,Yes,Collision,7491
+35,Male,Married,Sales Associate,6,Hyundai Elantra,314164,OL4 1ES,No,Collision,9333
+57,Female,Married,Small Business Owner,2,Ford F-150,239407,CW1 2BB,Yes,Collision,3839
+25,Female,Single,Driver,17,Tesla Model S,356329,PE1 1HA,Yes,Comprehensive,4513
+56,Male,Single,Nurse,6,Toyota Corolla,647165,OL4 1ES,Yes,Collision,2135
+57,Female,Married,Lawyer,14,Toyota Camry,613238,PE1 1HA,Yes,Comprehensive,7357
+31,Male,Divorced,Student,18,Hyundai Elantra,375295,TQ2 5HB,No,Liability-only,3247
+49,Male,Widowed,Nurse,6,BMW X5,152019,BS2 8JD,Yes,Liability-only,7548
+55,Female,Widowed,Retired,10,Buick Encore,299776,SE1 8DP,No,Liability-only,5516
+50,Male,Married,Lawyer,18,Nissan Altima,299102,DN1 1QR,Yes,Collision,5102
+40,Female,Single,Nurse,9,Audi Q5,539027,TQ2 5HB,No,Collision,2548
+32,Male,Single,IT Professional,8,Hyundai Elantra,153420,CW1 2BB,No,Collision,7532
+50,Male,Divorced,Small Business Owner,10,Tesla Model S,328725,OL4 1ES,Yes,Liability-only,5511
+42,Male,Widowed,Lawyer,17,Tesla Model S,691028,BS2 8JD,No,Liability-only,3831
+34,Female,Divorced,IT Professional,6,Tesla Model S,477407,PE1 1HA,No,Liability-only,4062
+50,Female,Widowed,Nurse,14,Toyota Camry,693753,CW1 2BB,Yes,Liability-only,8975
+64,Male,Married,Engineer,6,Honda Accord,594648,BS2 8JD,No,Comprehensive,4052
+19,Male,Widowed,Teacher,7,Ford F-150,678419,SW1A 1AA,Yes,Comprehensive,8210
+31,Female,Divorced,Engineer,12,Buick Encore,684940,PE1 1HA,No,Collision,4539
+57,Female,Divorced,Small Business Owner,3,Audi Q5,608189,SE1 8DP,Yes,Collision,1526
+57,Male,Divorced,Lawyer,14,Tesla Model S,459815,SE1 8DP,Yes,Liability-only,3807
+56,Male,Married,Lawyer,19,Audi Q5,395289,BD1 3EB,Yes,Comprehensive,2753
+23,Female,Widowed,Small Business Owner,16,Toyota Corolla,239342,DN1 1QR,Yes,Comprehensive,7882
+23,Female,Widowed,IT Professional,7,Toyota Camry,431315,E1 6AN,Yes,Collision,2654
+20,Female,Divorced,Teacher,8,Tesla Model S,367201,DN1 1QR,No,Comprehensive,5841
+24,Female,Widowed,Nurse,18,Toyota Corolla,409820,BS2 8JD,No,Collision,5041
+25,Female,Single,Retired,13,Buick Encore,336764,E1 6AN,Yes,Liability-only,6024
+59,Male,Single,Engineer,9,Buick Encore,208541,BD1 3EB,No,Liability-only,9965
+32,Female,Single,Engineer,10,Ford F-150,159470,M1 1AA,No,Collision,9734
+64,Male,Widowed,Student,9,BMW X5,285669,CW1 2BB,No,Liability-only,5417
+46,Female,Married,Teacher,15,Ford F-150,311860,SW1A 1AA,Yes,Liability-only,9977
+50,Male,Married,Retired,2,Honda Accord,199477,PE1 1HA,Yes,Comprehensive,5635
+47,Female,Married,Engineer,13,Audi Q5,445215,AL1 3NJ,No,Comprehensive,3883
+56,Female,Married,Retired,2,Nissan Altima,613819,E1 6AN,Yes,Comprehensive,6884
+44,Male,Single,Nurse,19,Buick Encore,605139,E1 6AN,Yes,Comprehensive,1448
+53,Male,Single,Lawyer,2,Nissan Altima,220560,BS2 8JD,No,Comprehensive,4310
+46,Female,Divorced,Retired,3,Toyota Camry,600708,CW1 2BB,Yes,Collision,5585
+55,Female,Widowed,Engineer,6,Hyundai Elantra,574986,BS2 8JD,Yes,Collision,9108
+50,Female,Widowed,IT Professional,3,Tesla Model S,488906,SE1 8DP,Yes,Comprehensive,5409
+54,Female,Married,Teacher,10,Toyota Camry,316471,SW1A 1AA,Yes,Liability-only,8873
+44,Female,Single,Small Business Owner,6,Buick Encore,664295,E1 6AN,Yes,Liability-only,7051
+50,Male,Married,Driver,16,Toyota Corolla,394413,MK9 1AN,No,Collision,9576
+21,Male,Divorced,Sales Associate,17,Audi Q5,338511,CW1 2BB,Yes,Collision,1294
+39,Female,Widowed,Sales Associate,19,Nissan Altima,676657,CV1 2WT,Yes,Collision,2238
+19,Male,Widowed,Driver,3,Ford F-150,522107,M1 1AA,No,Liability-only,9041
+27,Male,Married,Retired,18,Hyundai Elantra,378629,PE1 1HA,No,Collision,3816
+22,Male,Divorced,Teacher,7,BMW X5,258806,BD1 3EB,Yes,Liability-only,2098
+27,Female,Widowed,Retired,9,Toyota Camry,311386,M1 1AA,No,Collision,2737
+50,Male,Divorced,Small Business Owner,12,BMW X5,185109,BD1 3EB,Yes,Liability-only,3189
+55,Female,Divorced,Teacher,5,Nissan Altima,688207,E1 6AN,No,Collision,3765
+30,Male,Married,Driver,3,Nissan Altima,459642,M1 1AA,Yes,Collision,2222
+48,Female,Single,Retired,11,Tesla Model S,467952,M1 1AA,No,Liability-only,7549
+64,Male,Married,Student,4,Toyota Corolla,525987,PE1 1HA,Yes,Collision,1410
+53,Female,Single,Engineer,5,Toyota Corolla,656775,AL1 3NJ,No,Comprehensive,3945
+62,Female,Divorced,IT Professional,1,Honda Accord,486564,PE1 1HA,Yes,Liability-only,9102
+41,Male,Single,Lawyer,18,Ford F-150,572122,BS2 8JD,Yes,Collision,5786
+32,Female,Divorced,IT Professional,12,Buick Encore,519591,AL1 3NJ,Yes,Liability-only,1786
+46,Female,Widowed,Small Business Owner,13,Buick Encore,614702,M1 1AA,No,Collision,3109
+25,Female,Widowed,Retired,9,Nissan Altima,216896,AL1 3NJ,No,Comprehensive,6446
+22,Female,Widowed,Nurse,2,Toyota Camry,253431,SW1A 1AA,Yes,Collision,6835
+46,Female,Married,Teacher,5,Audi Q5,565162,MK9 1AN,Yes,Collision,2986
+64,Female,Married,Retired,13,Buick Encore,355338,AL1 3NJ,Yes,Comprehensive,9126
+21,Female,Divorced,Teacher,16,Buick Encore,666915,BS2 8JD,Yes,Liability-only,8300
+29,Female,Widowed,Lawyer,16,Toyota Camry,177738,CW1 2BB,No,Collision,6709
+62,Male,Married,Student,3,Ford F-150,551679,E1 6AN,No,Collision,3403
+19,Male,Widowed,IT Professional,4,Hyundai Elantra,207153,TQ2 5HB,No,Comprehensive,9262
+44,Female,Married,Engineer,11,Toyota Corolla,211009,CW1 2BB,Yes,Liability-only,5401
+48,Female,Single,Lawyer,14,Tesla Model S,634469,E1 6AN,Yes,Liability-only,7701
+53,Male,Single,Lawyer,3,Tesla Model S,468415,CW1 2BB,No,Comprehensive,4295
+53,Male,Widowed,IT Professional,16,Tesla Model S,498274,CW1 2BB,No,Comprehensive,9953
+43,Male,Divorced,Lawyer,15,Toyota Camry,221942,BD1 3EB,No,Collision,3121
+60,Female,Married,Nurse,10,Tesla Model S,268065,TQ2 5HB,No,Comprehensive,4582
+44,Male,Married,Nurse,9,Nissan Altima,426109,TQ2 5HB,Yes,Comprehensive,5197
+22,Female,Single,Sales Associate,11,Honda Accord,425877,AL1 3NJ,Yes,Comprehensive,6700
+37,Female,Single,Sales Associate,16,Toyota Camry,596439,SE1 8DP,Yes,Liability-only,8232
+28,Male,Divorced,Nurse,10,Toyota Camry,539326,TQ2 5HB,No,Comprehensive,5288
+27,Female,Divorced,Driver,17,Toyota Corolla,669790,BS2 8JD,Yes,Collision,2085
+57,Female,Divorced,Student,19,Tesla Model S,317466,CW1 2BB,No,Collision,9645
+55,Female,Widowed,Teacher,2,BMW X5,520522,M1 1AA,No,Collision,3621
+23,Female,Single,Student,2,Hyundai Elantra,440431,CV1 2WT,No,Comprehensive,9810
+25,Male,Widowed,Small Business Owner,6,Honda Accord,232104,BD1 3EB,No,Liability-only,9828
+40,Male,Single,Lawyer,19,Toyota Camry,499060,CV1 2WT,No,Comprehensive,3348
+64,Female,Single,Engineer,8,Honda Accord,616783,OL4 1ES,Yes,Comprehensive,5874
+43,Female,Married,Lawyer,3,Toyota Camry,630699,PE1 1HA,Yes,Collision,4036
+63,Male,Single,Student,14,Ford F-150,382321,OL4 1ES,Yes,Comprehensive,3349
+60,Female,Single,Nurse,16,Toyota Corolla,287837,E1 6AN,No,Liability-only,6743
+29,Male,Widowed,IT Professional,1,Nissan Altima,594842,CW1 2BB,Yes,Collision,5432
+43,Female,Single,Small Business Owner,3,Ford F-150,291879,TQ2 5HB,No,Liability-only,7175
+30,Female,Widowed,Nurse,18,Audi Q5,160204,BS2 8JD,Yes,Liability-only,8265
+57,Male,Divorced,Student,9,Tesla Model S,252903,M1 1AA,No,Liability-only,7103
+35,Male,Single,IT Professional,6,Audi Q5,565874,SE1 8DP,No,Comprehensive,8358
+42,Male,Single,Engineer,1,Hyundai Elantra,470692,SE1 8DP,Yes,Comprehensive,3031
+50,Male,Widowed,Student,10,BMW X5,510591,BD1 3EB,No,Comprehensive,2249
+64,Female,Divorced,Teacher,6,Nissan Altima,486239,BD1 3EB,Yes,Comprehensive,7808
+57,Male,Married,Retired,12,Ford F-150,241594,BD1 3EB,Yes,Collision,4556
+60,Female,Divorced,IT Professional,4,Honda Accord,500425,TQ2 5HB,Yes,Comprehensive,9519
+29,Male,Widowed,Student,13,Honda Accord,652939,BD1 3EB,No,Collision,9988
+61,Male,Divorced,Nurse,17,Hyundai Elantra,323620,MK9 1AN,No,Liability-only,6299
+53,Female,Widowed,Teacher,8,Toyota Camry,291753,AL1 3NJ,No,Collision,4094
+21,Male,Widowed,Driver,3,Honda Accord,288056,TQ2 5HB,No,Comprehensive,3977
+22,Male,Married,IT Professional,12,Tesla Model S,308651,CW1 2BB,Yes,Collision,1962
+54,Male,Single,Teacher,7,BMW X5,384347,SW1A 1AA,No,Comprehensive,6725
+25,Male,Widowed,Nurse,12,Toyota Corolla,570615,CV1 2WT,Yes,Comprehensive,6489
+59,Female,Widowed,Student,2,Tesla Model S,150944,CW1 2BB,Yes,Collision,2268
+45,Female,Married,Lawyer,14,BMW X5,421258,MK9 1AN,No,Collision,6279
+48,Male,Widowed,Engineer,5,Hyundai Elantra,358920,SW1A 1AA,No,Liability-only,1372
+26,Male,Single,Lawyer,9,Tesla Model S,406805,CW1 2BB,Yes,Liability-only,5380
+46,Male,Married,Retired,11,Toyota Corolla,444740,OL4 1ES,No,Liability-only,8617
+31,Female,Single,Teacher,5,Toyota Corolla,405035,BS2 8JD,Yes,Liability-only,7279
+57,Female,Single,Retired,3,Buick Encore,309186,M1 1AA,No,Liability-only,1095
+58,Female,Married,Engineer,17,Toyota Camry,496990,E1 6AN,No,Collision,5369
+39,Female,Widowed,Teacher,2,Hyundai Elantra,549263,BS2 8JD,Yes,Liability-only,4941
+28,Male,Single,Sales Associate,1,Tesla Model S,440911,BD1 3EB,Yes,Collision,8021
+40,Male,Single,Nurse,7,Nissan Altima,428491,CV1 2WT,Yes,Liability-only,4944
+18,Male,Single,Teacher,14,Nissan Altima,252063,OL4 1ES,No,Comprehensive,6868
+63,Female,Single,Nurse,5,Hyundai Elantra,698390,DN1 1QR,No,Liability-only,6396
+54,Male,Married,Lawyer,19,Tesla Model S,678551,AL1 3NJ,No,Comprehensive,9041
+38,Female,Married,Small Business Owner,11,Ford F-150,520729,CV1 2WT,Yes,Collision,1131
+43,Female,Divorced,IT Professional,2,Ford F-150,217438,OL4 1ES,Yes,Liability-only,8290
+63,Male,Divorced,Small Business Owner,8,Toyota Camry,246359,PE1 1HA,No,Collision,7516
+53,Male,Single,Student,9,Tesla Model S,573756,DN1 1QR,Yes,Liability-only,6906
+40,Male,Widowed,IT Professional,3,Toyota Corolla,644087,AL1 3NJ,No,Collision,1807
+18,Female,Single,IT Professional,2,Honda Accord,618942,BD1 3EB,Yes,Liability-only,1050
+57,Female,Widowed,Driver,7,Nissan Altima,606985,E1 6AN,No,Liability-only,6277
+32,Male,Single,IT Professional,5,Tesla Model S,177690,BD1 3EB,No,Comprehensive,1055
+38,Male,Divorced,Engineer,5,Tesla Model S,677282,MK9 1AN,No,Collision,4664
+64,Female,Divorced,Small Business Owner,13,Honda Accord,253533,TQ2 5HB,Yes,Collision,1743
+26,Male,Widowed,Lawyer,6,Honda Accord,217546,CV1 2WT,Yes,Collision,7030
+26,Female,Single,Nurse,18,BMW X5,550593,BD1 3EB,No,Collision,9131
+27,Female,Widowed,Student,2,Buick Encore,490716,PE1 1HA,No,Collision,1079
+43,Male,Divorced,IT Professional,6,Toyota Camry,318050,BD1 3EB,No,Comprehensive,3966
+58,Male,Single,Student,9,Nissan Altima,659082,OL4 1ES,No,Liability-only,4728
+52,Male,Single,Lawyer,3,Honda Accord,663672,SE1 8DP,No,Comprehensive,5536
+42,Male,Widowed,Student,1,Ford F-150,204607,DN1 1QR,No,Collision,1125
+43,Female,Married,Lawyer,1,Hyundai Elantra,600626,BD1 3EB,Yes,Collision,6813
+28,Female,Widowed,IT Professional,19,Ford F-150,171996,PE1 1HA,Yes,Liability-only,9410
+55,Female,Divorced,Lawyer,5,BMW X5,233697,CW1 2BB,Yes,Comprehensive,1947
+19,Male,Divorced,IT Professional,13,BMW X5,458166,CW1 2BB,Yes,Liability-only,1594
+24,Female,Divorced,Driver,19,Honda Accord,502868,E1 6AN,No,Liability-only,6030
+35,Male,Divorced,Driver,12,BMW X5,389190,E1 6AN,No,Comprehensive,1140
+44,Male,Divorced,Lawyer,16,Toyota Corolla,158888,MK9 1AN,No,Liability-only,4055
+51,Male,Married,Driver,19,Audi Q5,585413,DN1 1QR,Yes,Comprehensive,5205
+44,Male,Single,Nurse,3,Tesla Model S,371432,E1 6AN,Yes,Comprehensive,6171
+34,Male,Widowed,Nurse,12,Tesla Model S,511085,BS2 8JD,No,Collision,8782
+60,Male,Widowed,Driver,5,Honda Accord,429477,TQ2 5HB,Yes,Liability-only,3660
+61,Female,Divorced,Driver,2,BMW X5,651616,M1 1AA,Yes,Collision,7856
+41,Male,Widowed,Sales Associate,7,Hyundai Elantra,380487,MK9 1AN,No,Liability-only,7089
+42,Female,Divorced,Sales Associate,13,Toyota Corolla,617119,E1 6AN,No,Liability-only,6318
+24,Female,Married,IT Professional,15,Toyota Camry,399434,BD1 3EB,No,Collision,3552
+23,Male,Married,Lawyer,3,BMW X5,487819,MK9 1AN,Yes,Collision,4611
+41,Male,Single,Retired,5,Toyota Corolla,330926,E1 6AN,No,Collision,9062
+50,Male,Married,Retired,8,Buick Encore,650638,M1 1AA,No,Comprehensive,2040
+46,Female,Married,Driver,1,Toyota Camry,406349,BS2 8JD,No,Liability-only,9506
+60,Male,Single,Student,8,Tesla Model S,560749,M1 1AA,Yes,Comprehensive,8603
+39,Female,Widowed,Driver,18,Buick Encore,459091,CV1 2WT,Yes,Liability-only,5172
+43,Male,Divorced,Sales Associate,16,Honda Accord,571172,E1 6AN,No,Liability-only,3946
+45,Male,Divorced,IT Professional,18,Nissan Altima,601813,DN1 1QR,No,Comprehensive,4236
+38,Female,Widowed,Driver,12,Honda Accord,379685,E1 6AN,Yes,Comprehensive,4680
+24,Female,Single,Small Business Owner,13,Hyundai Elantra,477608,E1 6AN,Yes,Liability-only,5807
+34,Male,Widowed,Student,13,Toyota Corolla,285024,CV1 2WT,No,Collision,2537
+37,Female,Married,Small Business Owner,10,Nissan Altima,333273,M1 1AA,Yes,Collision,4872
+58,Female,Single,IT Professional,7,Toyota Camry,274444,OL4 1ES,No,Collision,2867
+37,Female,Single,IT Professional,14,Toyota Camry,524319,BD1 3EB,No,Collision,2161
+39,Female,Single,Nurse,16,Buick Encore,454604,MK9 1AN,Yes,Liability-only,4920
+45,Female,Divorced,Teacher,15,Hyundai Elantra,303868,TQ2 5HB,No,Collision,6693
+57,Male,Widowed,Small Business Owner,12,Tesla Model S,312818,PE1 1HA,No,Collision,4882
+24,Male,Single,Nurse,9,BMW X5,630001,MK9 1AN,Yes,Collision,8738
+18,Female,Single,Sales Associate,8,BMW X5,150015,MK9 1AN,No,Liability-only,9456
+49,Male,Single,Engineer,18,Nissan Altima,307029,TQ2 5HB,Yes,Comprehensive,7331
+30,Male,Widowed,Student,18,Hyundai Elantra,695580,BD1 3EB,No,Collision,6182
+47,Female,Divorced,Engineer,13,Hyundai Elantra,534838,TQ2 5HB,No,Liability-only,2526
+40,Male,Married,Lawyer,18,Toyota Camry,312948,E1 6AN,Yes,Liability-only,9131
+36,Female,Divorced,Sales Associate,15,Tesla Model S,197046,BS2 8JD,Yes,Collision,5394
+49,Female,Single,Sales Associate,4,Toyota Corolla,689105,CV1 2WT,Yes,Comprehensive,2158
+47,Male,Divorced,Engineer,17,Tesla Model S,159759,DN1 1QR,Yes,Comprehensive,5367
+46,Female,Divorced,Small Business Owner,5,Ford F-150,329504,OL4 1ES,Yes,Comprehensive,5630
+62,Female,Married,Teacher,16,Hyundai Elantra,418556,AL1 3NJ,Yes,Liability-only,4513
+46,Female,Widowed,Small Business Owner,9,Honda Accord,600973,OL4 1ES,No,Collision,2144
+47,Female,Widowed,Engineer,10,Audi Q5,432648,PE1 1HA,Yes,Collision,1068
+33,Female,Divorced,Lawyer,18,Hyundai Elantra,520644,BD1 3EB,No,Liability-only,4717
+57,Male,Divorced,Small Business Owner,17,Nissan Altima,420651,E1 6AN,Yes,Collision,5723
+36,Male,Widowed,Retired,18,Honda Accord,171050,SE1 8DP,No,Collision,5213
+35,Female,Widowed,Small Business Owner,7,Nissan Altima,548036,AL1 3NJ,No,Comprehensive,7413
+18,Female,Married,IT Professional,4,Buick Encore,636383,E1 6AN,Yes,Collision,4466
+31,Male,Single,Nurse,5,Audi Q5,250153,CV1 2WT,No,Collision,4026
+64,Female,Divorced,Student,16,Audi Q5,381329,AL1 3NJ,No,Liability-only,7998
+19,Male,Widowed,Small Business Owner,3,Toyota Camry,588715,PE1 1HA,No,Liability-only,3747
+45,Female,Divorced,Teacher,18,Hyundai Elantra,287912,SE1 8DP,Yes,Comprehensive,8271
+47,Female,Divorced,Teacher,14,Toyota Camry,646586,M1 1AA,Yes,Liability-only,7171
+55,Female,Widowed,Small Business Owner,15,BMW X5,535327,M1 1AA,No,Comprehensive,4855
+21,Female,Married,Driver,17,Nissan Altima,478443,M1 1AA,Yes,Comprehensive,9753
+18,Female,Divorced,Sales Associate,1,Ford F-150,189023,BS2 8JD,Yes,Collision,3203
+25,Female,Married,Small Business Owner,17,Ford F-150,331101,M1 1AA,No,Comprehensive,4419
+46,Female,Widowed,Sales Associate,11,BMW X5,452085,CW1 2BB,No,Collision,2144
+56,Male,Single,Retired,17,Buick Encore,597166,AL1 3NJ,Yes,Comprehensive,3699
+20,Male,Single,Engineer,14,Ford F-150,226054,DN1 1QR,Yes,Liability-only,1560
+49,Male,Divorced,Retired,19,Nissan Altima,477507,SE1 8DP,Yes,Liability-only,2187
+27,Female,Widowed,Small Business Owner,7,Ford F-150,651772,CV1 2WT,No,Liability-only,4133
+27,Female,Married,Teacher,13,BMW X5,641112,CW1 2BB,Yes,Comprehensive,4411
+36,Female,Divorced,Driver,18,Honda Accord,309245,CW1 2BB,Yes,Comprehensive,2689
+63,Female,Widowed,Lawyer,14,Toyota Camry,552611,MK9 1AN,Yes,Collision,5407
+51,Female,Widowed,Sales Associate,1,Toyota Corolla,391443,SW1A 1AA,No,Collision,3423
+50,Female,Married,Nurse,7,Nissan Altima,627959,SE1 8DP,No,Collision,2369
+40,Female,Divorced,Sales Associate,8,Toyota Camry,253591,SW1A 1AA,No,Collision,7007
+45,Male,Widowed,IT Professional,18,Audi Q5,399045,MK9 1AN,Yes,Comprehensive,7728
+49,Female,Widowed,Student,9,Tesla Model S,212583,TQ2 5HB,Yes,Comprehensive,9772
+24,Male,Widowed,Small Business Owner,1,Ford F-150,405931,DN1 1QR,No,Collision,1976
+46,Male,Married,Retired,17,Ford F-150,309996,CV1 2WT,Yes,Comprehensive,5272
+25,Female,Divorced,Nurse,19,Buick Encore,616185,AL1 3NJ,Yes,Comprehensive,7497
+18,Female,Divorced,Teacher,6,Toyota Camry,442248,TQ2 5HB,Yes,Comprehensive,1118
+20,Male,Divorced,Teacher,3,Tesla Model S,415808,BD1 3EB,No,Comprehensive,2542
+41,Male,Divorced,Teacher,5,Ford F-150,604377,E1 6AN,Yes,Collision,5862
+40,Female,Single,Lawyer,2,Audi Q5,351664,DN1 1QR,Yes,Collision,4043
+25,Female,Single,IT Professional,4,Buick Encore,445043,DN1 1QR,No,Comprehensive,1972
+64,Male,Divorced,Teacher,10,Toyota Camry,691529,BD1 3EB,Yes,Liability-only,1915
+54,Female,Married,Teacher,10,Buick Encore,355320,PE1 1HA,No,Collision,7621
+20,Female,Single,Small Business Owner,11,Toyota Camry,181346,SE1 8DP,Yes,Collision,1586
+50,Female,Widowed,IT Professional,16,Hyundai Elantra,516595,DN1 1QR,No,Liability-only,9542
+45,Male,Single,Driver,17,Hyundai Elantra,585436,BD1 3EB,No,Collision,6625
+64,Male,Widowed,Driver,16,BMW X5,299014,DN1 1QR,Yes,Liability-only,8354
+25,Male,Divorced,IT Professional,7,Nissan Altima,152016,TQ2 5HB,Yes,Liability-only,5591
+51,Female,Single,Student,16,Buick Encore,673195,BD1 3EB,No,Comprehensive,3562
+52,Female,Married,Lawyer,3,BMW X5,681562,TQ2 5HB,Yes,Collision,7839
+49,Male,Single,Nurse,16,Buick Encore,165748,TQ2 5HB,No,Liability-only,9464
+41,Male,Single,Sales Associate,8,Ford F-150,563391,BD1 3EB,Yes,Comprehensive,3927
+31,Male,Single,Small Business Owner,12,Toyota Corolla,647926,DN1 1QR,Yes,Collision,7195
+49,Female,Divorced,Engineer,3,Buick Encore,686114,MK9 1AN,Yes,Comprehensive,7276
+63,Male,Married,Driver,17,Ford F-150,577345,M1 1AA,Yes,Comprehensive,5290
+60,Male,Single,IT Professional,18,Tesla Model S,351081,OL4 1ES,No,Liability-only,6882
+33,Female,Married,Nurse,11,Hyundai Elantra,566706,BD1 3EB,No,Collision,7446
+21,Female,Divorced,IT Professional,4,BMW X5,322507,E1 6AN,Yes,Comprehensive,6167
+54,Female,Widowed,Sales Associate,16,Toyota Corolla,670140,SE1 8DP,Yes,Liability-only,2522
+38,Male,Single,Nurse,17,Audi Q5,373023,PE1 1HA,Yes,Liability-only,1561
+31,Female,Married,Driver,9,Hyundai Elantra,495250,OL4 1ES,Yes,Comprehensive,4540
+48,Female,Married,Teacher,6,BMW X5,466782,BS2 8JD,Yes,Comprehensive,2479
+35,Male,Divorced,IT Professional,2,Toyota Corolla,219072,E1 6AN,No,Liability-only,7677
+24,Female,Single,Engineer,9,Audi Q5,217309,E1 6AN,No,Comprehensive,2205
+27,Male,Widowed,Driver,6,Honda Accord,310966,M1 1AA,Yes,Comprehensive,7660
+24,Male,Married,Retired,3,Ford F-150,651775,MK9 1AN,No,Collision,9848
+50,Female,Single,Engineer,6,Honda Accord,536868,M1 1AA,No,Liability-only,1589
+40,Female,Widowed,Student,7,Ford F-150,335639,SE1 8DP,Yes,Comprehensive,5326
+38,Female,Married,Lawyer,1,Toyota Camry,533556,E1 6AN,No,Liability-only,5904
+36,Female,Married,Driver,1,Nissan Altima,568810,CV1 2WT,No,Collision,7421
+36,Female,Widowed,Teacher,5,Toyota Corolla,454893,CV1 2WT,No,Liability-only,4759
+53,Female,Widowed,Driver,6,Honda Accord,401749,SW1A 1AA,No,Liability-only,9939
+46,Male,Divorced,Sales Associate,13,Nissan Altima,687717,MK9 1AN,Yes,Liability-only,9655
+35,Male,Single,Nurse,2,Toyota Corolla,419284,SE1 8DP,No,Collision,9945
+19,Female,Single,IT Professional,15,BMW X5,475370,BD1 3EB,No,Collision,6936
+18,Male,Divorced,Nurse,15,Toyota Camry,558117,CW1 2BB,No,Liability-only,9774
+64,Female,Married,Nurse,13,BMW X5,432635,BS2 8JD,Yes,Liability-only,3205
+22,Male,Widowed,Driver,14,Ford F-150,349888,DN1 1QR,No,Collision,5114
+37,Male,Widowed,Sales Associate,7,Nissan Altima,316052,PE1 1HA,No,Comprehensive,5027
+28,Male,Widowed,IT Professional,14,Toyota Corolla,656733,M1 1AA,No,Collision,5816
+59,Female,Married,IT Professional,10,Buick Encore,376597,MK9 1AN,Yes,Liability-only,8188
+19,Male,Widowed,Nurse,17,Nissan Altima,158078,PE1 1HA,Yes,Comprehensive,3808
+20,Female,Widowed,Student,14,Tesla Model S,279101,CW1 2BB,Yes,Comprehensive,4603
+40,Male,Divorced,Lawyer,8,Audi Q5,632737,TQ2 5HB,Yes,Comprehensive,4913
+29,Male,Married,Sales Associate,4,Honda Accord,591920,AL1 3NJ,Yes,Collision,2419
+37,Male,Single,Student,16,Toyota Corolla,691285,SW1A 1AA,No,Collision,3167
+22,Male,Divorced,Small Business Owner,13,Hyundai Elantra,623026,SE1 8DP,Yes,Collision,3144
+54,Male,Divorced,Small Business Owner,18,Hyundai Elantra,658715,BD1 3EB,No,Collision,3167
+55,Female,Single,Engineer,14,Audi Q5,569614,SW1A 1AA,Yes,Liability-only,6891
+47,Female,Divorced,Nurse,18,Ford F-150,362650,OL4 1ES,Yes,Comprehensive,7536
+26,Male,Married,IT Professional,5,Nissan Altima,509500,BD1 3EB,Yes,Liability-only,2166
+51,Male,Widowed,Driver,9,Nissan Altima,525855,E1 6AN,No,Collision,4575
+61,Male,Married,IT Professional,3,Hyundai Elantra,301633,SW1A 1AA,No,Collision,3841
+52,Male,Single,IT Professional,8,Nissan Altima,184512,BD1 3EB,No,Liability-only,2870
+39,Female,Single,Teacher,10,Audi Q5,375226,SW1A 1AA,Yes,Comprehensive,3886
+61,Male,Divorced,IT Professional,19,Nissan Altima,358467,E1 6AN,Yes,Comprehensive,1159
+41,Female,Married,Engineer,3,Ford F-150,614175,PE1 1HA,Yes,Collision,8243
+34,Male,Married,Student,11,Honda Accord,267363,SW1A 1AA,Yes,Collision,4763
+27,Female,Single,Small Business Owner,11,Tesla Model S,462809,SW1A 1AA,Yes,Collision,2055
+47,Male,Married,IT Professional,17,Honda Accord,331675,DN1 1QR,Yes,Collision,1333
+63,Male,Single,IT Professional,16,Tesla Model S,302110,TQ2 5HB,No,Comprehensive,4596
+40,Female,Married,Teacher,7,Buick Encore,639562,DN1 1QR,No,Liability-only,8607
+49,Male,Married,Sales Associate,4,Honda Accord,316964,AL1 3NJ,Yes,Comprehensive,2362
+34,Male,Married,Driver,19,Audi Q5,544969,M1 1AA,No,Liability-only,1925
+34,Male,Single,Sales Associate,12,Toyota Camry,266737,DN1 1QR,No,Collision,6519
+31,Female,Divorced,Driver,15,Buick Encore,606036,AL1 3NJ,No,Collision,3443
+26,Male,Married,Lawyer,11,Tesla Model S,412968,SW1A 1AA,Yes,Liability-only,4980
+57,Male,Single,IT Professional,5,Tesla Model S,557096,E1 6AN,Yes,Collision,8260
+19,Female,Single,Teacher,5,Buick Encore,478761,DN1 1QR,Yes,Comprehensive,2419
+62,Female,Married,Retired,15,Tesla Model S,423661,OL4 1ES,Yes,Collision,1059
+42,Female,Married,Nurse,18,Toyota Corolla,560092,SW1A 1AA,No,Collision,3524
+56,Male,Divorced,Small Business Owner,11,Toyota Camry,515212,CW1 2BB,Yes,Collision,4797
+26,Male,Single,Student,12,Audi Q5,617018,PE1 1HA,Yes,Collision,2578
+39,Male,Single,Small Business Owner,2,Toyota Corolla,629818,PE1 1HA,Yes,Comprehensive,8201
+60,Female,Widowed,Student,15,Tesla Model S,359485,TQ2 5HB,No,Liability-only,1707
+63,Male,Single,Lawyer,4,Honda Accord,422126,BD1 3EB,No,Collision,9165
+21,Male,Divorced,Sales Associate,18,Toyota Corolla,569814,M1 1AA,No,Collision,6277
+43,Female,Widowed,Engineer,6,Honda Accord,295711,BD1 3EB,No,Comprehensive,2780
+46,Female,Widowed,IT Professional,19,Buick Encore,159695,BD1 3EB,No,Comprehensive,3413
+62,Female,Widowed,Retired,11,Nissan Altima,198582,MK9 1AN,Yes,Comprehensive,8750
+51,Female,Married,Student,2,BMW X5,443238,E1 6AN,No,Collision,3161
+40,Female,Married,Nurse,8,Tesla Model S,434331,CW1 2BB,No,Liability-only,9800
+54,Male,Single,Student,11,BMW X5,669382,M1 1AA,Yes,Comprehensive,1308
+28,Female,Widowed,Engineer,5,Toyota Camry,297049,BD1 3EB,Yes,Comprehensive,6439
+23,Male,Divorced,Small Business Owner,18,Honda Accord,588055,SW1A 1AA,Yes,Comprehensive,5307
+35,Male,Married,Teacher,18,Toyota Corolla,601090,TQ2 5HB,No,Liability-only,3364
+38,Female,Divorced,Small Business Owner,14,BMW X5,513584,TQ2 5HB,Yes,Collision,1184
+59,Female,Divorced,Lawyer,10,Ford F-150,385994,PE1 1HA,No,Collision,6324
+53,Female,Married,Teacher,3,Tesla Model S,354573,BD1 3EB,Yes,Collision,6483
+58,Male,Married,Small Business Owner,9,BMW X5,210481,TQ2 5HB,No,Comprehensive,1245
+55,Female,Married,Nurse,3,Toyota Corolla,439884,BS2 8JD,No,Collision,9430
+51,Female,Married,Small Business Owner,11,Toyota Corolla,646733,SE1 8DP,No,Comprehensive,9183
+34,Female,Widowed,Nurse,12,Toyota Camry,424025,DN1 1QR,No,Liability-only,6924
+54,Female,Widowed,Nurse,12,Hyundai Elantra,449140,PE1 1HA,Yes,Liability-only,1519
+42,Female,Widowed,Teacher,3,Audi Q5,216126,BS2 8JD,Yes,Collision,4907
+55,Male,Widowed,Sales Associate,7,Ford F-150,468675,SE1 8DP,No,Comprehensive,1276
+29,Male,Single,Driver,14,BMW X5,176119,OL4 1ES,Yes,Comprehensive,6101
+40,Male,Widowed,IT Professional,11,Audi Q5,266894,BS2 8JD,No,Collision,9797
+59,Female,Married,Student,7,Ford F-150,308987,SW1A 1AA,Yes,Liability-only,5573
+39,Female,Divorced,Driver,10,Hyundai Elantra,545924,E1 6AN,Yes,Liability-only,5603
+38,Female,Widowed,Engineer,11,BMW X5,581965,OL4 1ES,No,Liability-only,5053
+44,Male,Single,Sales Associate,15,Ford F-150,194989,CV1 2WT,No,Liability-only,7812
+48,Female,Married,Driver,19,Audi Q5,156553,M1 1AA,Yes,Liability-only,7073
+23,Female,Divorced,Teacher,16,Honda Accord,692169,PE1 1HA,No,Collision,1141
+44,Female,Divorced,Engineer,12,Toyota Corolla,151379,CV1 2WT,Yes,Collision,2717
+57,Male,Widowed,Retired,18,Nissan Altima,502935,PE1 1HA,Yes,Collision,8313
+51,Female,Divorced,Sales Associate,13,Buick Encore,517808,TQ2 5HB,Yes,Liability-only,6714
+29,Male,Widowed,Driver,5,Tesla Model S,219306,SW1A 1AA,No,Liability-only,1399
+62,Female,Widowed,Engineer,4,Nissan Altima,562942,M1 1AA,No,Collision,5763
+24,Male,Married,Retired,14,BMW X5,393825,M1 1AA,Yes,Collision,7255
+27,Male,Married,Small Business Owner,8,BMW X5,577530,DN1 1QR,No,Liability-only,1238
+62,Male,Single,Engineer,9,Ford F-150,661030,TQ2 5HB,No,Comprehensive,4215
+34,Female,Married,Teacher,19,Toyota Corolla,428494,PE1 1HA,Yes,Collision,8541
+43,Female,Married,Small Business Owner,3,Hyundai Elantra,650395,M1 1AA,No,Liability-only,4647
+38,Male,Widowed,Teacher,5,Toyota Camry,249599,BS2 8JD,No,Liability-only,6408
+45,Male,Married,Driver,18,Ford F-150,491653,TQ2 5HB,Yes,Collision,7340
+63,Female,Widowed,IT Professional,1,Toyota Camry,692057,AL1 3NJ,No,Comprehensive,3429
+19,Female,Widowed,Driver,8,Buick Encore,458509,CW1 2BB,Yes,Liability-only,4652
+60,Male,Married,Small Business Owner,19,Audi Q5,462329,DN1 1QR,No,Collision,7307
+18,Female,Single,Nurse,17,Ford F-150,276525,MK9 1AN,No,Liability-only,6140
+53,Female,Single,Driver,17,Buick Encore,544836,PE1 1HA,Yes,Liability-only,3878
+43,Female,Divorced,Small Business Owner,11,Tesla Model S,169589,TQ2 5HB,Yes,Liability-only,2535
+46,Female,Divorced,Engineer,2,Ford F-150,415026,CV1 2WT,No,Liability-only,9727
+38,Male,Married,Lawyer,6,Toyota Corolla,330394,CV1 2WT,Yes,Comprehensive,7254
+28,Female,Single,Driver,14,Toyota Corolla,567740,M1 1AA,Yes,Collision,1948
+57,Female,Widowed,Engineer,3,BMW X5,165861,SW1A 1AA,No,Collision,4941
+28,Male,Divorced,Teacher,12,Tesla Model S,466405,PE1 1HA,Yes,Collision,7603
+53,Male,Widowed,Sales Associate,4,BMW X5,486279,AL1 3NJ,No,Collision,9625
+56,Female,Divorced,IT Professional,12,Toyota Camry,370421,AL1 3NJ,No,Collision,2403
+57,Female,Married,Teacher,13,Nissan Altima,394497,CW1 2BB,Yes,Comprehensive,8819
+52,Female,Single,Teacher,2,Hyundai Elantra,572757,BS2 8JD,No,Liability-only,4511
+51,Female,Divorced,Small Business Owner,2,Tesla Model S,194397,CW1 2BB,Yes,Liability-only,3935
+64,Male,Single,Nurse,15,Audi Q5,570669,E1 6AN,No,Collision,5878
+41,Male,Widowed,Student,17,Hyundai Elantra,605561,SW1A 1AA,Yes,Liability-only,8506
+39,Male,Married,Lawyer,7,Hyundai Elantra,556122,CV1 2WT,Yes,Liability-only,8591
+22,Female,Single,Nurse,14,Honda Accord,427132,AL1 3NJ,No,Liability-only,6060
+50,Female,Married,Small Business Owner,12,Ford F-150,308795,M1 1AA,Yes,Collision,4333
+53,Female,Single,IT Professional,17,Audi Q5,308502,AL1 3NJ,Yes,Collision,2602
+64,Female,Widowed,Lawyer,14,Tesla Model S,575751,AL1 3NJ,Yes,Comprehensive,9420
+37,Male,Widowed,Lawyer,6,BMW X5,349548,SE1 8DP,No,Collision,3196
+36,Male,Married,Small Business Owner,19,Toyota Camry,407653,CV1 2WT,No,Comprehensive,1110
+52,Female,Widowed,Retired,6,Ford F-150,194420,E1 6AN,Yes,Collision,7023
+60,Male,Divorced,Teacher,18,Honda Accord,615713,CW1 2BB,Yes,Liability-only,5159
+34,Female,Single,Sales Associate,5,Toyota Camry,583714,E1 6AN,No,Comprehensive,4867
+62,Female,Widowed,Retired,6,Tesla Model S,347241,SE1 8DP,No,Comprehensive,8641
+60,Male,Divorced,Small Business Owner,2,Nissan Altima,399863,BS2 8JD,No,Comprehensive,6004
+51,Female,Married,Retired,8,Hyundai Elantra,175968,SW1A 1AA,Yes,Collision,9204
+26,Female,Divorced,Sales Associate,15,Honda Accord,212508,E1 6AN,No,Comprehensive,8077
+43,Male,Married,Small Business Owner,15,Toyota Camry,525579,AL1 3NJ,Yes,Collision,4261
+19,Female,Married,Small Business Owner,11,BMW X5,235366,DN1 1QR,No,Comprehensive,1662
+26,Female,Single,Lawyer,1,Honda Accord,680026,OL4 1ES,Yes,Collision,9885
+26,Male,Single,Retired,18,Toyota Camry,153098,PE1 1HA,No,Comprehensive,4390
+57,Female,Divorced,Engineer,12,Honda Accord,245424,E1 6AN,Yes,Liability-only,4018
+34,Male,Single,Driver,12,BMW X5,450388,SW1A 1AA,No,Liability-only,2902
+18,Female,Single,Small Business Owner,11,BMW X5,275349,PE1 1HA,No,Comprehensive,5171
+42,Male,Single,Retired,8,Audi Q5,351495,SW1A 1AA,Yes,Collision,1328
+60,Male,Divorced,Student,7,Toyota Corolla,267286,SE1 8DP,No,Collision,7295
+57,Male,Widowed,IT Professional,2,Hyundai Elantra,225028,E1 6AN,No,Collision,4846
+59,Female,Single,Student,11,Ford F-150,188575,TQ2 5HB,No,Liability-only,1224
+42,Male,Single,Retired,10,Ford F-150,677480,E1 6AN,No,Liability-only,3520
+56,Male,Divorced,Teacher,3,Tesla Model S,598484,BD1 3EB,Yes,Liability-only,9064
+52,Male,Widowed,Teacher,10,Buick Encore,269783,AL1 3NJ,Yes,Collision,4714
+20,Male,Single,Retired,18,Tesla Model S,311554,SW1A 1AA,No,Collision,3407
+54,Male,Married,Lawyer,14,Buick Encore,329300,M1 1AA,Yes,Collision,7683
+61,Female,Divorced,Lawyer,18,Honda Accord,200126,PE1 1HA,Yes,Comprehensive,1810
+61,Female,Single,Small Business Owner,8,Buick Encore,205114,MK9 1AN,Yes,Comprehensive,7752
+47,Female,Single,Sales Associate,10,Toyota Corolla,505884,BS2 8JD,Yes,Comprehensive,4117
+55,Female,Married,Driver,13,Toyota Corolla,356422,BD1 3EB,Yes,Liability-only,5773
+51,Female,Married,Small Business Owner,8,Hyundai Elantra,271284,AL1 3NJ,No,Liability-only,4290
+29,Female,Divorced,Student,4,Toyota Camry,464626,SE1 8DP,Yes,Collision,3251
+36,Female,Divorced,Driver,4,Ford F-150,344469,PE1 1HA,No,Comprehensive,5661
+54,Male,Married,Student,5,Hyundai Elantra,292290,CW1 2BB,Yes,Collision,5606
+61,Female,Divorced,Lawyer,1,Toyota Corolla,483735,SE1 8DP,No,Comprehensive,7421
+34,Male,Married,Retired,17,Toyota Camry,332615,TQ2 5HB,No,Comprehensive,4052
+27,Male,Single,Sales Associate,2,Tesla Model S,454144,M1 1AA,No,Collision,9207
+64,Female,Married,Student,8,Ford F-150,500891,MK9 1AN,Yes,Collision,5451
+29,Male,Married,Lawyer,7,Audi Q5,311686,PE1 1HA,Yes,Comprehensive,5925
+33,Male,Widowed,Sales Associate,15,Ford F-150,691889,MK9 1AN,No,Comprehensive,3646
+41,Male,Married,Small Business Owner,5,Honda Accord,535398,SE1 8DP,No,Liability-only,3906
+36,Male,Married,Retired,2,Nissan Altima,610828,BD1 3EB,Yes,Collision,2746
+25,Female,Widowed,IT Professional,7,Ford F-150,531148,SE1 8DP,Yes,Collision,5309
+48,Female,Divorced,Teacher,8,Toyota Corolla,440144,M1 1AA,No,Collision,1448
+38,Female,Widowed,Nurse,7,Honda Accord,280439,M1 1AA,Yes,Collision,4012
+34,Female,Single,Sales Associate,7,BMW X5,389691,OL4 1ES,Yes,Comprehensive,2568
+40,Female,Widowed,IT Professional,14,Buick Encore,269277,DN1 1QR,Yes,Liability-only,4491
+54,Female,Single,IT Professional,18,Tesla Model S,442527,E1 6AN,Yes,Collision,8310
+33,Female,Divorced,Sales Associate,6,Audi Q5,292857,CW1 2BB,Yes,Comprehensive,7883
+23,Female,Widowed,IT Professional,4,Tesla Model S,525982,CW1 2BB,Yes,Comprehensive,6984
+25,Female,Widowed,Student,10,BMW X5,679129,BD1 3EB,No,Comprehensive,8088
+42,Female,Divorced,IT Professional,18,Nissan Altima,247204,M1 1AA,No,Comprehensive,5768
+35,Male,Single,Lawyer,12,Ford F-150,210155,OL4 1ES,No,Comprehensive,2064
+42,Female,Widowed,Driver,16,Hyundai Elantra,468457,AL1 3NJ,No,Collision,4821
+29,Male,Single,Student,7,Honda Accord,667953,OL4 1ES,No,Collision,9759
+32,Male,Widowed,IT Professional,6,Audi Q5,668985,BS2 8JD,No,Liability-only,2436
+43,Male,Married,Small Business Owner,5,BMW X5,298515,SE1 8DP,Yes,Collision,7097
+58,Male,Widowed,Teacher,3,Nissan Altima,575466,E1 6AN,Yes,Comprehensive,3483
+62,Female,Divorced,Retired,12,Tesla Model S,282994,DN1 1QR,No,Liability-only,8719
+43,Male,Divorced,IT Professional,15,BMW X5,254405,OL4 1ES,No,Comprehensive,5800
+64,Female,Single,Engineer,10,Audi Q5,676761,SE1 8DP,No,Comprehensive,7382
+49,Female,Widowed,Teacher,19,Audi Q5,394826,E1 6AN,Yes,Collision,5829
+27,Male,Single,Small Business Owner,16,Nissan Altima,403856,MK9 1AN,Yes,Comprehensive,7153
+33,Female,Single,Lawyer,11,Tesla Model S,669637,PE1 1HA,Yes,Collision,3794
+24,Male,Married,IT Professional,8,Toyota Corolla,575426,DN1 1QR,Yes,Comprehensive,8612
+34,Male,Married,Lawyer,3,Audi Q5,477660,DN1 1QR,No,Liability-only,2097
+40,Female,Divorced,IT Professional,7,Honda Accord,204604,BS2 8JD,No,Comprehensive,2638
+43,Female,Single,Nurse,7,Honda Accord,658410,MK9 1AN,No,Collision,9455
+38,Male,Divorced,Driver,14,Buick Encore,154889,DN1 1QR,No,Comprehensive,1160
+39,Female,Widowed,Lawyer,2,Tesla Model S,387230,TQ2 5HB,Yes,Collision,6906
+24,Female,Single,Driver,10,BMW X5,386139,BS2 8JD,Yes,Collision,9502
+31,Female,Single,Teacher,19,Honda Accord,239882,TQ2 5HB,No,Liability-only,9418
+32,Male,Widowed,Nurse,9,Nissan Altima,450102,DN1 1QR,Yes,Collision,9464
+24,Male,Widowed,Retired,16,BMW X5,417825,M1 1AA,Yes,Liability-only,8081
+26,Female,Divorced,Student,19,Tesla Model S,251982,DN1 1QR,Yes,Liability-only,5412
+25,Female,Divorced,Driver,18,Nissan Altima,196870,SW1A 1AA,Yes,Comprehensive,4157
+40,Female,Widowed,Nurse,9,Ford F-150,363328,BS2 8JD,No,Liability-only,3338
+46,Female,Divorced,Driver,16,Toyota Camry,309224,SW1A 1AA,Yes,Collision,6588
+35,Female,Widowed,Sales Associate,13,Honda Accord,338691,PE1 1HA,No,Collision,2601
+48,Male,Single,Small Business Owner,10,Honda Accord,685505,M1 1AA,Yes,Liability-only,6888
+47,Female,Single,Retired,14,Buick Encore,460495,MK9 1AN,Yes,Comprehensive,4718
+56,Male,Married,Small Business Owner,12,Toyota Corolla,563870,CV1 2WT,No,Liability-only,6546
+52,Female,Single,IT Professional,19,Buick Encore,342386,AL1 3NJ,No,Liability-only,2925
+35,Male,Widowed,Driver,7,Tesla Model S,413552,BD1 3EB,Yes,Collision,9758
+59,Female,Divorced,IT Professional,15,Buick Encore,671817,SE1 8DP,Yes,Comprehensive,3915
+56,Male,Married,Engineer,16,Toyota Corolla,257042,AL1 3NJ,No,Comprehensive,7898
+34,Female,Divorced,Driver,8,Toyota Corolla,331644,AL1 3NJ,Yes,Comprehensive,9443
+31,Male,Widowed,Nurse,10,Audi Q5,644897,DN1 1QR,Yes,Comprehensive,6652
+48,Male,Single,Retired,4,Audi Q5,534333,CW1 2BB,No,Collision,4501
+41,Male,Married,IT Professional,19,Toyota Camry,219634,OL4 1ES,Yes,Comprehensive,8274
+52,Male,Widowed,Driver,19,Nissan Altima,529570,BS2 8JD,Yes,Comprehensive,2602
+61,Male,Married,Engineer,15,Ford F-150,288691,CV1 2WT,Yes,Comprehensive,8359
+62,Male,Married,Small Business Owner,14,Toyota Corolla,555155,OL4 1ES,Yes,Collision,1513
+51,Female,Single,Nurse,1,Ford F-150,168226,BD1 3EB,Yes,Collision,9633
+20,Male,Widowed,Sales Associate,16,Honda Accord,175322,MK9 1AN,No,Comprehensive,9192
+54,Female,Divorced,Driver,10,Hyundai Elantra,244835,MK9 1AN,Yes,Collision,7501
+60,Female,Married,Sales Associate,19,Toyota Camry,405027,OL4 1ES,No,Liability-only,1902
+57,Female,Married,Teacher,3,Tesla Model S,223079,CW1 2BB,No,Comprehensive,6719
+43,Female,Divorced,Retired,5,BMW X5,173946,BD1 3EB,Yes,Collision,9148
+40,Female,Widowed,Driver,9,Ford F-150,157253,PE1 1HA,No,Comprehensive,3321
+61,Male,Married,Lawyer,18,Buick Encore,229311,PE1 1HA,Yes,Comprehensive,1855
+56,Male,Married,Engineer,11,Toyota Corolla,460509,TQ2 5HB,No,Collision,2017
+32,Male,Married,IT Professional,16,Ford F-150,299485,M1 1AA,No,Liability-only,6279
+21,Female,Widowed,Lawyer,2,BMW X5,376833,OL4 1ES,No,Comprehensive,8712
+46,Male,Widowed,Teacher,12,Toyota Corolla,349304,SE1 8DP,Yes,Liability-only,5680
+39,Male,Divorced,Retired,6,Tesla Model S,683119,CV1 2WT,No,Collision,8072
+42,Male,Widowed,Small Business Owner,11,Hyundai Elantra,627799,CW1 2BB,No,Comprehensive,7624
+30,Male,Widowed,Nurse,8,Buick Encore,464041,BD1 3EB,No,Collision,1195
+35,Male,Single,Sales Associate,12,Ford F-150,155004,CV1 2WT,Yes,Collision,5694
+50,Female,Divorced,Teacher,2,Audi Q5,458068,OL4 1ES,Yes,Collision,5651
+33,Male,Married,IT Professional,9,Toyota Camry,564725,SE1 8DP,No,Collision,7991
+62,Female,Widowed,Nurse,15,Ford F-150,187170,OL4 1ES,No,Comprehensive,3697
+59,Female,Married,Small Business Owner,2,Ford F-150,557878,DN1 1QR,No,Liability-only,2057
+61,Female,Married,IT Professional,1,BMW X5,268115,BS2 8JD,No,Liability-only,6207
+19,Female,Single,Engineer,10,BMW X5,328475,MK9 1AN,Yes,Comprehensive,3792
+52,Female,Widowed,Sales Associate,2,Toyota Camry,448509,BS2 8JD,Yes,Comprehensive,1420
+59,Male,Divorced,Lawyer,12,Ford F-150,474332,CW1 2BB,Yes,Liability-only,3814
+51,Male,Widowed,Driver,8,Nissan Altima,510777,BD1 3EB,No,Liability-only,3840
+47,Male,Married,Teacher,5,Tesla Model S,213471,BD1 3EB,Yes,Comprehensive,2031
+30,Female,Divorced,Driver,1,BMW X5,560372,AL1 3NJ,No,Collision,8639
+30,Male,Widowed,Nurse,15,BMW X5,544861,CW1 2BB,No,Comprehensive,2491
+35,Male,Married,Driver,6,Nissan Altima,471220,CW1 2BB,No,Liability-only,5975
+49,Female,Married,Lawyer,12,Toyota Corolla,637801,SE1 8DP,Yes,Collision,5947
+49,Female,Single,Student,8,Ford F-150,200151,BS2 8JD,No,Liability-only,1509
+52,Female,Single,Nurse,13,Toyota Camry,512009,BD1 3EB,Yes,Collision,2859
+56,Female,Single,Sales Associate,19,BMW X5,222847,SW1A 1AA,No,Liability-only,6061
+63,Male,Married,IT Professional,1,Toyota Camry,361811,OL4 1ES,Yes,Collision,2858
+46,Female,Widowed,Sales Associate,11,Toyota Camry,643570,CW1 2BB,No,Comprehensive,6607
+46,Female,Single,Driver,1,Tesla Model S,573359,M1 1AA,Yes,Comprehensive,3065
+61,Male,Widowed,Retired,8,Audi Q5,499924,DN1 1QR,No,Collision,3966
+33,Male,Single,Nurse,5,BMW X5,570114,E1 6AN,Yes,Collision,7773
+61,Female,Divorced,IT Professional,17,Buick Encore,667649,BD1 3EB,No,Comprehensive,8892
+64,Male,Divorced,Small Business Owner,8,Toyota Corolla,249919,PE1 1HA,No,Comprehensive,5442
+27,Female,Single,Engineer,10,Toyota Camry,524998,BD1 3EB,No,Collision,4204
+47,Female,Married,Sales Associate,2,BMW X5,366746,TQ2 5HB,Yes,Collision,1575
+42,Male,Single,Sales Associate,9,Toyota Corolla,344020,M1 1AA,No,Comprehensive,1198
+56,Male,Single,Nurse,3,Buick Encore,193262,BD1 3EB,No,Liability-only,8423
+37,Female,Married,Retired,18,BMW X5,548722,M1 1AA,No,Comprehensive,2365
+22,Female,Divorced,Driver,7,Ford F-150,694893,E1 6AN,Yes,Collision,8834
+18,Female,Widowed,Driver,15,Toyota Camry,440375,AL1 3NJ,No,Collision,2998
+47,Male,Single,Nurse,18,Buick Encore,227123,SE1 8DP,No,Liability-only,6350
+20,Female,Married,Sales Associate,3,Ford F-150,499355,TQ2 5HB,Yes,Comprehensive,7444
+62,Female,Single,IT Professional,14,Toyota Camry,581838,MK9 1AN,No,Collision,2016
+31,Female,Married,Engineer,2,Honda Accord,308964,SW1A 1AA,Yes,Comprehensive,4618
+47,Female,Widowed,Nurse,14,Hyundai Elantra,318767,DN1 1QR,No,Collision,1025
+21,Female,Widowed,IT Professional,11,Nissan Altima,547694,E1 6AN,Yes,Liability-only,4724
+35,Male,Divorced,IT Professional,16,Toyota Camry,627032,MK9 1AN,Yes,Comprehensive,4458
+54,Female,Married,Small Business Owner,8,Buick Encore,613179,TQ2 5HB,Yes,Comprehensive,7593
+42,Female,Married,Lawyer,7,Buick Encore,306547,CV1 2WT,No,Liability-only,9662
+18,Female,Divorced,Student,11,Hyundai Elantra,302185,AL1 3NJ,No,Collision,8280
+63,Female,Divorced,Engineer,3,BMW X5,205746,MK9 1AN,Yes,Collision,9069
+32,Male,Married,Teacher,17,Nissan Altima,318393,SE1 8DP,No,Comprehensive,5746
+26,Male,Divorced,Retired,14,Toyota Corolla,433453,BS2 8JD,No,Liability-only,8589
+32,Male,Widowed,Student,6,Toyota Camry,440320,M1 1AA,Yes,Comprehensive,7978
+41,Female,Single,Small Business Owner,8,BMW X5,496872,CW1 2BB,Yes,Comprehensive,4041
+21,Female,Widowed,Engineer,5,Ford F-150,370084,CV1 2WT,Yes,Collision,8765
+29,Male,Divorced,Driver,8,Toyota Corolla,505446,E1 6AN,Yes,Collision,6404
+54,Male,Married,Student,2,Nissan Altima,693118,BD1 3EB,No,Collision,1571
+54,Male,Married,Driver,15,BMW X5,366897,E1 6AN,No,Collision,9796
+60,Female,Widowed,Retired,12,Audi Q5,243878,DN1 1QR,No,Collision,5980
+23,Female,Married,Driver,17,Toyota Corolla,275407,SE1 8DP,No,Liability-only,9573
+56,Male,Divorced,Retired,1,Tesla Model S,407716,CV1 2WT,No,Comprehensive,2236
+63,Male,Widowed,Engineer,15,Tesla Model S,166738,OL4 1ES,No,Liability-only,3380
+41,Male,Married,Sales Associate,14,Toyota Camry,283703,MK9 1AN,Yes,Comprehensive,8177
+28,Female,Single,Retired,16,Toyota Camry,693344,SE1 8DP,No,Collision,2517
+30,Female,Single,IT Professional,9,Toyota Camry,660241,AL1 3NJ,No,Liability-only,2533
+51,Female,Divorced,Teacher,1,Nissan Altima,533800,DN1 1QR,No,Comprehensive,6887
+42,Male,Married,Teacher,17,Audi Q5,176014,MK9 1AN,Yes,Collision,8859
+24,Male,Divorced,Nurse,13,BMW X5,331350,TQ2 5HB,Yes,Collision,4489
+21,Female,Widowed,Teacher,5,Ford F-150,634859,TQ2 5HB,No,Liability-only,5642
+25,Male,Single,Nurse,10,Honda Accord,640339,E1 6AN,Yes,Liability-only,3150
+37,Female,Widowed,Teacher,6,Buick Encore,192192,E1 6AN,Yes,Liability-only,6319
+46,Male,Married,Retired,19,Ford F-150,511273,CV1 2WT,No,Collision,4766
+62,Male,Divorced,IT Professional,13,BMW X5,193923,M1 1AA,No,Comprehensive,5960
+63,Male,Divorced,Sales Associate,1,Audi Q5,676683,TQ2 5HB,No,Comprehensive,7061
+27,Male,Divorced,Driver,15,Nissan Altima,514593,CV1 2WT,Yes,Liability-only,6857
+60,Female,Widowed,Small Business Owner,14,Toyota Corolla,533891,CW1 2BB,Yes,Comprehensive,5487
+51,Male,Single,Teacher,8,Ford F-150,558995,TQ2 5HB,No,Collision,8750
+43,Female,Widowed,Sales Associate,10,Toyota Corolla,550327,E1 6AN,Yes,Comprehensive,2077
+58,Female,Widowed,Sales Associate,9,Honda Accord,405315,M1 1AA,Yes,Collision,2300
+20,Female,Married,Retired,17,BMW X5,439068,TQ2 5HB,Yes,Liability-only,7649
+23,Male,Married,Engineer,9,Audi Q5,595919,M1 1AA,No,Comprehensive,8181
+22,Female,Married,Engineer,3,BMW X5,444721,CV1 2WT,No,Collision,9138
+22,Female,Single,Teacher,11,Buick Encore,288783,BS2 8JD,No,Liability-only,3529
+64,Female,Single,Small Business Owner,12,Nissan Altima,407288,SE1 8DP,No,Liability-only,4260
+40,Male,Married,Teacher,10,Buick Encore,643085,AL1 3NJ,No,Liability-only,1363
+26,Male,Married,Teacher,17,BMW X5,645187,BS2 8JD,Yes,Liability-only,1845
+52,Female,Single,Nurse,17,Buick Encore,385835,E1 6AN,Yes,Comprehensive,4032
+37,Male,Divorced,IT Professional,11,Hyundai Elantra,501992,MK9 1AN,Yes,Collision,2327
+59,Female,Single,IT Professional,4,BMW X5,356084,E1 6AN,Yes,Comprehensive,9583
+52,Female,Single,Small Business Owner,7,Audi Q5,537554,SW1A 1AA,Yes,Collision,4255
+35,Male,Single,Nurse,14,Ford F-150,620336,E1 6AN,Yes,Liability-only,6136
+34,Female,Married,Sales Associate,7,Audi Q5,358072,DN1 1QR,No,Comprehensive,8108
+41,Male,Divorced,Nurse,8,Hyundai Elantra,398029,PE1 1HA,No,Liability-only,4237
+20,Male,Single,Teacher,1,Ford F-150,359047,BD1 3EB,Yes,Collision,6668
+49,Female,Married,Engineer,4,Hyundai Elantra,515169,OL4 1ES,No,Liability-only,7312
+52,Male,Widowed,Student,12,Ford F-150,280509,SW1A 1AA,Yes,Comprehensive,9956
+55,Male,Widowed,Small Business Owner,3,Audi Q5,445107,PE1 1HA,Yes,Comprehensive,6465
+30,Female,Single,Sales Associate,13,BMW X5,677561,OL4 1ES,No,Collision,1498
+64,Female,Widowed,Retired,6,Toyota Camry,689618,M1 1AA,No,Collision,7062
+42,Male,Divorced,Student,11,Tesla Model S,302566,E1 6AN,Yes,Comprehensive,3944
+26,Male,Widowed,Student,4,Tesla Model S,153212,CW1 2BB,No,Comprehensive,8952
+21,Female,Widowed,Nurse,16,Hyundai Elantra,382131,DN1 1QR,Yes,Comprehensive,6856
+31,Male,Divorced,Driver,7,Tesla Model S,626657,AL1 3NJ,Yes,Comprehensive,8838
+54,Male,Single,Student,11,Audi Q5,282152,DN1 1QR,Yes,Collision,7077
+51,Male,Single,Teacher,1,Toyota Corolla,444819,MK9 1AN,Yes,Comprehensive,1135
+28,Male,Divorced,Lawyer,7,Hyundai Elantra,172007,CV1 2WT,Yes,Collision,5033
+58,Male,Divorced,Engineer,12,Ford F-150,494785,DN1 1QR,No,Comprehensive,7700
+20,Male,Divorced,Engineer,7,Nissan Altima,475737,AL1 3NJ,Yes,Comprehensive,5113
+45,Male,Widowed,Lawyer,7,Buick Encore,662164,MK9 1AN,No,Liability-only,7546
+46,Female,Divorced,IT Professional,10,Audi Q5,228038,CW1 2BB,Yes,Liability-only,9396
+26,Female,Married,Teacher,16,Ford F-150,506043,CV1 2WT,No,Comprehensive,5594
+20,Female,Widowed,Retired,8,Toyota Corolla,166473,M1 1AA,Yes,Collision,1561
+42,Female,Single,Student,9,Nissan Altima,275801,CW1 2BB,No,Comprehensive,6400
+51,Female,Single,IT Professional,9,Tesla Model S,658252,DN1 1QR,Yes,Liability-only,8333
+29,Male,Single,Teacher,2,Toyota Corolla,375097,E1 6AN,Yes,Comprehensive,4314
+59,Male,Widowed,Nurse,13,Hyundai Elantra,448964,CW1 2BB,No,Liability-only,4960
+26,Male,Married,Engineer,13,Honda Accord,365933,DN1 1QR,No,Comprehensive,3211
+32,Male,Divorced,IT Professional,4,Honda Accord,469733,E1 6AN,No,Comprehensive,3371
+57,Female,Divorced,Small Business Owner,12,Tesla Model S,430558,CW1 2BB,No,Collision,7974
+42,Male,Single,Student,17,Honda Accord,539522,SW1A 1AA,No,Liability-only,3681
+22,Male,Single,Student,2,Honda Accord,174220,TQ2 5HB,No,Liability-only,3806
+28,Female,Widowed,Retired,13,Ford F-150,522146,CW1 2BB,Yes,Liability-only,3255
+51,Male,Married,Driver,18,Ford F-150,657409,BS2 8JD,Yes,Collision,7382
+41,Male,Divorced,Small Business Owner,15,Buick Encore,159387,AL1 3NJ,Yes,Comprehensive,5899
+32,Female,Widowed,Student,8,BMW X5,395752,OL4 1ES,No,Collision,4159
+55,Male,Divorced,Sales Associate,15,Tesla Model S,400139,DN1 1QR,No,Comprehensive,6656
+25,Male,Single,Small Business Owner,1,Honda Accord,650228,PE1 1HA,No,Collision,2452
+22,Male,Divorced,Student,10,Buick Encore,396509,TQ2 5HB,Yes,Collision,3322
+43,Male,Married,Lawyer,12,Tesla Model S,163580,BS2 8JD,No,Liability-only,8097
+35,Male,Married,Small Business Owner,5,Honda Accord,692528,OL4 1ES,Yes,Collision,2768
+23,Female,Single,Teacher,9,Audi Q5,495590,BS2 8JD,No,Comprehensive,7096
+54,Female,Married,Small Business Owner,8,Toyota Camry,618968,BD1 3EB,No,Collision,6185
+30,Female,Married,Retired,16,Audi Q5,633663,CV1 2WT,No,Collision,2169
+45,Female,Widowed,Nurse,14,Nissan Altima,578082,SW1A 1AA,Yes,Comprehensive,5710
+22,Female,Divorced,Nurse,13,Tesla Model S,363165,E1 6AN,No,Liability-only,7590
+30,Female,Single,Nurse,13,BMW X5,555427,PE1 1HA,Yes,Comprehensive,1386
+34,Male,Single,Teacher,5,Nissan Altima,602201,TQ2 5HB,No,Comprehensive,3430
+57,Female,Single,IT Professional,16,Buick Encore,314340,BS2 8JD,No,Comprehensive,2405
+62,Female,Single,Nurse,11,Buick Encore,454960,BS2 8JD,No,Collision,1123
+49,Male,Single,Engineer,5,Honda Accord,239460,M1 1AA,No,Collision,4997
+46,Male,Married,Teacher,13,Nissan Altima,456256,CW1 2BB,Yes,Comprehensive,6909
+20,Female,Widowed,IT Professional,11,Honda Accord,201048,BD1 3EB,No,Comprehensive,4896
+57,Male,Single,Engineer,19,Tesla Model S,282850,PE1 1HA,Yes,Liability-only,9066
+51,Female,Widowed,Engineer,3,Buick Encore,628193,PE1 1HA,No,Collision,1727
+57,Male,Widowed,Engineer,15,Toyota Camry,456932,CV1 2WT,No,Collision,8039
+44,Female,Married,Sales Associate,7,Buick Encore,416891,PE1 1HA,No,Collision,8715
+30,Male,Single,Retired,7,Ford F-150,674333,SE1 8DP,Yes,Collision,4670
+62,Male,Married,Retired,6,Toyota Corolla,682046,PE1 1HA,No,Comprehensive,2141
+50,Female,Single,Teacher,3,BMW X5,290926,BS2 8JD,Yes,Comprehensive,5031
+23,Female,Married,Engineer,13,Nissan Altima,333148,SE1 8DP,Yes,Liability-only,9550
+41,Female,Widowed,Lawyer,7,Honda Accord,315368,DN1 1QR,No,Collision,4742
+36,Female,Single,Small Business Owner,5,Toyota Corolla,644496,OL4 1ES,Yes,Collision,3844
+33,Female,Divorced,IT Professional,18,Toyota Corolla,169455,TQ2 5HB,No,Comprehensive,3211
+57,Male,Widowed,Retired,8,Audi Q5,615139,TQ2 5HB,Yes,Liability-only,1972
+45,Female,Divorced,Nurse,17,Hyundai Elantra,381897,CW1 2BB,Yes,Comprehensive,1360
+50,Female,Widowed,Teacher,1,Audi Q5,582509,SE1 8DP,Yes,Collision,3632
+58,Male,Married,IT Professional,14,Audi Q5,642646,OL4 1ES,Yes,Collision,4190
+30,Male,Single,Teacher,17,BMW X5,532605,BD1 3EB,No,Liability-only,5948
+60,Female,Widowed,Lawyer,10,Ford F-150,493782,AL1 3NJ,Yes,Comprehensive,2624
+62,Male,Married,Sales Associate,12,Buick Encore,318332,DN1 1QR,No,Collision,2756
+42,Male,Single,Sales Associate,16,Audi Q5,250647,E1 6AN,Yes,Collision,8818
+59,Female,Single,Engineer,14,Tesla Model S,278824,BS2 8JD,No,Liability-only,6119
+53,Male,Widowed,Sales Associate,16,Buick Encore,417724,SE1 8DP,No,Collision,7026
+44,Male,Single,Teacher,8,Ford F-150,417544,AL1 3NJ,Yes,Collision,9432
+55,Female,Widowed,Nurse,10,Honda Accord,277319,CW1 2BB,Yes,Comprehensive,7975
+24,Female,Single,Engineer,17,Hyundai Elantra,662193,M1 1AA,No,Liability-only,1975
+22,Male,Divorced,Student,18,Buick Encore,629389,SW1A 1AA,Yes,Liability-only,5318
+60,Male,Married,IT Professional,16,Nissan Altima,256960,DN1 1QR,Yes,Liability-only,6923
+62,Female,Divorced,Lawyer,17,BMW X5,189015,BD1 3EB,Yes,Comprehensive,3313
+48,Male,Widowed,Engineer,16,Toyota Corolla,483857,E1 6AN,Yes,Liability-only,1787
+40,Male,Divorced,Teacher,19,Honda Accord,295109,CW1 2BB,Yes,Collision,3428
+59,Male,Widowed,IT Professional,8,Ford F-150,627508,SW1A 1AA,Yes,Liability-only,9747
+27,Female,Single,Nurse,6,Audi Q5,238754,MK9 1AN,Yes,Collision,7664
+49,Male,Single,Driver,6,Tesla Model S,371775,BD1 3EB,Yes,Liability-only,8483
+60,Male,Widowed,Lawyer,9,Tesla Model S,455292,MK9 1AN,Yes,Liability-only,2363
+47,Female,Divorced,Teacher,4,Hyundai Elantra,206879,M1 1AA,No,Comprehensive,4959
+56,Male,Single,Lawyer,12,Ford F-150,269894,OL4 1ES,Yes,Liability-only,9781
+48,Male,Married,Retired,12,Honda Accord,179756,M1 1AA,Yes,Liability-only,2749
+35,Female,Single,Driver,17,Nissan Altima,330557,SE1 8DP,Yes,Comprehensive,7671
+53,Female,Married,IT Professional,15,Toyota Corolla,379303,TQ2 5HB,Yes,Collision,1540
+19,Female,Divorced,Sales Associate,9,Audi Q5,554241,DN1 1QR,Yes,Liability-only,8634
+31,Female,Married,Teacher,7,BMW X5,641599,E1 6AN,No,Liability-only,9482
+30,Male,Married,Lawyer,10,Toyota Camry,645283,PE1 1HA,No,Collision,4935
+46,Male,Married,IT Professional,16,Toyota Camry,298188,CV1 2WT,Yes,Comprehensive,4958
+29,Female,Married,Sales Associate,12,Audi Q5,274697,BS2 8JD,No,Liability-only,4859
+56,Female,Single,Nurse,7,Honda Accord,630795,BS2 8JD,Yes,Comprehensive,9050
+19,Male,Married,Nurse,18,Audi Q5,545340,TQ2 5HB,Yes,Collision,6331
+49,Female,Single,Lawyer,15,Ford F-150,386028,OL4 1ES,No,Collision,9199
+30,Male,Married,Engineer,6,Toyota Camry,157176,CW1 2BB,No,Comprehensive,2657
+63,Female,Widowed,Retired,12,Hyundai Elantra,608034,E1 6AN,No,Collision,7185
+44,Male,Divorced,Engineer,11,Ford F-150,663611,PE1 1HA,No,Collision,5428
+58,Female,Married,Retired,3,Toyota Camry,299748,OL4 1ES,No,Liability-only,8237
+34,Female,Widowed,Teacher,2,Nissan Altima,195177,CV1 2WT,Yes,Comprehensive,2039
+57,Male,Married,Student,6,Toyota Corolla,633512,SE1 8DP,Yes,Liability-only,3116
+48,Female,Married,Lawyer,5,Tesla Model S,260623,SE1 8DP,Yes,Comprehensive,9876
+51,Male,Married,Small Business Owner,18,Ford F-150,675285,DN1 1QR,No,Liability-only,5018
+41,Male,Widowed,Lawyer,16,Tesla Model S,602546,PE1 1HA,Yes,Collision,8546
+62,Male,Divorced,Driver,8,Tesla Model S,646184,TQ2 5HB,No,Comprehensive,2824
+52,Male,Widowed,Sales Associate,11,Toyota Camry,397439,PE1 1HA,Yes,Comprehensive,4534
+23,Male,Divorced,Driver,10,Ford F-150,245287,PE1 1HA,No,Comprehensive,7670
+36,Female,Married,Nurse,12,Toyota Corolla,269574,M1 1AA,No,Comprehensive,9254
+47,Female,Single,Retired,6,Nissan Altima,271509,MK9 1AN,Yes,Collision,9452
+24,Male,Married,Sales Associate,5,Buick Encore,497591,SW1A 1AA,Yes,Collision,4571
+27,Female,Divorced,Nurse,9,Hyundai Elantra,599181,BS2 8JD,Yes,Collision,4192
+58,Male,Widowed,Sales Associate,16,Tesla Model S,493288,MK9 1AN,Yes,Liability-only,5953
+49,Female,Married,Engineer,14,Toyota Corolla,342589,AL1 3NJ,No,Collision,5275
+51,Female,Widowed,Nurse,8,BMW X5,506459,TQ2 5HB,Yes,Liability-only,1354
+45,Female,Widowed,Engineer,19,BMW X5,638720,E1 6AN,No,Liability-only,6029
+32,Female,Widowed,Engineer,14,Buick Encore,154090,AL1 3NJ,Yes,Collision,3774
+47,Male,Married,Sales Associate,7,Buick Encore,568161,M1 1AA,Yes,Collision,1588
+54,Male,Widowed,IT Professional,5,Buick Encore,153743,CW1 2BB,Yes,Collision,1604
+46,Female,Widowed,Driver,18,Hyundai Elantra,180924,SE1 8DP,Yes,Liability-only,9365
+39,Female,Married,Nurse,2,Hyundai Elantra,291268,BS2 8JD,Yes,Comprehensive,1353
+21,Male,Widowed,Small Business Owner,11,Nissan Altima,481004,PE1 1HA,No,Collision,6434
+37,Female,Married,IT Professional,8,Tesla Model S,379602,CV1 2WT,Yes,Liability-only,1433
+49,Male,Divorced,Driver,1,Honda Accord,492543,CV1 2WT,No,Liability-only,9450
+53,Male,Divorced,Nurse,12,BMW X5,658928,CV1 2WT,Yes,Collision,1867
+21,Male,Divorced,Retired,2,Toyota Camry,253976,E1 6AN,No,Liability-only,9787
+44,Female,Widowed,Driver,18,Toyota Camry,305183,TQ2 5HB,Yes,Collision,6764
+34,Male,Single,Small Business Owner,7,Buick Encore,407443,PE1 1HA,Yes,Liability-only,1393
+29,Female,Single,Lawyer,17,Audi Q5,211600,BS2 8JD,Yes,Comprehensive,4754
+39,Male,Widowed,Teacher,14,BMW X5,273323,SE1 8DP,No,Liability-only,5370
+34,Female,Single,Engineer,7,Honda Accord,336110,AL1 3NJ,No,Collision,5521
+27,Female,Married,Teacher,3,Honda Accord,420041,PE1 1HA,Yes,Comprehensive,8699
+18,Female,Single,IT Professional,6,Toyota Camry,256968,PE1 1HA,Yes,Collision,5578
+39,Male,Widowed,Lawyer,2,Audi Q5,689180,TQ2 5HB,Yes,Liability-only,9405
+43,Male,Widowed,Engineer,17,Honda Accord,174815,DN1 1QR,No,Comprehensive,3126
+35,Female,Married,Nurse,12,BMW X5,576573,M1 1AA,Yes,Comprehensive,9330
+31,Female,Divorced,IT Professional,12,Tesla Model S,618304,CW1 2BB,No,Liability-only,5193
+64,Female,Widowed,Small Business Owner,17,Toyota Corolla,614151,CV1 2WT,Yes,Comprehensive,4960
+46,Male,Married,Sales Associate,10,Audi Q5,340732,OL4 1ES,No,Comprehensive,1663
+29,Male,Single,Nurse,3,Honda Accord,346599,DN1 1QR,No,Comprehensive,3832
+53,Male,Single,Driver,18,Audi Q5,344451,BS2 8JD,No,Collision,5574
+52,Male,Married,Sales Associate,13,Audi Q5,506686,M1 1AA,Yes,Collision,7371
+29,Female,Married,IT Professional,12,Tesla Model S,478756,CW1 2BB,No,Comprehensive,8624
+24,Female,Widowed,Driver,17,BMW X5,288307,SW1A 1AA,Yes,Liability-only,7292
+46,Male,Single,Small Business Owner,4,Toyota Camry,238757,CW1 2BB,No,Liability-only,6177
+28,Male,Married,Teacher,10,Tesla Model S,559633,BD1 3EB,Yes,Collision,9353
+50,Female,Single,Driver,11,Honda Accord,446753,CV1 2WT,No,Liability-only,8006
+23,Male,Married,Teacher,6,Buick Encore,404200,BD1 3EB,No,Comprehensive,4178
+64,Male,Single,Engineer,6,Tesla Model S,697933,M1 1AA,Yes,Liability-only,6546
+32,Male,Divorced,Retired,9,Buick Encore,606089,DN1 1QR,Yes,Collision,5490
+49,Male,Widowed,Student,15,Ford F-150,474377,MK9 1AN,No,Collision,5896
+28,Male,Single,Nurse,2,Toyota Camry,523587,CW1 2BB,No,Comprehensive,1185
+40,Male,Divorced,Student,4,BMW X5,304473,TQ2 5HB,Yes,Collision,5653
+43,Female,Single,Engineer,5,Toyota Corolla,617667,OL4 1ES,No,Collision,2980
+51,Male,Single,Driver,17,Audi Q5,622650,BS2 8JD,No,Collision,5541
+63,Male,Divorced,Engineer,8,Buick Encore,610665,BD1 3EB,Yes,Liability-only,8808
+51,Female,Single,Student,8,Toyota Corolla,514745,TQ2 5HB,Yes,Collision,1829
+46,Female,Single,Student,12,Toyota Corolla,635820,CW1 2BB,Yes,Liability-only,4519
+21,Female,Widowed,Nurse,8,Buick Encore,545158,BS2 8JD,No,Collision,9008
+34,Male,Divorced,Sales Associate,19,Toyota Corolla,346945,SW1A 1AA,No,Collision,6909
+52,Female,Divorced,Lawyer,3,Audi Q5,422201,CV1 2WT,No,Liability-only,2225
+30,Male,Married,Engineer,18,Nissan Altima,542613,AL1 3NJ,Yes,Liability-only,6774
+58,Male,Single,Retired,19,Ford F-150,694283,MK9 1AN,No,Comprehensive,3844
+56,Male,Widowed,Lawyer,19,Buick Encore,264587,DN1 1QR,Yes,Comprehensive,8347
+32,Female,Single,Engineer,15,Audi Q5,383076,BS2 8JD,Yes,Liability-only,3733
+46,Female,Single,Small Business Owner,6,Toyota Camry,620897,CW1 2BB,No,Collision,5420
+46,Female,Married,IT Professional,16,Buick Encore,188886,DN1 1QR,Yes,Comprehensive,4996
+28,Female,Single,IT Professional,8,Audi Q5,501169,M1 1AA,No,Liability-only,2688
+49,Female,Widowed,Student,16,Audi Q5,639788,BD1 3EB,Yes,Liability-only,3447
+19,Male,Widowed,IT Professional,18,Tesla Model S,245149,BD1 3EB,Yes,Collision,1867
+64,Male,Married,Teacher,16,Nissan Altima,676961,SE1 8DP,Yes,Liability-only,7952
+31,Male,Single,Retired,11,Buick Encore,173466,CW1 2BB,No,Comprehensive,7084
+37,Male,Widowed,IT Professional,7,BMW X5,387626,SE1 8DP,Yes,Collision,9431
+39,Female,Single,Driver,17,Audi Q5,659966,MK9 1AN,No,Liability-only,6305
+28,Female,Single,Teacher,17,Ford F-150,546904,SW1A 1AA,Yes,Liability-only,9239
+44,Male,Single,Lawyer,12,Tesla Model S,687953,OL4 1ES,Yes,Collision,5049
+20,Female,Married,Teacher,13,Audi Q5,694929,OL4 1ES,Yes,Collision,4457
+34,Female,Single,Engineer,10,Buick Encore,575716,CW1 2BB,No,Collision,4228
+61,Male,Widowed,Student,7,Honda Accord,458094,BD1 3EB,No,Comprehensive,2248
+45,Male,Single,Nurse,14,Audi Q5,382275,CV1 2WT,No,Comprehensive,2167
+46,Female,Widowed,Nurse,1,Hyundai Elantra,552854,TQ2 5HB,No,Liability-only,4490
+38,Female,Single,Small Business Owner,17,Honda Accord,331136,E1 6AN,No,Liability-only,2897
+64,Male,Widowed,Retired,4,Audi Q5,318082,OL4 1ES,Yes,Collision,3179
+33,Male,Widowed,Engineer,5,Toyota Corolla,403301,MK9 1AN,Yes,Liability-only,6955
+54,Male,Single,Nurse,7,Audi Q5,692383,BD1 3EB,No,Liability-only,3720
+37,Female,Single,Student,10,Toyota Camry,273554,PE1 1HA,No,Collision,2943
+23,Male,Widowed,Lawyer,17,Toyota Corolla,544655,PE1 1HA,No,Comprehensive,6912
+36,Male,Divorced,Nurse,7,Buick Encore,628766,SE1 8DP,No,Comprehensive,8686
+22,Female,Married,Driver,1,Ford F-150,372310,BS2 8JD,Yes,Comprehensive,4696
+20,Female,Divorced,Teacher,7,Honda Accord,649344,DN1 1QR,No,Liability-only,3825
+18,Female,Divorced,Nurse,11,BMW X5,593333,CV1 2WT,No,Collision,9414
+55,Female,Single,Engineer,9,Tesla Model S,590187,SE1 8DP,No,Comprehensive,2746
+32,Female,Married,IT Professional,12,Ford F-150,419072,TQ2 5HB,No,Liability-only,1529
+51,Male,Divorced,IT Professional,3,Toyota Corolla,355719,PE1 1HA,Yes,Collision,7384
+52,Male,Single,Lawyer,4,Tesla Model S,266196,MK9 1AN,Yes,Comprehensive,9325
+42,Female,Divorced,IT Professional,4,Honda Accord,159404,CV1 2WT,No,Comprehensive,5486
+41,Female,Divorced,Lawyer,13,BMW X5,576855,E1 6AN,Yes,Collision,1101
+29,Female,Single,Engineer,19,Hyundai Elantra,603814,BS2 8JD,Yes,Liability-only,4723
+35,Female,Single,Retired,10,Hyundai Elantra,531965,MK9 1AN,No,Liability-only,3728
+32,Female,Single,IT Professional,5,BMW X5,414826,SE1 8DP,No,Comprehensive,3545
+61,Male,Married,Small Business Owner,7,Tesla Model S,261186,PE1 1HA,Yes,Collision,3558
+33,Male,Divorced,Student,16,Buick Encore,696120,SW1A 1AA,Yes,Liability-only,7846
+44,Male,Single,Teacher,1,Tesla Model S,691285,OL4 1ES,Yes,Collision,1948
+25,Male,Widowed,IT Professional,12,Audi Q5,446784,OL4 1ES,Yes,Collision,5936
+63,Female,Divorced,Lawyer,2,Tesla Model S,620098,SE1 8DP,Yes,Comprehensive,3053
+42,Male,Widowed,Engineer,7,Buick Encore,190491,MK9 1AN,No,Collision,1193
+34,Female,Married,IT Professional,11,Ford F-150,213043,SW1A 1AA,Yes,Collision,9933
+46,Female,Single,Nurse,13,Honda Accord,278568,MK9 1AN,Yes,Collision,8304
+25,Female,Widowed,IT Professional,2,Tesla Model S,526394,E1 6AN,Yes,Liability-only,3959
+32,Male,Married,Lawyer,7,Honda Accord,278131,E1 6AN,Yes,Comprehensive,9174
+44,Female,Single,Driver,15,Toyota Corolla,195520,CW1 2BB,Yes,Comprehensive,3923
+63,Male,Widowed,Driver,11,Hyundai Elantra,475063,SW1A 1AA,Yes,Collision,4239
+24,Male,Widowed,IT Professional,2,Hyundai Elantra,302842,BS2 8JD,Yes,Collision,4865
+20,Female,Married,Teacher,7,Buick Encore,517390,BD1 3EB,Yes,Liability-only,9229
+46,Female,Single,Engineer,4,Toyota Corolla,521831,E1 6AN,No,Comprehensive,5566
+61,Female,Single,Small Business Owner,11,Hyundai Elantra,672485,BS2 8JD,No,Liability-only,7595
+41,Male,Widowed,Small Business Owner,2,Buick Encore,674532,E1 6AN,Yes,Comprehensive,6609
+20,Female,Widowed,IT Professional,16,Tesla Model S,600953,TQ2 5HB,No,Liability-only,4213
+37,Male,Widowed,IT Professional,7,Toyota Corolla,327561,CW1 2BB,No,Collision,6108
+63,Female,Single,Driver,13,Audi Q5,440534,AL1 3NJ,No,Liability-only,2783
+32,Female,Married,Lawyer,5,Audi Q5,684535,DN1 1QR,No,Collision,9294
+42,Male,Married,Teacher,17,Audi Q5,350123,E1 6AN,No,Comprehensive,6830
+47,Male,Single,IT Professional,12,Ford F-150,577894,DN1 1QR,No,Comprehensive,6831
+31,Male,Divorced,Small Business Owner,19,Audi Q5,631018,SW1A 1AA,Yes,Collision,1041
+24,Male,Married,Engineer,7,Toyota Corolla,357358,MK9 1AN,Yes,Comprehensive,7209
+34,Male,Widowed,Retired,6,Toyota Camry,666456,MK9 1AN,No,Liability-only,2061
+61,Male,Divorced,Nurse,8,Hyundai Elantra,289148,BS2 8JD,Yes,Collision,4689
+37,Female,Divorced,IT Professional,13,Audi Q5,296123,SW1A 1AA,No,Comprehensive,8595
+53,Female,Married,Lawyer,5,Toyota Corolla,547530,CW1 2BB,Yes,Liability-only,7807
+26,Male,Divorced,IT Professional,2,Nissan Altima,643973,CW1 2BB,Yes,Liability-only,4997
+55,Female,Divorced,Lawyer,9,Tesla Model S,160236,SW1A 1AA,Yes,Comprehensive,1325
+39,Male,Married,Teacher,11,Ford F-150,185568,TQ2 5HB,No,Comprehensive,8205
+19,Female,Married,Retired,6,Honda Accord,405745,TQ2 5HB,Yes,Liability-only,2120
+41,Female,Divorced,Student,7,Buick Encore,522332,BS2 8JD,Yes,Collision,1107
+25,Male,Widowed,Engineer,7,Nissan Altima,635119,BS2 8JD,No,Comprehensive,7294
+28,Male,Single,Engineer,19,Nissan Altima,428496,OL4 1ES,No,Comprehensive,6193
+30,Male,Divorced,Lawyer,6,Ford F-150,409291,SW1A 1AA,Yes,Collision,8224
+34,Female,Divorced,Driver,11,Buick Encore,588866,AL1 3NJ,No,Collision,9526
+25,Male,Widowed,Lawyer,11,Ford F-150,553562,CW1 2BB,Yes,Comprehensive,3039
+38,Female,Divorced,Driver,7,Audi Q5,205904,OL4 1ES,Yes,Collision,1803
+35,Male,Divorced,Sales Associate,2,Honda Accord,428252,CV1 2WT,No,Liability-only,1766
+47,Female,Single,Small Business Owner,19,Buick Encore,672247,SE1 8DP,No,Liability-only,4527
+35,Female,Single,Engineer,4,Toyota Corolla,496300,SE1 8DP,Yes,Liability-only,3306
+63,Male,Single,Teacher,6,Hyundai Elantra,416320,TQ2 5HB,No,Comprehensive,2488
+64,Female,Married,Lawyer,17,Ford F-150,569136,CW1 2BB,Yes,Collision,5129
+48,Female,Married,Teacher,5,Honda Accord,335922,OL4 1ES,No,Liability-only,3373
+55,Male,Single,Retired,7,Tesla Model S,287901,AL1 3NJ,No,Collision,4309
+49,Female,Single,Teacher,9,Toyota Camry,273225,SW1A 1AA,No,Liability-only,7834
+28,Male,Married,IT Professional,1,Tesla Model S,643406,AL1 3NJ,No,Collision,6735
+62,Male,Widowed,Small Business Owner,1,Toyota Camry,371738,CV1 2WT,No,Liability-only,5834
+42,Male,Divorced,IT Professional,19,BMW X5,628076,CW1 2BB,Yes,Liability-only,7990
+50,Male,Divorced,Nurse,6,Toyota Corolla,392726,TQ2 5HB,Yes,Liability-only,4983
+55,Female,Single,Lawyer,18,BMW X5,452811,E1 6AN,Yes,Liability-only,4768
+58,Female,Widowed,Engineer,10,Ford F-150,579059,CV1 2WT,No,Liability-only,2504
+25,Female,Married,Lawyer,11,Ford F-150,573759,OL4 1ES,Yes,Liability-only,7793
+28,Male,Single,Small Business Owner,1,Toyota Camry,615996,E1 6AN,Yes,Liability-only,3450
+39,Female,Widowed,Student,1,Buick Encore,156611,DN1 1QR,No,Liability-only,3033
+41,Female,Widowed,Student,13,Honda Accord,500386,SW1A 1AA,No,Liability-only,9002
+58,Male,Widowed,Nurse,5,Audi Q5,445187,SE1 8DP,No,Collision,7019
+34,Male,Married,Small Business Owner,1,Nissan Altima,286343,TQ2 5HB,Yes,Collision,2307
+29,Female,Married,Sales Associate,3,Ford F-150,489233,M1 1AA,Yes,Comprehensive,1975
+63,Male,Divorced,Sales Associate,18,BMW X5,640092,SE1 8DP,No,Liability-only,5939
+49,Male,Divorced,Sales Associate,9,BMW X5,340191,DN1 1QR,Yes,Collision,4733
+32,Male,Widowed,Engineer,14,Tesla Model S,436608,SW1A 1AA,Yes,Collision,9551
+33,Male,Widowed,Engineer,17,Toyota Corolla,399220,MK9 1AN,No,Collision,3223
+39,Female,Married,Sales Associate,14,Toyota Camry,586056,TQ2 5HB,Yes,Collision,1484
+45,Male,Divorced,Student,4,Nissan Altima,694950,CW1 2BB,No,Collision,2428
+37,Male,Widowed,Small Business Owner,5,Toyota Camry,241788,BS2 8JD,Yes,Collision,3080
+50,Male,Divorced,Teacher,17,Ford F-150,618239,TQ2 5HB,No,Comprehensive,1695
+27,Male,Divorced,Small Business Owner,2,Hyundai Elantra,394437,SE1 8DP,Yes,Collision,7300
+57,Male,Widowed,Sales Associate,5,Nissan Altima,199966,MK9 1AN,Yes,Comprehensive,5660
+49,Male,Married,Small Business Owner,4,Tesla Model S,335846,PE1 1HA,No,Comprehensive,1201
+50,Male,Widowed,Retired,4,BMW X5,422530,DN1 1QR,No,Liability-only,9265
+19,Male,Widowed,Engineer,6,Tesla Model S,296297,SE1 8DP,No,Liability-only,9287
+50,Female,Divorced,Engineer,13,Ford F-150,559909,SE1 8DP,No,Liability-only,4477
+50,Male,Widowed,Student,5,Hyundai Elantra,484341,SE1 8DP,Yes,Collision,3202
+58,Female,Married,Teacher,7,Audi Q5,193021,SW1A 1AA,No,Liability-only,8490
+30,Male,Widowed,Sales Associate,1,Nissan Altima,531059,MK9 1AN,No,Collision,9449
+47,Male,Married,Lawyer,14,Toyota Camry,299333,MK9 1AN,No,Collision,7317
+50,Male,Married,Student,4,Nissan Altima,570594,SE1 8DP,No,Liability-only,5425
+30,Male,Divorced,Student,17,BMW X5,236755,E1 6AN,No,Liability-only,6350
+43,Female,Single,Teacher,14,Toyota Camry,216330,DN1 1QR,Yes,Comprehensive,3806
+39,Male,Single,IT Professional,16,Audi Q5,384729,E1 6AN,No,Comprehensive,8163
+56,Male,Divorced,Sales Associate,14,Audi Q5,439176,SE1 8DP,No,Collision,1185
+19,Female,Widowed,Lawyer,16,Toyota Corolla,635179,TQ2 5HB,No,Collision,9070
+55,Female,Divorced,Engineer,8,Toyota Camry,298430,BD1 3EB,Yes,Liability-only,9334
+56,Male,Married,Teacher,3,Honda Accord,507470,TQ2 5HB,Yes,Liability-only,8050
+43,Female,Single,Lawyer,19,Hyundai Elantra,498301,BD1 3EB,Yes,Comprehensive,9831
+63,Female,Divorced,Retired,1,Honda Accord,592037,E1 6AN,No,Liability-only,3074
+32,Female,Widowed,Student,2,Audi Q5,178365,TQ2 5HB,No,Collision,8654
+51,Male,Divorced,Teacher,15,Toyota Camry,425333,M1 1AA,Yes,Liability-only,1201
+59,Male,Single,Engineer,10,Toyota Corolla,619965,BS2 8JD,Yes,Comprehensive,6710
+61,Male,Divorced,Small Business Owner,18,Nissan Altima,681536,MK9 1AN,No,Collision,4165
+57,Female,Divorced,Engineer,14,Nissan Altima,154369,CV1 2WT,No,Comprehensive,3102
+28,Male,Single,Retired,17,Nissan Altima,606979,PE1 1HA,No,Comprehensive,2571
+20,Female,Married,Teacher,13,Toyota Corolla,597695,PE1 1HA,Yes,Collision,6125
+23,Male,Married,Retired,1,Ford F-150,515863,SE1 8DP,No,Comprehensive,7697
+26,Male,Single,Sales Associate,5,Toyota Camry,321955,M1 1AA,No,Liability-only,6169
+23,Female,Divorced,Sales Associate,13,Honda Accord,528824,BD1 3EB,Yes,Liability-only,3159
+26,Male,Single,Small Business Owner,14,Hyundai Elantra,419594,BD1 3EB,Yes,Comprehensive,2329
+56,Female,Married,Student,3,Audi Q5,283997,M1 1AA,Yes,Liability-only,4613
+48,Female,Widowed,IT Professional,15,Hyundai Elantra,623267,BS2 8JD,No,Comprehensive,9652
+49,Male,Divorced,Driver,19,Audi Q5,200272,E1 6AN,Yes,Liability-only,9998
+58,Female,Married,Lawyer,17,Toyota Camry,155310,BS2 8JD,Yes,Comprehensive,4699
+29,Male,Divorced,Retired,3,Toyota Camry,181817,CW1 2BB,No,Liability-only,7027
+25,Male,Single,Lawyer,16,Tesla Model S,658350,CW1 2BB,No,Collision,3273
+25,Female,Widowed,Small Business Owner,14,Honda Accord,636160,BD1 3EB,Yes,Collision,9250
+45,Male,Single,Lawyer,12,BMW X5,587744,CV1 2WT,No,Liability-only,5823
+37,Female,Widowed,Lawyer,12,Audi Q5,232641,CW1 2BB,Yes,Comprehensive,8075
+64,Male,Divorced,Engineer,11,Buick Encore,689745,SW1A 1AA,No,Liability-only,1497
+24,Male,Divorced,Teacher,17,BMW X5,192311,BD1 3EB,No,Comprehensive,7959
+28,Male,Single,Student,8,Nissan Altima,301958,SE1 8DP,Yes,Liability-only,7210
+37,Male,Widowed,Driver,17,Hyundai Elantra,620328,MK9 1AN,Yes,Liability-only,8126
+33,Male,Widowed,Teacher,11,Toyota Camry,594093,AL1 3NJ,Yes,Collision,4976
+21,Female,Divorced,Engineer,2,Buick Encore,509571,AL1 3NJ,No,Comprehensive,7420
+23,Female,Single,Lawyer,10,Audi Q5,314334,OL4 1ES,Yes,Comprehensive,2607
+39,Female,Widowed,Driver,10,Ford F-150,543238,SE1 8DP,No,Comprehensive,9912
+43,Female,Divorced,Engineer,11,Audi Q5,313394,AL1 3NJ,No,Comprehensive,2274
+20,Female,Married,Engineer,6,Hyundai Elantra,198929,BS2 8JD,Yes,Comprehensive,1690
+58,Female,Single,Engineer,4,Audi Q5,527389,OL4 1ES,No,Collision,5023
+59,Male,Married,Sales Associate,12,Audi Q5,596098,BD1 3EB,No,Liability-only,8247
+31,Male,Single,Driver,11,Toyota Corolla,484678,M1 1AA,Yes,Comprehensive,4437
+28,Female,Divorced,Engineer,13,Honda Accord,452094,TQ2 5HB,No,Comprehensive,3355
+35,Female,Widowed,IT Professional,5,BMW X5,233576,M1 1AA,No,Liability-only,6581
+29,Male,Widowed,Lawyer,6,Ford F-150,170557,BD1 3EB,Yes,Collision,1749
+40,Male,Widowed,Driver,1,Toyota Camry,696113,CV1 2WT,Yes,Collision,4051
+29,Male,Single,Sales Associate,6,Audi Q5,421142,BD1 3EB,No,Collision,8763
+30,Female,Divorced,Retired,18,Ford F-150,186080,E1 6AN,No,Liability-only,4564
+42,Female,Married,Retired,9,Tesla Model S,338869,TQ2 5HB,No,Liability-only,6758
+62,Female,Divorced,Student,15,Audi Q5,643844,M1 1AA,No,Collision,2704
+36,Male,Married,Nurse,8,Toyota Corolla,270283,AL1 3NJ,Yes,Collision,7074
+63,Male,Single,IT Professional,19,Toyota Corolla,163338,PE1 1HA,No,Liability-only,3377
+53,Female,Single,Retired,16,Buick Encore,614736,OL4 1ES,No,Collision,9019
+62,Female,Married,Sales Associate,6,Nissan Altima,328982,CV1 2WT,No,Comprehensive,6274
+25,Male,Married,Nurse,6,Hyundai Elantra,259367,DN1 1QR,No,Liability-only,4231
+46,Male,Married,Engineer,3,BMW X5,478042,TQ2 5HB,Yes,Collision,7409
+49,Male,Divorced,Engineer,10,Tesla Model S,498684,CW1 2BB,No,Comprehensive,3215
+61,Male,Married,Small Business Owner,1,Hyundai Elantra,644775,SE1 8DP,Yes,Liability-only,7288
+35,Female,Single,Lawyer,14,Hyundai Elantra,593853,CV1 2WT,Yes,Liability-only,7329
+23,Male,Single,Nurse,4,Buick Encore,550966,CW1 2BB,Yes,Comprehensive,1885
+35,Male,Widowed,Lawyer,12,Toyota Corolla,507073,CV1 2WT,Yes,Liability-only,1864
+36,Male,Married,Sales Associate,6,Honda Accord,649555,PE1 1HA,Yes,Collision,7917
+39,Female,Divorced,IT Professional,11,Ford F-150,213528,SW1A 1AA,No,Liability-only,4054
+54,Female,Divorced,Nurse,12,Toyota Camry,658907,CV1 2WT,Yes,Collision,9977
+49,Male,Divorced,Retired,10,Honda Accord,434931,AL1 3NJ,Yes,Comprehensive,9648
+58,Male,Widowed,IT Professional,18,Honda Accord,527757,BD1 3EB,Yes,Comprehensive,9536
+20,Male,Single,Small Business Owner,7,Nissan Altima,254887,E1 6AN,No,Liability-only,1553
+45,Female,Divorced,Lawyer,7,Nissan Altima,211086,OL4 1ES,Yes,Comprehensive,6116
+27,Female,Single,Lawyer,11,Honda Accord,405494,M1 1AA,No,Comprehensive,8683
+52,Female,Widowed,IT Professional,4,Toyota Corolla,658889,CW1 2BB,Yes,Liability-only,1787
+46,Male,Married,Engineer,1,Hyundai Elantra,427941,SW1A 1AA,Yes,Collision,9896
+32,Female,Married,Lawyer,13,Ford F-150,417446,OL4 1ES,No,Liability-only,5907
+50,Male,Married,Small Business Owner,18,Hyundai Elantra,606388,CV1 2WT,No,Liability-only,8190
+24,Male,Divorced,Retired,9,Hyundai Elantra,281980,BD1 3EB,No,Collision,1814
+29,Male,Married,Driver,9,Hyundai Elantra,623875,OL4 1ES,Yes,Collision,9335
+47,Female,Divorced,Retired,9,Ford F-150,293949,BD1 3EB,No,Collision,3777
+38,Male,Widowed,Retired,10,Ford F-150,426383,MK9 1AN,No,Liability-only,4766
+48,Female,Widowed,Lawyer,2,Buick Encore,177313,CW1 2BB,No,Collision,5958
+41,Female,Divorced,Teacher,6,BMW X5,192103,AL1 3NJ,No,Comprehensive,4825
+37,Male,Single,Engineer,15,Honda Accord,329480,AL1 3NJ,No,Collision,2216
+54,Male,Married,Lawyer,3,Audi Q5,626467,BD1 3EB,Yes,Comprehensive,5470
+21,Female,Married,Engineer,11,Buick Encore,238771,BD1 3EB,No,Collision,7772
+45,Male,Married,Sales Associate,6,Buick Encore,276228,E1 6AN,Yes,Comprehensive,8717
+61,Female,Divorced,Teacher,3,Toyota Camry,241665,SE1 8DP,No,Comprehensive,9747
+37,Male,Widowed,Lawyer,11,Audi Q5,420804,SW1A 1AA,No,Comprehensive,1862
+41,Female,Married,Student,15,Nissan Altima,530815,E1 6AN,Yes,Comprehensive,7217
+49,Female,Widowed,Retired,13,Toyota Camry,634091,OL4 1ES,Yes,Comprehensive,6938
+58,Female,Married,Sales Associate,10,Nissan Altima,279909,TQ2 5HB,Yes,Collision,3355
+53,Female,Married,Teacher,6,BMW X5,583039,TQ2 5HB,Yes,Liability-only,3395
+51,Male,Divorced,Lawyer,15,Tesla Model S,599058,TQ2 5HB,No,Liability-only,9667
+53,Male,Single,Small Business Owner,18,Nissan Altima,290688,BS2 8JD,Yes,Liability-only,1524
+19,Female,Divorced,IT Professional,18,Hyundai Elantra,225976,E1 6AN,No,Liability-only,1561
+32,Female,Married,IT Professional,7,Nissan Altima,329810,OL4 1ES,No,Liability-only,9167
+51,Male,Married,Engineer,15,Audi Q5,425251,TQ2 5HB,No,Comprehensive,9113
+53,Male,Single,Teacher,18,Ford F-150,429087,MK9 1AN,Yes,Collision,8416
+23,Male,Widowed,Retired,18,Audi Q5,190725,M1 1AA,Yes,Comprehensive,5664
+56,Male,Widowed,Retired,9,BMW X5,684398,MK9 1AN,Yes,Collision,2205
+59,Male,Married,Driver,2,Buick Encore,648864,OL4 1ES,No,Collision,3238
+29,Male,Widowed,IT Professional,8,Hyundai Elantra,428606,OL4 1ES,Yes,Collision,2160
+20,Female,Married,Sales Associate,2,Tesla Model S,491376,DN1 1QR,Yes,Collision,6239
+62,Male,Single,Teacher,11,BMW X5,596015,BD1 3EB,No,Liability-only,7974
+35,Male,Single,Retired,7,Buick Encore,632517,PE1 1HA,Yes,Collision,1071
+57,Female,Married,Driver,6,Toyota Corolla,539569,CV1 2WT,No,Collision,1754
+38,Male,Single,Teacher,10,Audi Q5,263394,BD1 3EB,Yes,Liability-only,8298
+32,Male,Divorced,Nurse,5,BMW X5,298940,SW1A 1AA,Yes,Comprehensive,7600
+50,Male,Divorced,Retired,11,Audi Q5,493133,BD1 3EB,Yes,Comprehensive,9152
+52,Male,Single,Nurse,1,Tesla Model S,172222,SW1A 1AA,Yes,Comprehensive,9243
+43,Male,Married,Teacher,2,Buick Encore,229794,SW1A 1AA,Yes,Comprehensive,3621
+25,Female,Married,Retired,1,Audi Q5,515130,PE1 1HA,No,Collision,4190
+53,Male,Single,Nurse,19,Ford F-150,383127,PE1 1HA,Yes,Liability-only,4948
+47,Female,Widowed,Student,2,Nissan Altima,654434,CV1 2WT,Yes,Liability-only,2287
+40,Female,Divorced,Driver,4,Toyota Camry,291295,DN1 1QR,Yes,Comprehensive,6358
+59,Male,Widowed,Sales Associate,12,Tesla Model S,329238,BS2 8JD,Yes,Liability-only,8518
+61,Female,Married,IT Professional,18,Toyota Camry,189369,DN1 1QR,Yes,Collision,8036
+31,Male,Married,Driver,1,Honda Accord,483862,SW1A 1AA,Yes,Comprehensive,5780
+31,Female,Widowed,Nurse,1,Nissan Altima,420114,M1 1AA,Yes,Collision,2772
+19,Female,Single,Retired,14,Tesla Model S,197922,E1 6AN,No,Collision,4902
+54,Male,Widowed,Student,4,BMW X5,643614,OL4 1ES,No,Collision,6726
+22,Male,Widowed,Student,5,Ford F-150,169416,SW1A 1AA,Yes,Collision,7200
+55,Male,Divorced,IT Professional,11,BMW X5,163672,E1 6AN,No,Collision,4138
+62,Male,Divorced,Student,13,Toyota Corolla,626684,DN1 1QR,Yes,Comprehensive,8213
+58,Male,Widowed,Driver,16,Honda Accord,278145,TQ2 5HB,No,Collision,3416
+64,Female,Widowed,Lawyer,13,Ford F-150,150064,AL1 3NJ,Yes,Comprehensive,8051
+31,Female,Married,Student,2,Audi Q5,218835,CW1 2BB,Yes,Liability-only,2584
+56,Female,Divorced,IT Professional,16,Audi Q5,351457,MK9 1AN,No,Collision,2046
+42,Female,Divorced,Student,6,Hyundai Elantra,397795,BS2 8JD,Yes,Collision,7984
+37,Female,Married,Student,14,Audi Q5,554271,CW1 2BB,No,Liability-only,3165
+19,Female,Single,Small Business Owner,1,Buick Encore,499738,OL4 1ES,Yes,Comprehensive,6719
+56,Female,Divorced,Driver,17,Honda Accord,345346,PE1 1HA,Yes,Collision,8222
+23,Male,Divorced,Nurse,11,Buick Encore,423010,OL4 1ES,Yes,Liability-only,2176
